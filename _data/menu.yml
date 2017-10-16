@@ -1,0 +1,18 @@
+- title: "About"
+  href: "/"
+
+- title: "CV"
+  href: "/cv/"
+
+- title: "Research"
+  href: "/research/projects/"
+  subcategories:
+    - subtitle: "Projects"
+      subhref: "/research/projects/"
+    - subtitle: "Publications"
+      subhref: "/research/publications/"
+    - subtitle: "Presentations"
+      subhref: "/research/Presentations/"
+
+- title: "Softwares"
+  href: "/softwares/"

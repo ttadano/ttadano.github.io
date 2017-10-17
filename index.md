@@ -6,16 +6,20 @@ permalink: /
 ICYS Researcher, Materials Science \\
 National Institute for Materials Science (NIMS), Japan
 
-_Curriculum Vitae_: \\
 _E-mail_: {{ site.email }} \\
 _Office_: Room 205, Main building, Sengen site, NIMS, Tsukuba, Japan
+<hr style="height:10pt; visibility:hidden;" />
 
-- - -
+<!-- - -->
+<hr style="height:0pt; width:65%"/>
 
-About Me
---------
+<hr style="height:10pt; visibility:hidden;" />
 
-Hogehogehogehoge
+## About Me
+{% include image.html url="/images/nims.jpg" width=275 align="right" %}
+
+Currently, I'm working at National Institute for Material Science (NIMS) as an ICYS researcher.
+
 
 Research Interests
 ------------------

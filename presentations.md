@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentations
-permalink: /research/presentations
+permalink: /presentations
 ---
 
 ## Invited Talks & Seminars

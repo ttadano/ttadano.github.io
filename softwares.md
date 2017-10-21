@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Softwares
-permalink: /softwares
+permalink: /softwares/
 ---
 
 ## ALAMODE

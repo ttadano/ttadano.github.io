@@ -10,7 +10,7 @@ permalink: /publications/
 
 * __T. Tadano__ and S. Tsuneyuki, “First-principles lattice dynamics method for strongly anharmonic crystals”, arXiv:1706.04744, accepted in J. Phys. Soc. Jpn. Special topics (2017) [link](https://arxiv.org/abs/1706.04744)
 
-* P. Norouzzadeh, J. S. Krasinski, and __T. Tadano__, "Thermal conductivity of type-I, type-II, and type-VIII pristine silicon clathrates: A first-principles study", Phys. Rev. B **96**, 245201 (2017). [link] (https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245201)
+* P. Norouzzadeh, J. S. Krasinski, and __T. Tadano__, "Thermal conductivity of type-I, type-II, and type-VIII pristine silicon clathrates: A first-principles study", Phys. Rev. B **96**, 245201 (2017). [link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.245201)
 
 * A. Rohskopf, H. R. Seyf, K. Gordiz, __T. Tadano__, and A. Henry, “Empirical Interatomic Potentials Optimized for Phonon Properties”, npj Computational Materials **3**, 27 (2017). [link](https://www.nature.com/articles/s41524-017-0026-y)
 

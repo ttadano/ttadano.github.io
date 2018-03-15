@@ -6,6 +6,8 @@ permalink: /presentations/
 
 ## Invited Talks & Seminars
 
+* 只野央将：「フォノンと格子熱伝導率の第一原理計算」，第38回Kyutech物性セミナー・応用物理学会特別講演会，九州工業大学戸畑キャンパス，2018年3月30日．
+
 * T. Tadano, “Microscopic origin of anomalous thermal transport in intermetallic clathrates: A first-principles study”, Seminar at Institut Lumière matière, Lyon, France, Jan. 16, 2018.
 
 * T. Tadano, “Understanding the role of quartic anharmonicity in solids using first-principles lattice dynamics”, CECAM workshop on “Anharmonicity and thermal properties of solids”, Paris, France, Jan. 10-12, 2018.

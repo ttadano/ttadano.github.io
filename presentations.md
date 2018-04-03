@@ -31,9 +31,9 @@ permalink: /presentations/
 ## Oral presentations
 ### International
 
-* T. Tadano and S. Tsuneyuki, "Quartic Anharmonicity of Rattlers and its Effects on Exceptional Thermal Transport in Intermetallic Clathrates: A First-Principles Investigation", APS March meeting 2018, Los Angeles, CA, USA, Mar. 7 2019.
+* T. Tadano and S. Tsuneyuki, "Quartic Anharmonicity of Rattlers and its Effects on Exceptional Thermal Transport in Intermetallic Clathrates: A First-Principles Investigation", APS March meeting 2018, Los Angeles, CA, USA, Mar. 7 2018.
 
-* T. Tadano, “Modeling Phonon Transport in Emergent Thermoelectric Materials with Large Atomic Displacements: A First-Principles Study”, IUMRS-ICAM2017, Tokyo, Japan, Aug. 28-Sep.1, 2017.
+* T. Tadano and S. Tsuneyuki, “Modeling Phonon Transport in Emergent Thermoelectric Materials with Large Atomic Displacements: A First-Principles Study”, IUMRS-ICAM2017, Tokyo, Japan, Aug. 28-Sep.1, 2017.
 
 * T. Tadano, “First-principles simulation of phononic thermal transport in strongly anharmonic solids”, The 9th US-Japan Joint Seminar on Nanoscale Transport Phenomena, Tokyo, Japan, Jul. 2-5, 2017.
 

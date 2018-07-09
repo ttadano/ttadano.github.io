@@ -6,6 +6,10 @@ permalink: /presentations/
 
 ## Invited Talks & Seminars
 
+* 只野央将：「第一原理からの熱伝導・相安定性予測：フォノンの精密な取り扱い」，日本金属学会 2018秋期大会，東北大学川内北キャンパス・仙台国際センター，2018年9月．
+
+* T. Tadano, “Ab initio lattice dynamics methods for modeling strong phonon anharmonicity in solids”, The International Summer workShop 2018 on First-Principles Electronic Structure Calculations (ISS2018), Kashiwanoha, Japan, Jul. 12, 2018.
+
 * 只野央将：「フォノンの非調和効果の高精度・高効率計算」，第31期CAMMフォーラム 本例会，2018年5月11日．
 
 * 只野央将：「フォノンと格子熱伝導率の第一原理計算」，第38回Kyutech物性セミナー・応用物理学会特別講演会，九州工業大学戸畑キャンパス，2018年3月30日．

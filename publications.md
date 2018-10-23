@@ -6,6 +6,10 @@ permalink: /publications/
 
 ## Papers
 
+* Y. Oba, __T. Tadano__, R. Akashi, and S. Tsuneyuki, "First-principles study of phonon anharmonicity and negative thermal expansion in ScF<sub>3</sub>" (submitted). [[arXiv](https://arxiv.org/abs/1810.08800)]
+
+* S. Ju, R. Yoshida, K. Hongo, __T. Tadano__, J. Shiomi, “Rapid hierarchical screening of ultrahigh lattice thermal conductivity crystals via machine learning and prediction” (submitted).
+
 * __T. Tadano__ and S. Tsuneyuki, "Quartic Anharmonicity of Rattlers and its Effect on Lattice Thermal Conductivity of Clathrates from First Principles", Phys. Rev. Lett. **120**, 105901 (2018). [[link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.105901)] [[arXiv](https://arxiv.org/abs/1710.00311)]
 
 * __T. Tadano__ and S. Tsuneyuki, “First-principles lattice dynamics method for strongly anharmonic crystals”, J. Phys. Soc. Jpn. **87**, 041015 (2018). [[link](http://journals.jps.jp/doi/10.7566/JPSJ.87.041015)] [[arXiv](https://arxiv.org/abs/1706.04744)]

@@ -6,7 +6,12 @@ permalink: /publications/
 
 ## Papers
 
-* Y. Oba, __T. Tadano__, R. Akashi, and S. Tsuneyuki, "First-principles study of phonon anharmonicity and negative thermal expansion in ScF<sub>3</sub>" (submitted). [[arXiv](https://arxiv.org/abs/1810.08800)]
+* __T. Tadano__, Y. Nomura, and M. Imada, "*Ab initio* derivation of effective Hamiltonian for
+  La<sub>2</sub>CuO<sub>4</sub>/La<sub>1.55</sub>Sr<sub>0.45</sub>CuO<sub>4</sub> heterostructure" (submitted). [[arXiv](http://arxiv.org/abs/1902.03743)]
+
+* __T. Tadano__ and S. Tsuneyuki, "Ab initio prediction of structural phase-transition temperature of SrTiO<sub>3</sub> from finite-temperature phonon calculation", J. Ceram. Soc. Jpn., in press (2019).
+
+* Y. Oba, __T. Tadano__, R. Akashi, and S. Tsuneyuki, "First-principles study of phonon anharmonicity and negative thermal expansion in ScF<sub>3</sub>", Phys. Rev. Materials, in press (2019). [[arXiv](https://arxiv.org/abs/1810.08800)]
 
 * S. Ju, R. Yoshida, K. Hongo, __T. Tadano__, J. Shiomi, “Rapid hierarchical screening of ultrahigh lattice thermal conductivity crystals via machine learning and prediction” (submitted).
 

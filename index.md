@@ -3,7 +3,7 @@ layout: page
 title: Terumasa Tadano (只野 央将)
 permalink: /
 ---
-ICYS Researcher, Materials Science \\
+ICYS Research Fellow, Materials Science \\
 National Institute for Materials Science (NIMS), Japan
 
 _E-mail_: <a href="mailto:{{site.email}}"> {{site.email}} </a> \\

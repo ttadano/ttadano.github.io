@@ -6,6 +6,10 @@ permalink: /presentations/
 
 ## Invited Talks & Seminars
 
+* 只野央将：「クラスレートのフォノンと熱伝導の第一原理解析」，第三回大型実験施設とスーパーコンピュータとの連携利用勉強会，SPring-8，2019年2月25日．
+
+* T. Tadano, “Efficient *ab initio* prediction of thermal properties of solids assisted by machine learning”, JST International Symposium on Materials Informatics, Tokyo, Japan, Feb. 9-11, 2019.
+
 * 只野央将：「第一原理からの熱伝導・相安定性予測：フォノンの精密な取り扱い」，日本金属学会 2018秋期大会，東北大学川内北キャンパス・仙台国際センター，2018年9月．
 
 * T. Tadano, “Ab initio lattice dynamics methods for modeling strong phonon anharmonicity in solids”, The International Summer workShop 2018 on First-Principles Electronic Structure Calculations (ISS2018), Kashiwanoha, Japan, Jul. 12, 2018.
@@ -51,6 +55,8 @@ permalink: /presentations/
 
 ### Domestic
 
+* 只野央将、常行真司：「非調和効果を考慮した第一原理フォノン計算：手法開発とSrTiO<sub>3</sub>への応用」，第38回エレクトロセラミックス研究討論会，ユニオンビル（川崎市），2018年11月15日．
+
 * 只野央将：「フォノンの非調和効果と熱伝導率の第一原理計算」，日本物理学会第73回年次大会，東京理科大学（野田市），2018年3月23日．
 
 * 只野央将、常行真司：「I型クラスレートにおけるラットリングフォノンと熱伝導率の温度・体積依存性の第一原理計算」，日本物理学会2016年秋季大会，金沢大学（金沢市），2016年9月13日．
@@ -73,6 +79,10 @@ permalink: /presentations/
 
 ## Poster presentations
 ### International
+
+* T. Tadano and W. A. Saidi, "Phonons transport and structural phase transition in CsPbBr<sub>3</sub> from ﬁrst-principles", 19th International Workshop on Computational Physics and Material Science: Total Energy and Force Methods, Trieste, Italy, Jan. 9–11, 2019.
+
+* T. Tadano and W. A. Saidi, "First-Principles Study of Phonon Anharmonicity in CsPbBr<sub>3</sub>", ASIAN-21, Daejeon, ROK, Oct. 29–31, 2018.
 
 * T. Tadano and S. Tsuneyuki, “Finite-temperature effects on phonon dispersion and thermal transport in thermoelectric materials:  A first-principles lattice dynamics study”, 15th European Conference on Thermoelectrics (ECT2017), Padua, Italy, Sep. 25—27, 2017.
 

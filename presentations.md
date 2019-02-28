@@ -10,6 +10,8 @@ permalink: /presentations/
 
 * T. Tadano, “Efficient *ab initio* prediction of thermal properties of solids assisted by machine learning”, JST International Symposium on Materials Informatics, Tokyo, Japan, Feb. 9-11, 2019.
 
+* 只野央将：「第一原理からの有限温度フォノン計算：手法開発とエネルギー材料への応用」，第83回フロンティア材料研究所講演会，東京工業大学，2018年11月26日．
+
 * 只野央将：「第一原理からの熱伝導・相安定性予測：フォノンの精密な取り扱い」，日本金属学会 2018秋期大会，東北大学川内北キャンパス・仙台国際センター，2018年9月．
 
 * T. Tadano, “Ab initio lattice dynamics methods for modeling strong phonon anharmonicity in solids”, The International Summer workShop 2018 on First-Principles Electronic Structure Calculations (ISS2018), Kashiwanoha, Japan, Jul. 12, 2018.
@@ -32,7 +34,7 @@ permalink: /presentations/
 
 * T. Tadano, “First-principles modeling of phonon transport and lattice anharmonicity in energy harvesting materials”, The 4th Workshop for Extreme Materials Science “Thermal Conductivity of Earth”, RIKEN (Wakou), Japan, Dec. 13, 2016.
 
-* T. Tadano, “Thermal conductivity and lattice anharmonicity of materials from first-principles calculations”, ASIAN-19, Hsinchu, Taiwan, Oct. 31- Nov. 2 2016. 
+* T. Tadano, “Thermal conductivity and lattice anharmonicity of materials from first-principles calculations”, ASIAN-19, Hsinchu, Taiwan, Oct. 31-Nov. 2 2016. 
 
 * 只野央将、常行真司：「第一原理フォノン伝導計算：その最前線とポスト｢京｣/マテリアルズインフォマティクス時代への展望」，第63回応用物理学会春期学術講演会 特別シンポジウム，東京工業大学（目黒区），2016年3月
 
@@ -104,9 +106,9 @@ permalink: /presentations/
 
 * T. Tadano, Y. Gohda and S. Tsuneyuki: First-principles studies on the reduced thermal conductivity of a clathrate Ba<sub>8</sub>Ga<sub>16</sub>Sn<sub>30</sub>, CCP2012, Kobe, Japan, Oct. 15, 2012.
 
-* T. Tadano, Y. Gohda and S. Tsuneyuki: Atomistic studies on the reduced ther- mal conductivity of a thermoelectric clathrate Ba<sub>8</sub>Ga<sub>16</sub>Sn<sub>30</sub>, ISC-QSD, Osaka, Japan, Oct. 12, 2012.
+* T. Tadano, Y. Gohda and S. Tsuneyuki: Atomistic studies on the reduced thermal conductivity of a thermoelectric clathrate Ba<sub>8</sub>Ga<sub>16</sub>Sn<sub>30</sub>, ISC-QSD, Osaka, Japan, Oct. 12, 2012.
 
-* T. Tadano, Y. Gohda and S. Tsuneyuki: Anharmonic force constants from first- principles molecular dynamics simulations: Applications to lattice thermal conductivity calculations, MASP2012, Chiba, Japan, Jul. 12, 2012.
+* T. Tadano, Y. Gohda and S. Tsuneyuki: Anharmonic force constants from first-principles molecular dynamics simulations: Applications to lattice thermal conductivity calculations, MASP2012, Chiba, Japan, Jul. 12, 2012.
 
 
 * T. Tadano, Y. Gohda and S. Tsuneyuki: First-principles modeling of anharmonic lattice vibrations toward lattice thermal-conductivity calculations,Psi-k Conference 2010, Berlin, Germany, Sep. 14, 2010.
@@ -122,7 +124,7 @@ permalink: /presentations/
 
 * 只野央将，常行真司：「第一原理フォノン伝導解析用ソフトウェアALAMODEの利用方法・計算事例の紹介」，日本熱電学会　計算＆データ研究会，東京大学（文京区），2016年3月11日．
 
-* 只野央将，常行真司：「非調和効果を考慮した立方晶SrTiO3のフォノン分散計算」，第8回物性科学領域横断研究会，大阪大学（豊中市），2014年11日21–22日．
+* 只野央将，常行真司：「非調和効果を考慮した立方晶SrTiO<sub>3</sub>のフォノン分散計算」，第8回物性科学領域横断研究会，大阪大学（豊中市），2014年11日21–22日．
 
 * 只野央将，常行真司：「SrTiO3におけるフォノン準粒子とその温度依存性の第一原理計算」，日本物理学会2014年秋季大会，中部大学（春日井市），2014年9月7日．
 

@@ -11,7 +11,7 @@ permalink: /publications/
 
 * __T. Tadano__ and S. Tsuneyuki, "Ab initio prediction of structural phase-transition temperature of SrTiO<sub>3</sub> from finite-temperature phonon calculation", J. Ceram. Soc. Jpn., in press (2019).
 
-* Y. Oba, __T. Tadano__, R. Akashi, and S. Tsuneyuki, "First-principles study of phonon anharmonicity and negative thermal expansion in ScF<sub>3</sub>", Phys. Rev. Materials, in press (2019). [[arXiv](https://arxiv.org/abs/1810.08800)]
+* Y. Oba, __T. Tadano__, R. Akashi, and S. Tsuneyuki, "First-principles study of phonon anharmonicity and negative thermal expansion in ScF<sub>3</sub>", Phys. Rev. Materials **3**, 033601 (2019). [[link](https://link.aps.org/doi/10.1103/PhysRevMaterials.3.033601)] [[arXiv](https://arxiv.org/abs/1810.08800)]
 
 * S. Ju, R. Yoshida, K. Hongo, __T. Tadano__, J. Shiomi, “Rapid hierarchical screening of ultrahigh lattice thermal conductivity crystals via machine learning and prediction” (submitted).
 

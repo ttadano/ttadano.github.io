@@ -43,19 +43,23 @@ permalink: /presentations/
 ## Oral presentations
 ### International
 
-* T. Tadano and S. Tsuneyuki, "Quartic Anharmonicity of Rattlers and its Effects on Exceptional Thermal Transport in Intermetallic Clathrates: A First-Principles Investigation", APS March meeting 2018, Los Angeles, CA, USA, Mar. 7 2018.
+* T. Tadano, "First-principles study on phonon anharmonicity and glasslike thermal transport in thermoelectric clathrates", ECMP2019, Higashi-Hiroshima, Japan, Mar. 19, 2019.
+
+* T. Tadano and S. Tsuneyuki, "Quartic Anharmonicity of Rattlers and its Effects on Exceptional Thermal Transport in Intermetallic Clathrates: A First-Principles Investigation", APS March meeting 2018, Los Angeles, CA, USA, Mar. 7, 2018.
 
 * T. Tadano and S. Tsuneyuki, “Modeling Phonon Transport in Emergent Thermoelectric Materials with Large Atomic Displacements: A First-Principles Study”, IUMRS-ICAM2017, Tokyo, Japan, Aug. 28-Sep.1, 2017.
 
 * T. Tadano, “First-principles simulation of phononic thermal transport in strongly anharmonic solids”, The 9th US-Japan Joint Seminar on Nanoscale Transport Phenomena, Tokyo, Japan, Jul. 2-5, 2017.
 
-* T. Tadano and S. Tsuneyuki, “First-principles analysis of anharmonic nuclear motion and thermal transport in thermoelectric materials”, ICCMSE2015, Athens, Greece, March. 20–23 2015.
+* T. Tadano and S. Tsuneyuki, “First-principles analysis of anharmonic nuclear motion and thermal transport in thermoelectric materials”, ICCMSE2015, Athens, Greece, March. 20–23, 2015.
 
-* T. Tadano, Y. Gohda and S. Tsuneyuki, "An ab initio study of the effect of host-guest interaction on thermal transport in Ba<sub>8</sub>Ga<sub>16</sub>Ge<sub>30</sub>", APS March meeting 2014, Denver, Colorado, USA, Mar. 5 2014.
+* T. Tadano, Y. Gohda and S. Tsuneyuki, "An ab initio study of the effect of host-guest interaction on thermal transport in Ba<sub>8</sub>Ga<sub>16</sub>Ge<sub>30</sub>", APS March meeting 2014, Denver, Colorado, USA, Mar. 5, 2014.
 
 * T. Tadano, Y. Gohda and S. Tsuneyuki, "Lattice thermal conductivity with first-principles anharmonic lattice model", APS March Meeting 2011, Dallas, TX, USA, Mar. 21, 2011.
 
 ### Domestic
+
+* 只野央将：「第一原理計算を用いた非調和フォノン物性の研究」，日本物理学会第74回年次大会，九州大学，2019年3月15日．
 
 * 只野央将、常行真司：「非調和効果を考慮した第一原理フォノン計算：手法開発とSrTiO<sub>3</sub>への応用」，第38回エレクトロセラミックス研究討論会，ユニオンビル（川崎市），2018年11月15日．
 

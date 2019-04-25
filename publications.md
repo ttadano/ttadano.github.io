@@ -7,7 +7,7 @@ permalink: /publications/
 ## Papers
 
 * __T. Tadano__, Y. Nomura, and M. Imada, "*Ab initio* derivation of effective Hamiltonian for
-  La<sub>2</sub>CuO<sub>4</sub>/La<sub>1.55</sub>Sr<sub>0.45</sub>CuO<sub>4</sub> heterostructure" (submitted). [[arXiv](http://arxiv.org/abs/1902.03743)]
+  La<sub>2</sub>CuO<sub>4</sub>/La<sub>1.55</sub>Sr<sub>0.45</sub>CuO<sub>4</sub> heterostructure", Phys. Rev. B **99**, 155148 (2019). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.155148)] [[arXiv](http://arxiv.org/abs/1902.03743)]
 
 * __T. Tadano__ and S. Tsuneyuki, "Ab initio prediction of structural phase-transition temperature of SrTiO<sub>3</sub> from finite-temperature phonon calculation", J. Ceram. Soc. Jpn., in press (2019).
 

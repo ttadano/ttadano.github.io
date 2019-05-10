@@ -45,6 +45,8 @@ permalink: /presentations/
 
 * T. Tadano, "First-principles study on phonon anharmonicity and glasslike thermal transport in thermoelectric clathrates", ECMP2019, Higashi-Hiroshima, Japan, Mar. 19, 2019.
 
+* T. Tadano and W. A. Saidi, "First-principles study of structural phase transition and thermal transport in halide perovskite CsPbBr<sub>3</sub>", APS March Meeting 2019, Boston, MA, USA, Mar. 7, 2019.
+
 * T. Tadano and S. Tsuneyuki, "Quartic Anharmonicity of Rattlers and its Effects on Exceptional Thermal Transport in Intermetallic Clathrates: A First-Principles Investigation", APS March meeting 2018, Los Angeles, CA, USA, Mar. 7, 2018.
 
 * T. Tadano and S. Tsuneyuki, “Modeling Phonon Transport in Emergent Thermoelectric Materials with Large Atomic Displacements: A First-Principles Study”, IUMRS-ICAM2017, Tokyo, Japan, Aug. 28-Sep.1, 2017.

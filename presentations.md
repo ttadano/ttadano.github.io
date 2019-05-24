@@ -6,6 +6,8 @@ permalink: /presentations/
 
 ## Invited Talks & Seminars
 
+* T. Tadano, "*Ab initio* phonon calculations of strongly anharmonic solids", Seminar at Samsung Advanced Institute of Technology (SAIT), Suwon-si, Korea, May 23, 2019.
+
 * 只野央将：「クラスレートのフォノンと熱伝導の第一原理解析」，第三回大型実験施設とスーパーコンピュータとの連携利用勉強会，SPring-8，2019年2月25日．
 
 * T. Tadano, “Efficient *ab initio* prediction of thermal properties of solids assisted by machine learning”, JST International Symposium on Materials Informatics, Tokyo, Japan, Feb. 9-11, 2019.
@@ -121,6 +123,8 @@ permalink: /presentations/
 
 
 ### Domestic
+
+* 只野央将，常行真司：「ALAMODEを使った格子熱伝導・有限温度フォノン計算」，大型実験施設とスーパーコンピュータとの連携利用シンポジウム，秋葉原UDX（千代田区），2019年3月15日．
 
 * 只野央将，常行真司：”First-principles modeling of strong lattice anharmonicity and thermal conductivity in thermoelectric materials”， ”TIAかけはし”ポスター交流会，エポカルつくば（つくば市），2016年8月30日．
 

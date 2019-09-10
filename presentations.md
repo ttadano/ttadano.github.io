@@ -6,6 +6,8 @@ permalink: /presentations/
 
 ## Invited Talks & Seminars
 
+* T. Tadano, "Phonon anharmonicity from first principles", 第35回 コンピュテーショナル・マテリアルズ・デザイン ワークショップ，大阪大学，2019年9月6日．
+
 * T. Tadano, "*Ab initio* phonon calculations of strongly anharmonic solids", Seminar at Samsung Advanced Institute of Technology (SAIT), Suwon-si, Korea, May 23, 2019.
 
 * 只野央将：「クラスレートのフォノンと熱伝導の第一原理解析」，第三回大型実験施設とスーパーコンピュータとの連携利用勉強会，SPring-8，2019年2月25日．
@@ -62,6 +64,8 @@ permalink: /presentations/
 * T. Tadano, Y. Gohda and S. Tsuneyuki, "Lattice thermal conductivity with first-principles anharmonic lattice model", APS March Meeting 2011, Dallas, TX, USA, Mar. 21, 2011.
 
 ### Domestic
+
+* 只野央将、末國晃一郎：「テトラへドライトにおけるホッピングフォノン伝導の第一原理解析」，日本物理学会2019年秋季大会，岐阜大学（岐阜市），2019年9月12日．
 
 * 只野央将：「第一原理計算を用いた非調和フォノン物性の研究」，日本物理学会第74回年次大会，九州大学，2019年3月15日．
 

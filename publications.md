@@ -17,7 +17,7 @@ permalink: /publications/
 
 * Y. Oba, __T. Tadano__, R. Akashi, and S. Tsuneyuki, "First-principles study of phonon anharmonicity and negative thermal expansion in ScF<sub>3</sub>", Phys. Rev. Materials **3**, 033601 (2019). [[link](https://link.aps.org/doi/10.1103/PhysRevMaterials.3.033601)] [[arXiv](https://arxiv.org/abs/1810.08800)]
 
-* S. Ju, R. Yoshida, K. Hongo, __T. Tadano__, J. Shiomi, “Rapid hierarchical screening of ultrahigh lattice thermal conductivity crystals via machine learning and prediction” (submitted).
+* S. Ju, R. Yoshida, C. Liu, K. Hongo, __T. Tadano__, J. Shiomi, “Exploring diamond-like lattice thermal conductivity crystals via feature-based transfer learning" (submitted). [[ChemRxiv](https://doi.org/10.26434/chemrxiv.9850301.v1)]
 
 * __T. Tadano__ and S. Tsuneyuki, "Quartic Anharmonicity of Rattlers and its Effect on Lattice Thermal Conductivity of Clathrates from First Principles", Phys. Rev. Lett. **120**, 105901 (2018). [[link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.105901)] [[arXiv](https://arxiv.org/abs/1710.00311)]
 

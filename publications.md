@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Papers
 
-* M. Hirayama, __T. Tadano__, Y. Nomura, and R. Arita, "Materials design of dynamically stable d<sup>9</sup> layered nickelates". [[arXiv](https://arxiv.org/abs/1910.03974)]
+* M. Hirayama, __T. Tadano__, Y. Nomura, and R. Arita, "Materials design of dynamically stable d<sup>9</sup> layered nickelates", (submitted). [[arXiv](https://arxiv.org/abs/1910.03974)]
 
 * Y. Nomura, M. Hirayama, __T. Tadano__, Y. Yoshimoto, K. Nakamura, and R. Arita, "Formation of 2D single-component correlated electron system and band engineering in the nickelate superconductor NdNiO<sub>2</sub>", (submitted). [[arXiv](https://arxiv.org/abs/1909.03942)]
 

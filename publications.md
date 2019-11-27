@@ -8,7 +8,7 @@ permalink: /publications/
 
 * M. Hirayama, __T. Tadano__, Y. Nomura, and R. Arita, "Materials design of dynamically stable d<sup>9</sup> layered nickelates", (submitted). [[arXiv](https://arxiv.org/abs/1910.03974)]
 
-* Y. Nomura, M. Hirayama, __T. Tadano__, Y. Yoshimoto, K. Nakamura, and R. Arita, "Formation of 2D single-component correlated electron system and band engineering in the nickelate superconductor NdNiO<sub>2</sub>", (submitted). [[arXiv](https://arxiv.org/abs/1909.03942)]
+* Y. Nomura, M. Hirayama, __T. Tadano__, Y. Yoshimoto, K. Nakamura, and R. Arita, "Formation of 2D single-component correlated electron system and band engineering in the nickelate superconductor NdNiO<sub>2</sub>", Phys. Rev. B **100**, 205138 (2019). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.205138)] [[arXiv](https://arxiv.org/abs/1909.03942)]
 
 * I. Errea, F. Belli, L. Monacelli, A. Sanna, T. Koretsune, __T. Tadano__, R. Bianco, M. Calandra, R. Arita, F. Mauri, and J. A. Flores-Livas, "Quantum Crystal Structure in the 250 K Superconducting Lanthanum Hydride" (submitted). [[arXiv](https://arxiv.org/abs/1907.11916)]
 

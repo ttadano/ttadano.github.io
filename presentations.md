@@ -6,9 +6,9 @@ permalink: /presentations/
 
 ## Invited Talks & Seminars
 
-* T. Tadano, TBD, “Phonon lifetime from disordered and complex systems: Measurement and Interpretation”, Lyon, France, Dec. 19–20, 2019.
+* T. Tadano, "Phonon lifetime and thermal transport in complex thermoelectric clathrates and tetrahedrites  from first principles", “Phonon lifetime from disordered and complex systems: Measurement and Interpretation”, Lyon, France, Dec. 19–20, 2019.
 
-* T. Tadano, TBD, Colloquium at TU-Darmstadt, Dec. 9, 2019.
+* T. Tadano, "Phonon anharmonicity and thermal transport in complex thermoelectric materials from first principles", Colloquium at TU-Darmstadt, Dec. 9, 2019.
 
 * T. Tadano, “Development and application of ALAMODE software”, The 5th Workshop on ab initio phonon calculations, Krakow, Poland, Dec. 3–6, 2019.
 

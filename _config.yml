@@ -13,7 +13,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Terumasa Tadano
-jobtitle: ICYS Researcher, NIMS
+jobtitle: Researcher, NIMS
 email: terumasa.tadano@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Terumasa Tadano's academic website

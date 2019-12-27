@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
+<i class="ai ai-google-scholar"> [Google scholar citations](https://scholar.google.co.jp/citations?user=vo4EZggAAAAJ&hl=en&oi=ao){:target="_blank"}</i>
+
+
 ## Papers
 
 1. K. Nakamura, Y. Yoshimoto, Y. Nomura, __T. Tadano__, M. Kawamura, T. Kosugi, K. Yoshimi, T. Misawa, and Y. Motoyama, "RESPACK: An *ab initio* tool for derivation of effective low-energy model of material", (submitted). 

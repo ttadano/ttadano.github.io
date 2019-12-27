@@ -35,6 +35,8 @@ My research is focused on development of new computational methods to predict an
 
 * Superconductors
 
+* Permanent magnets
+
 * Materials informatics
 
 * Software development

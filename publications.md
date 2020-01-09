@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Papers
 
-1. K. Nakamura, Y. Yoshimoto, Y. Nomura, __T. Tadano__, M. Kawamura, T. Kosugi, K. Yoshimi, T. Misawa, and Y. Motoyama, "RESPACK: An *ab initio* tool for derivation of effective low-energy model of material", (submitted). 
+1. K. Nakamura, Y. Yoshimoto, Y. Nomura, __T. Tadano__, M. Kawamura, T. Kosugi, K. Yoshimi, T. Misawa, and Y. Motoyama, "RESPACK: An *ab initio* tool for derivation of effective low-energy model of material", (submitted). [[arXiv](https://arxiv.org/abs/2001.02351)]
 
 1. M. Hirayama, __T. Tadano__, Y. Nomura, and R. Arita, "Materials design of dynamically stable d<sup>9</sup> layered nickelates", (submitted). [[arXiv](https://arxiv.org/abs/1910.03974)]
 

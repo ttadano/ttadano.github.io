@@ -50,6 +50,6 @@ permalink: /publications/
 
 ## Book Chapters & Reviews
 
-1. __只野央将__：「非調和フォノン物性の第一原理計算」、『応用物理』 Vol. 89, No. 1, 2020年 
+1. __只野央将__：「非調和フォノン物性の第一原理計算」、『応用物理』 Vol. 89, No. 1, 2020年. [[link](https://www.jstage.jst.go.jp/article/oubutsu/89/1/89_35/_article/-char/ja)]
 1. __只野央将__：「第一原理フォノン伝導計算」、マイクロ・ナノスケールの次世代熱制御技術　フォノンエンジニアリング（株式会社エヌ・ティー・エス）, 2017年. [[link](http://www.nts-book.co.jp/item/detail/summary/buturi/20170900_107.html)]
 1. __只野央将__、常行真司：「 第一原理からの非調和フォノンと格子熱伝導」、固体物理（アグネ技術センター）、2017年 [[link](http://www.agne.co.jp/kotaibutsuri/kota1052.htm#no621)]

@@ -8,25 +8,25 @@ permalink: /publications/
 
 <i class="ai ai-google-scholar"> [Google scholar citations](https://scholar.google.co.jp/citations?user=vo4EZggAAAAJ&hl=en&oi=ao){:target="_blank"}</i>
 
-
-## Papers
+## Preprints
 
 1. K. Nakamura, Y. Yoshimoto, Y. Nomura, __T. Tadano__, M. Kawamura, T. Kosugi, K. Yoshimi, T. Misawa, and Y. Motoyama, "RESPACK: An *ab initio* tool for derivation of effective low-energy model of material", (submitted). [[arXiv](https://arxiv.org/abs/2001.02351)]
 
-1. M. Hirayama, __T. Tadano__, Y. Nomura, and R. Arita, "Materials design of dynamically stable d<sup>9</sup> layered nickelates", Phys. Rev. B **101**, 075107 (2020). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.075107)] [[arXiv](https://arxiv.org/abs/1910.03974)]
+1. S. Ju, R. Yoshida, C. Liu, K. Hongo, __T. Tadano__, J. Shiomi, “Exploring diamond-like lattice thermal conductivity crystals via feature-based transfer learning" (submitted). [[ChemRxiv](https://doi.org/10.26434/chemrxiv.9850301.v1)]
 
-1. Y. Nomura, M. Hirayama, __T. Tadano__, Y. Yoshimoto, K. Nakamura, and R. Arita, "Formation of 2D single-component correlated electron system and band engineering in the nickelate superconductor NdNiO<sub>2</sub>", Phys. Rev. B **100**, 205138 (2019). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.205138)] [[arXiv](https://arxiv.org/abs/1909.03942)]
+## Refereed Papers
+
+1. M. Hirayama\*, __T. Tadano__\*, Y. Nomura, and R. Arita, "Materials design of dynamically stable *d*<sup>9</sup> layered nickelates", Phys. Rev. B **101**, 075107 (2020). (\* *equal contribution*). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.075107)] [[arXiv](https://arxiv.org/abs/1910.03974)]
 
 1. I. Errea, F. Belli, L. Monacelli, A. Sanna, T. Koretsune, __T. Tadano__, R. Bianco, M. Calandra, R. Arita, F. Mauri, and J. A. Flores-Livas, "Quantum Crystal Structure in the 250 K Superconducting Lanthanum Hydride", Nature **578**, 66-69 (2020). [[link](https://www.nature.com/articles/s41586-020-1955-z)] [[arXiv](https://arxiv.org/abs/1907.11916)]
 
-1. __T. Tadano__, Y. Nomura, and M. Imada, "*Ab initio* derivation of effective Hamiltonian for
-  La<sub>2</sub>CuO<sub>4</sub>/La<sub>1.55</sub>Sr<sub>0.45</sub>CuO<sub>4</sub> heterostructure", Phys. Rev. B **99**, 155148 (2019). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.155148)] [[arXiv](http://arxiv.org/abs/1902.03743)]
+1. Y. Nomura, M. Hirayama, __T. Tadano__, Y. Yoshimoto, K. Nakamura, and R. Arita, "Formation of 2D single-component correlated electron system and band engineering in the nickelate superconductor NdNiO<sub>2</sub>", Phys. Rev. B **100**, 205138 (2019). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.205138)] [[arXiv](https://arxiv.org/abs/1909.03942)]
+
+1. __T. Tadano__, Y. Nomura, and M. Imada, "*Ab initio* derivation of effective Hamiltonian for La<sub>2</sub>CuO<sub>4</sub>/La<sub>1.55</sub>Sr<sub>0.45</sub>CuO<sub>4</sub> heterostructure", Phys. Rev. B **99**, 155148 (2019). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.155148)] [[arXiv](http://arxiv.org/abs/1902.03743)]
 
 1. __T. Tadano__ and S. Tsuneyuki, "Ab initio prediction of structural phase-transition temperature of SrTiO<sub>3</sub> from finite-temperature phonon calculation", J. Ceram. Soc. Jpn. **127**, 404 (2019). [[link](https://www.jstage.jst.go.jp/article/jcersj2/127/6/127_18216/_article)]
 
 1. Y. Oba, __T. Tadano__, R. Akashi, and S. Tsuneyuki, "First-principles study of phonon anharmonicity and negative thermal expansion in ScF<sub>3</sub>", Phys. Rev. Materials **3**, 033601 (2019). [[link](https://link.aps.org/doi/10.1103/PhysRevMaterials.3.033601)] [[arXiv](https://arxiv.org/abs/1810.08800)]
-
-1. S. Ju, R. Yoshida, C. Liu, K. Hongo, __T. Tadano__, J. Shiomi, “Exploring diamond-like lattice thermal conductivity crystals via feature-based transfer learning" (submitted). [[ChemRxiv](https://doi.org/10.26434/chemrxiv.9850301.v1)]
 
 1. __T. Tadano__ and S. Tsuneyuki, "Quartic Anharmonicity of Rattlers and its Effect on Lattice Thermal Conductivity of Clathrates from First Principles", Phys. Rev. Lett. **120**, 105901 (2018). [[link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.105901)] [[arXiv](https://arxiv.org/abs/1710.00311)]
 

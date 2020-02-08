@@ -6,7 +6,9 @@ permalink: /presentations/
 
 ## Invited Talks & Seminars
 
-* T. Tadano, "Phonon lifetime and thermal transport in complex thermoelectric clathrates and tetrahedrites  from first principles", “Phonon lifetime from disordered and complex systems: Measurement and Interpretation”, Lyon, France, Dec. 19–20, 2019.
+* 只野央将：「第一原理フォノン計算の前線：非調和効果と電子格子相互作用」，第121回フロンティア材料研究所講演会，東京工業大学，2020年2月5日．
+
+* T. Tadano, "Phonon lifetime and thermal transport in complex thermoelectric clathrates and tetrahedrites from first principles", “Phonon lifetime from disordered and complex systems: Measurement and Interpretation”, Lyon, France, Dec. 19–20, 2019.
 
 * T. Tadano, "Phonon anharmonicity and thermal transport in complex thermoelectric materials from first principles", Colloquium at TU-Darmstadt, Dec. 9, 2019.
 

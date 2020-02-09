@@ -16,11 +16,11 @@ permalink: /publications/
 
 ## Refereed Papers
 
-1. M. Hirayama\*, __T. Tadano__\*, Y. Nomura, and R. Arita, "Materials design of dynamically stable *d*<sup>9</sup> layered nickelates", Phys. Rev. B **101**, 075107 (2020). (\* *equal contribution*). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.075107)] [[arXiv](https://arxiv.org/abs/1910.03974)]
+1. M. Hirayama\*, __T. Tadano__\*, Y. Nomura, and R. Arita, "Materials design of dynamically stable *d*<sup>9</sup> layered nickelates", Phys. Rev. B **101**, 075107 (2020). (\* <span style="color: red;">equal contribution</span>). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.075107)] [[arXiv](https://arxiv.org/abs/1910.03974)]
 
-1. I. Errea, F. Belli, L. Monacelli, A. Sanna, T. Koretsune, __T. Tadano__, R. Bianco, M. Calandra, R. Arita, F. Mauri, and J. A. Flores-Livas, "Quantum Crystal Structure in the 250 K Superconducting Lanthanum Hydride", Nature **578**, 66-69 (2020). [[link](https://www.nature.com/articles/s41586-020-1955-z)] [[arXiv](https://arxiv.org/abs/1907.11916)]
+1. I. Errea, F. Belli, L. Monacelli, A. Sanna, T. Koretsune, __T. Tadano__, R. Bianco, M. Calandra, R. Arita, F. Mauri, and J. A. Flores-Livas, "Quantum Crystal Structure in the 250 K Superconducting Lanthanum Hydride", Nature **578**, 66-69 (2020). [[link](https://www.nature.com/articles/s41586-020-1955-z)] [[arXiv](https://arxiv.org/abs/1907.11916)] [[<span style="color: red;">プレスリリース</span>](https://www.nims.go.jp/news/press/2020/02/202002060.html)]
 
-1. Y. Nomura, M. Hirayama, __T. Tadano__, Y. Yoshimoto, K. Nakamura, and R. Arita, "Formation of 2D single-component correlated electron system and band engineering in the nickelate superconductor NdNiO<sub>2</sub>", Phys. Rev. B **100**, 205138 (2019). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.205138)] [[arXiv](https://arxiv.org/abs/1909.03942)]
+1. Y. Nomura, M. Hirayama, __T. Tadano__, Y. Yoshimoto, K. Nakamura, and R. Arita, "Formation of 2D single-component correlated electron system and band engineering in the nickelate superconductor NdNiO<sub>2</sub>", Phys. Rev. B **100**, 205138 (2019) <span style="color: red;">Editors' Suggestion</span>. [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.205138)] [[arXiv](https://arxiv.org/abs/1909.03942)]
 
 1. __T. Tadano__, Y. Nomura, and M. Imada, "*Ab initio* derivation of effective Hamiltonian for La<sub>2</sub>CuO<sub>4</sub>/La<sub>1.55</sub>Sr<sub>0.45</sub>CuO<sub>4</sub> heterostructure", Phys. Rev. B **99**, 155148 (2019). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.155148)] [[arXiv](http://arxiv.org/abs/1902.03743)]
 

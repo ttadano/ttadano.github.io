@@ -48,12 +48,14 @@ permalink: /presentations/
 
 * T. Tadano, “Thermal conductivity and lattice anharmonicity of materials from first-principles calculations”, ASIAN-19, Hsinchu, Taiwan, Oct. 31-Nov. 2 2016. 
 
-* 只野央将、常行真司：「第一原理フォノン伝導計算：その最前線とポスト｢京｣/マテリアルズインフォマティクス時代への展望」，第63回応用物理学会春期学術講演会 特別シンポジウム，東京工業大学（目黒区），2016年3月
+* 只野央将，常行真司：「第一原理フォノン伝導計算：その最前線とポスト｢京｣/マテリアルズインフォマティクス時代への展望」，第63回応用物理学会春期学術講演会 特別シンポジウム，東京工業大学（目黒区），2016年3月
 
 *	T. Tadano and S. Tsuneyuki, “Non-equilibrium heat transfer simulation with first-principles anharmonic lattice model”, 22th GREEN Open Seminar, Tsukuba, Japan, Sep. 2012.
 
 ## Oral presentations
 ### International
+
+* M. Hirayama, T. Tadano, Y. Nomura, and R. Arita, "Nickelate superconductivity -- A systematic computational design of dynamically stable <i>d</i><sup>9</sup> nickelates", APS March Meeting 2020, Denver, Co, USA, Mar. 5, 2020. [[Slide](https://absuploads.aps.org/presentation.cfm?pid=16750)]
 
 * T. Tadano, "First-principles study on phonon anharmonicity and glasslike thermal transport in thermoelectric clathrates", ECMP2019, Higashi-Hiroshima, Japan, Mar. 19, 2019.
 
@@ -72,18 +74,19 @@ permalink: /presentations/
 * T. Tadano, Y. Gohda and S. Tsuneyuki, "Lattice thermal conductivity with first-principles anharmonic lattice model", APS March Meeting 2011, Dallas, TX, USA, Mar. 21, 2011.
 
 ### Domestic
+* 只野央将， 平山元昭， 野村悠祐， 有田亮太郎：「第一原理計算による新たな<i>d</i><sup>9</sup>層状ニッケル酸化物の理論設計」，日本物理学会第75回年次大会，名古屋大学，2020年3月16日．
 
-* 只野央将、末國晃一郎：「テトラへドライトにおけるホッピングフォノン伝導の第一原理解析」，日本物理学会2019年秋季大会，岐阜大学（岐阜市），2019年9月12日．
+* 只野央将，末國晃一郎：「テトラへドライトにおけるホッピングフォノン伝導の第一原理解析」，日本物理学会2019年秋季大会，岐阜大学（岐阜市），2019年9月12日．
 
 * 只野央将：「第一原理計算を用いた非調和フォノン物性の研究」，日本物理学会第74回年次大会，九州大学，2019年3月15日．
 
-* 只野央将、常行真司：「非調和効果を考慮した第一原理フォノン計算：手法開発とSrTiO<sub>3</sub>への応用」，第38回エレクトロセラミックス研究討論会，ユニオンビル（川崎市），2018年11月15日．
+* 只野央将，常行真司：「非調和効果を考慮した第一原理フォノン計算：手法開発とSrTiO<sub>3</sub>への応用」，第38回エレクトロセラミックス研究討論会，ユニオンビル（川崎市），2018年11月15日．
 
 * 只野央将：「フォノンの非調和効果と熱伝導率の第一原理計算」，日本物理学会第73回年次大会，東京理科大学（野田市），2018年3月23日．
 
-* 只野央将、常行真司：「I型クラスレートにおけるラットリングフォノンと熱伝導率の温度・体積依存性の第一原理計算」，日本物理学会2016年秋季大会，金沢大学（金沢市），2016年9月13日．
+* 只野央将，常行真司：「I型クラスレートにおけるラットリングフォノンと熱伝導率の温度・体積依存性の第一原理計算」，日本物理学会2016年秋季大会，金沢大学（金沢市），2016年9月13日．
 
-* 只野央将、常行真司：「自己無撞着フォノン理論に基づくSrTiO3の非調和フォノンと熱伝導の第一原理計算」，日本物理学会2015年秋季大会，関西大学（吹田市），2015年9月16日．
+* 只野央将，常行真司：「自己無撞着フォノン理論に基づくSrTiO3の非調和フォノンと熱伝導の第一原理計算」，日本物理学会2015年秋季大会，関西大学（吹田市），2015年9月16日．
 
 * 只野央将，合田義弘，常行真司：「I型クラスレート化合物におけるフォノン散乱機構の理論解析」，新学術研究「コンピューティクスによる物質デザイン：複合相関と非平衡ダイナミクス」平成25年度第1回研究会，東京大学（文京区），2013年7月8日．
 

@@ -16,7 +16,7 @@ permalink: /publications/
 
 ## Refereed Papers
 
-1. Y. Wu, W. Saidi, J. Wuenschell, __T. Tadano__, P. Ohodnicki, B. Chorpening, and Y. Duan, "Anharmonicity Explains Temperature Renormalization Effects of the Band Gap in SrTiO<sub>3</sub>". J. Phys. Chem. Lett., Accepted.
+1. Y. Wu, W. Saidi, J. Wuenschell, __T. Tadano__, P. Ohodnicki, B. Chorpening, and Y. Duan, "Anharmonicity Explains Temperature Renormalization Effects of the Band Gap in SrTiO<sub>3</sub>". J. Phys. Chem. Lett. **11**, 2518–2523 (2020). [[link](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c00183)]
 
 1. T. Tanimoto, K. Suekuni, T. Tanishita, H. Usui, __T. Tadano__, T. Kamei, H. Saito, H. Nishiate, C. H. Lee, K. Kuroki, and M. Ohtaki, "Enargite Cu<sub>3</sub>PS<sub>4</sub>: A Cu–S-Based Thermoelectric Material with a Wurtzite-Derivative Structure", Adv. Funct. Mater., Accepted.
 

@@ -18,7 +18,7 @@ permalink: /publications/
 
 1. Y. Wu, W. Saidi, J. Wuenschell, __T. Tadano__, P. Ohodnicki, B. Chorpening, and Y. Duan, "Anharmonicity Explains Temperature Renormalization Effects of the Band Gap in SrTiO<sub>3</sub>". J. Phys. Chem. Lett. **11**, 2518–2523 (2020). [[link](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c00183)]
 
-1. T. Tanimoto, K. Suekuni, T. Tanishita, H. Usui, __T. Tadano__, T. Kamei, H. Saito, H. Nishiate, C. H. Lee, K. Kuroki, and M. Ohtaki, "Enargite Cu<sub>3</sub>PS<sub>4</sub>: A Cu–S-Based Thermoelectric Material with a Wurtzite-Derivative Structure", Adv. Funct. Mater. **2020**, 2000973 (2020). [[link](https://dx.doi.org/10.1002/adfm.202000973)]
+1. T. Tanimoto, K. Suekuni, T. Tanishita, H. Usui, __T. Tadano__, T. Kamei, H. Saito, H. Nishiate, C. H. Lee, K. Kuroki, and M. Ohtaki, "Enargite Cu<sub>3</sub>PS<sub>4</sub>: A Cu–S-Based Thermoelectric Material with a Wurtzite-Derivative Structure", Adv. Funct. Mater. **30**, 2000973 (2020). [[link](https://dx.doi.org/10.1002/adfm.202000973)]
 
 1. M. Hirayama\*, __T. Tadano__\*, Y. Nomura, and R. Arita, "Materials design of dynamically stable *d*<sup>9</sup> layered nickelates", Phys. Rev. B **101**, 075107 (2020). (\* <span style="color: red;">equal contribution</span>). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.075107)] [[arXiv](https://arxiv.org/abs/1910.03974)]
 

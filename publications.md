@@ -16,6 +16,8 @@ permalink: /publications/
 
 ## Refereed Papers
 
+1. Z. Zeng, S. Li, __T. Tadano__, and Y. Chen, "Anharmonic lattice dynamics and thermal transport of monolayer InSe under equibiaxial tensile strains", Accepted in J. Phys. Condens. Matter (2020). [[link](https://iopscience.iop.org/article/10.1088/1361-648X/aba315/meta)]
+
 1. Y. Wu, W. Saidi, J. Wuenschell, __T. Tadano__, P. Ohodnicki, B. Chorpening, and Y. Duan, "Anharmonicity Explains Temperature Renormalization Effects of the Band Gap in SrTiO<sub>3</sub>". J. Phys. Chem. Lett. **11**, 2518–2523 (2020). [[link](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c00183)]
 
 1. T. Tanimoto, K. Suekuni, T. Tanishita, H. Usui, __T. Tadano__, T. Kamei, H. Saito, H. Nishiate, C. H. Lee, K. Kuroki, and M. Ohtaki, "Enargite Cu<sub>3</sub>PS<sub>4</sub>: A Cu–S-Based Thermoelectric Material with a Wurtzite-Derivative Structure", Adv. Funct. Mater. **30**, 2000973 (2020). [[link](https://dx.doi.org/10.1002/adfm.202000973)]

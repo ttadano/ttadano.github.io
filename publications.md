@@ -7,6 +7,8 @@ permalink: /publications/
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
 <i class="ai ai-google-scholar"> [Google scholar citations](https://scholar.google.co.jp/citations?user=vo4EZggAAAAJ&hl=en&oi=ao){:target="_blank"}</i>
+<i class="ai ai-publons"> [Publons](https://publons.com/researcher/2147961/terumasa-tadano/){:target="_blank"}</i>
+
 
 ## Preprints
 
@@ -16,7 +18,7 @@ permalink: /publications/
 
 ## Refereed Papers
 
-1. Z. Zeng, S. Li, __T. Tadano__, and Y. Chen, "Anharmonic lattice dynamics and thermal transport of monolayer InSe under equibiaxial tensile strains", Accepted in J. Phys. Condens. Matter (2020). [[link](https://iopscience.iop.org/article/10.1088/1361-648X/aba315/meta)]
+1. Z. Zeng, S. Li, __T. Tadano__, and Y. Chen, "Anharmonic lattice dynamics and thermal transport of monolayer InSe under equibiaxial tensile strains", J. Phys.: Condens. Matter **32**, 475702 (2020). [[link](https://iopscience.iop.org/article/10.1088/1361-648X/aba315/meta)]
 
 1. Y. Wu, W. Saidi, J. Wuenschell, __T. Tadano__, P. Ohodnicki, B. Chorpening, and Y. Duan, "Anharmonicity Explains Temperature Renormalization Effects of the Band Gap in SrTiO<sub>3</sub>". J. Phys. Chem. Lett. **11**, 2518–2523 (2020). [[link](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c00183)]
 
@@ -55,8 +57,8 @@ permalink: /publications/
 1. __T. Tadano__ and S. Tsuneyuki, “First-principles analysis of anharmonic nuclear motion and thermal transport in thermoelectric materials”, AIP Conf. Proc. **1702**, 090063 (2015). [[link](http://aip.scitation.org/doi/abs/10.1063/1.4938871)]
 
 ## Book Chapters & Reviews
-
-1. __只野央将__：「非調和効果を取り込める新しいフォノン計算ツールの開発」、『シミュレーション』 Vol. 39, No. 1, 2020年. 
-1. __只野央将__：「非調和フォノン物性の第一原理計算」、『応用物理』 Vol. 89, No. 1, 2020年. [[link](https://www.jstage.jst.go.jp/article/oubutsu/89/1/89_35/_article/-char/ja)]
-1. __只野央将__：「第一原理フォノン伝導計算」、マイクロ・ナノスケールの次世代熱制御技術　フォノンエンジニアリング（株式会社エヌ・ティー・エス）, 2017年. [[link](http://www.nts-book.co.jp/item/detail/summary/buturi/20170900_107.html)]
-1. __只野央将__、常行真司：「 第一原理からの非調和フォノンと格子熱伝導」、固体物理（アグネ技術センター）、2017年 [[link](http://www.agne.co.jp/kotaibutsuri/kota1052.htm#no621)]
+1. __只野央将__，是常隆，有田亮太郎：「原子核の量子ゆらぎが支える高圧下LaH10の高温超伝導」，『固体物理』 Vol. **55**，425-434 (2020)． [[link](https://www.agne.co.jp/kotaibutsuri/kota1055.htm#no655)]
+1. __只野央将__：「非調和効果を取り込める新しいフォノン計算ツールの開発」，『シミュレーション』 Vol. **39**，No. 1，2020年．[[link](https://www.jsst.jp/journal/contents/vol39.html)]
+1. __只野央将__：「非調和フォノン物性の第一原理計算」，『応用物理』 Vol. 89, No. 1, 2020年. [[link](https://www.jstage.jst.go.jp/article/oubutsu/89/1/89_35/_article/-char/ja)]
+1. __只野央将__：「第一原理フォノン伝導計算」，マイクロ・ナノスケールの次世代熱制御技術　フォノンエンジニアリング（株式会社エヌ・ティー・エス），2017年． [[link](http://www.nts-book.co.jp/item/detail/summary/buturi/20170900_107.html)]
+1. __只野央将__，常行真司：「第一原理からの非調和フォノンと格子熱伝導」，『固体物理』 Vol. **52**，637-646 (2017)． [[link](http://www.agne.co.jp/kotaibutsuri/kota1052.htm#no621)]

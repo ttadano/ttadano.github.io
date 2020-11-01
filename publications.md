@@ -57,6 +57,7 @@ permalink: /publications/
 1. __T. Tadano__ and S. Tsuneyuki, “First-principles analysis of anharmonic nuclear motion and thermal transport in thermoelectric materials”, AIP Conf. Proc. **1702**, 090063 (2015). [[link](http://aip.scitation.org/doi/abs/10.1063/1.4938871)]
 
 ## Book Chapters & Reviews
+1. 野村悠祐，平山元昭，北谷基治，__只野央将__，有田亮太郎：「ニッケル酸化物新超伝導体の発見：現状と展望」，『固体物理』 Vol. **55**，491-503 (2020)． [[link](https://www.agne.co.jp/kotaibutsuri/kota1055.htm#no656)]
 1. __只野央将__，是常隆，有田亮太郎：「原子核の量子ゆらぎが支える高圧下LaH10の高温超伝導」，『固体物理』 Vol. **55**，425-434 (2020)． [[link](https://www.agne.co.jp/kotaibutsuri/kota1055.htm#no655)]
 1. __只野央将__：「非調和効果を取り込める新しいフォノン計算ツールの開発」，『シミュレーション』 Vol. **39**，No. 1，2020年．[[link](https://www.jsst.jp/journal/contents/vol39.html)]
 1. __只野央将__：「非調和フォノン物性の第一原理計算」，『応用物理』 Vol. 89, No. 1, 2020年. [[link](https://www.jstage.jst.go.jp/article/oubutsu/89/1/89_35/_article/-char/ja)]

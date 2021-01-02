@@ -12,11 +12,12 @@ permalink: /publications/
 
 ## Preprints
 
-1. K. Nakamura, Y. Yoshimoto, Y. Nomura, __T. Tadano__, M. Kawamura, T. Kosugi, K. Yoshimi, T. Misawa, and Y. Motoyama, "RESPACK: An *ab initio* tool for derivation of effective low-energy model of material", (submitted). [[arXiv](https://arxiv.org/abs/2001.02351)]
-
 1. S. Ju, R. Yoshida, C. Liu, K. Hongo, __T. Tadano__, J. Shiomi, “Exploring diamond-like lattice thermal conductivity crystals via feature-based transfer learning" (submitted). [[ChemRxiv](https://doi.org/10.26434/chemrxiv.9850301.v1)]
 
 ## Refereed Papers
+
+1. K. Nakamura, Y. Yoshimoto, Y. Nomura, __T. Tadano__, M. Kawamura, T. Kosugi, K. Yoshimi, T. Misawa, and Y. Motoyama, "RESPACK: An *ab initio* tool for derivation of effective low-energy model of material", Comput. Phys. Commun. **261**, 107781 (2021). [[link](https://www.sciencedirect.com/science/article/pii/S001046552030391X)] [[arXiv](https://arxiv.org/abs/2001.02351)]
+
 
 1. Z. Zeng, S. Li, __T. Tadano__, and Y. Chen, "Anharmonic lattice dynamics and thermal transport of monolayer InSe under equibiaxial tensile strains", J. Phys.: Condens. Matter **32**, 475702 (2020). [[link](https://iopscience.iop.org/article/10.1088/1361-648X/aba315/meta)]
 

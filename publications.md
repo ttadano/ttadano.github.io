@@ -16,6 +16,8 @@ permalink: /publications/
 
 ## Refereed Papers
 
+1. S. Kawano, __T. Tadano__, and S. Iikubo, "Effect of Halogen Ions on the Low Thermal Conductivity of Cesium Halide Perovskite", J. Phys. Chem. C **125**, 91-97 (2021). [[link](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c08324)]
+
 1. K. Nakamura, Y. Yoshimoto, Y. Nomura, __T. Tadano__, M. Kawamura, T. Kosugi, K. Yoshimi, T. Misawa, and Y. Motoyama, "RESPACK: An *ab initio* tool for derivation of effective low-energy model of material", Comput. Phys. Commun. **261**, 107781 (2021). [[link](https://www.sciencedirect.com/science/article/pii/S001046552030391X)] [[arXiv](https://arxiv.org/abs/2001.02351)]
 
 

@@ -12,6 +12,8 @@ permalink: /publications/
 
 ## Preprints
 
+1. T. Ishikawa, T. Fukazawa, G. Xing, __T. Tadano__, Takashi Miyake, "Evolutionary search for cobalt-rich compounds in the yttrium-cobalt-boron system" (submitted). [[arXiv](http://arxiv.org/abs/2102.02097)]
+
 1. S. Ju, R. Yoshida, C. Liu, K. Hongo, __T. Tadano__, J. Shiomi, “Exploring diamond-like lattice thermal conductivity crystals via feature-based transfer learning" (submitted). [[ChemRxiv](https://doi.org/10.26434/chemrxiv.9850301.v1)]
 
 ## Refereed Papers

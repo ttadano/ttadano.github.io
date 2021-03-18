@@ -12,6 +12,8 @@ permalink: /publications/
 
 ## Preprints
 
+1. M. Charlebois, J. Morée, K. Nakamura, Y. Nomura, __T. Tadano__, Y. Yoshimoto, Y. Yamaji, T. Hasegawa, K. Matsuhira, M. Imada, "Ab initio Derivation of Low-Energy Hamiltonians for Systems with Strong Spin-Orbit Interaction and Its Application to Ca<sub>5</sub>Ir<sub>3</sub>O<sub>12</sub>" (submitted). [[arXiv](https://arxiv.org/abs/2103.09539)]
+
 1. __T. Tadano__ and W. A. Saidi, "First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite" (submitted). [[arXiv](https://arxiv.org/abs/2103.00745)]
 
 1. M. Ohnishi, __T. Tadano__, S. Tsuneyuki, and J. Shiomi, "Strong Phonon Anharmonicity of Clathrate Compound at High Temperature" (submitted). [[arXiv](https://arxiv.org/abs/2103.00413)]

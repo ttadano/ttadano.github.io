@@ -11,6 +11,7 @@ permalink: /publications/
 
 
 ## Preprints
+1. K. Ishioka, __T. Tadano__, M. Yanagida, Y. Shirai, K. Miyano, "Strongly Anharmonic Organic Cation Vibrations in Hybrid Lead Halide Perovskite CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> on Electronic Ground State" (submitted). [[arXiv](https://arxiv.org/abs/1911.10711)]
 
 1. M. Charlebois, J. Morée, K. Nakamura, Y. Nomura, __T. Tadano__, Y. Yoshimoto, Y. Yamaji, T. Hasegawa, K. Matsuhira, M. Imada, "Ab initio Derivation of Low-Energy Hamiltonians for Systems with Strong Spin-Orbit Interaction and Its Application to Ca<sub>5</sub>Ir<sub>3</sub>O<sub>12</sub>" (submitted). [[arXiv](https://arxiv.org/abs/2103.09539)]
 
@@ -20,19 +21,18 @@ permalink: /publications/
 
 1. T. Ishikawa, T. Fukazawa, G. Xing, __T. Tadano__, and T. Miyake, "Evolutionary search for cobalt-rich compounds in the yttrium-cobalt-boron system" (submitted). [[arXiv](http://arxiv.org/abs/2102.02097)]
 
-1. G. Xing, T. Ishikawa, Y. Miura, T. Miyake, and __T. Tadano__, "Lattice dynamics effects on finite-temperature stability of *R<sub>1−x</sub>*Fe*<sub>x</sub>* (*R =* Y, Ce, Nd, Sm, and Dy) alloys from first principles" (submitted). [[arXiv](https://arxiv.org/abs/2102.02590)]
 
 1. S. Ju, R. Yoshida, C. Liu, K. Hongo, __T. Tadano__, J. Shiomi, “Exploring diamond-like lattice thermal conductivity crystals via feature-based transfer learning" (submitted). [[ChemRxiv](https://doi.org/10.26434/chemrxiv.9850301.v1)]
 
 ## Refereed Papers
 
+1. G. Xing, T. Ishikawa, Y. Miura, T. Miyake, and __T. Tadano__, "Lattice dynamics effects on finite-temperature stability of *R<sub>1−x</sub>*Fe*<sub>x</sub>* (*R =* Y, Ce, Nd, Sm, and Dy) alloys from first principles", J. Alloys Compd. **874**, 159754 (2021). [[link](https://www.sciencedirect.com/science/article/pii/S0925838821011634)] [[arXiv](https://arxiv.org/abs/2102.02590)]
+
 1. T. Katase, Y. Takahashi, X. He, __T. Tadano__, K. Ide, H. Yoshida, S. Kawachi, J. Yamaura, M. Sasase, H. Hiramatsu, H. Hosono, and T. Kamiya, "Reversible 3D-2D Structural Phase Transition and Giant Electronic Modulation in Nonequilibrium Alloy Semiconductor, Lead-Tin-Selenide", Sci. Adv. **7**, eabf2725 (2021). [[link](https://advances.sciencemag.org/content/7/12/eabf2725)]
   
-
 1. S. Kawano, __T. Tadano__, and S. Iikubo, "Effect of Halogen Ions on the Low Thermal Conductivity of Cesium Halide Perovskite", J. Phys. Chem. C **125**, 91-97 (2021). [[link](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c08324)]
 
 1. K. Nakamura, Y. Yoshimoto, Y. Nomura, __T. Tadano__, M. Kawamura, T. Kosugi, K. Yoshimi, T. Misawa, and Y. Motoyama, "RESPACK: An *ab initio* tool for derivation of effective low-energy model of material", Comput. Phys. Commun. **261**, 107781 (2021). [[link](https://www.sciencedirect.com/science/article/pii/S001046552030391X)] [[arXiv](https://arxiv.org/abs/2001.02351)]
-
 
 1. Z. Zeng, S. Li, __T. Tadano__, and Y. Chen, "Anharmonic lattice dynamics and thermal transport of monolayer InSe under equibiaxial tensile strains", J. Phys.: Condens. Matter **32**, 475702 (2020). [[link](https://iopscience.iop.org/article/10.1088/1361-648X/aba315/meta)]
 

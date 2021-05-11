@@ -22,9 +22,9 @@ permalink: /publications/
 1. T. Ishikawa, T. Fukazawa, G. Xing, __T. Tadano__, and T. Miyake, "Evolutionary search for cobalt-rich compounds in the yttrium-cobalt-boron system" (submitted). [[arXiv](http://arxiv.org/abs/2102.02097)]
 
 
-1. S. Ju, R. Yoshida, C. Liu, K. Hongo, __T. Tadano__, J. Shiomi, “Exploring diamond-like lattice thermal conductivity crystals via feature-based transfer learning" (submitted). [[ChemRxiv](https://doi.org/10.26434/chemrxiv.9850301.v1)]
-
 ## Refereed Papers
+
+1. S. Ju, R. Yoshida, C. Liu, K. Hongo, __T. Tadano__, J. Shiomi, “Exploring diamondlike lattice thermal conductivity crystals via feature-based transfer learning", Phys. Rev. Materials **5**, 053801 (2021). [[link](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.053801)] [[ChemRxiv](https://doi.org/10.26434/chemrxiv.9850301.v1)]
 
 1. G. Xing, T. Ishikawa, Y. Miura, T. Miyake, and __T. Tadano__, "Lattice dynamics effects on finite-temperature stability of *R<sub>1−x</sub>*Fe*<sub>x</sub>* (*R =* Y, Ce, Nd, Sm, and Dy) alloys from first principles", J. Alloys Compd. **874**, 159754 (2021). [[link](https://www.sciencedirect.com/science/article/pii/S0925838821011634)] [[arXiv](https://arxiv.org/abs/2102.02590)]
 

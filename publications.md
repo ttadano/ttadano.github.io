@@ -19,10 +19,10 @@ permalink: /publications/
 
 1. M. Ohnishi, __T. Tadano__, S. Tsuneyuki, and J. Shiomi, "Strong Phonon Anharmonicity of Clathrate Compound at High Temperature" (submitted). [[arXiv](https://arxiv.org/abs/2103.00413)]
 
-1. T. Ishikawa, T. Fukazawa, G. Xing, __T. Tadano__, and T. Miyake, "Evolutionary search for cobalt-rich compounds in the yttrium-cobalt-boron system" (submitted). [[arXiv](http://arxiv.org/abs/2102.02097)]
-
 
 ## Refereed Papers
+
+1. T. Ishikawa, T. Fukazawa, G. Xing, __T. Tadano__, and T. Miyake, "Evolutionary search for cobalt-rich compounds in the yttrium-cobalt-boron system", Phys. Rev. Materials **5**, 054408 (2021). [[link](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.054408)] [[arXiv](http://arxiv.org/abs/2102.02097)]
 
 1. S. Ju, R. Yoshida, C. Liu, K. Hongo, __T. Tadano__, J. Shiomi, “Exploring diamondlike lattice thermal conductivity crystals via feature-based transfer learning", Phys. Rev. Materials **5**, 053801 (2021). [[link](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.053801)] [[ChemRxiv](https://doi.org/10.26434/chemrxiv.9850301.v1)]
 

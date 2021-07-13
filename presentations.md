@@ -6,6 +6,8 @@ permalink: /presentations/
 
 ## Invited Talks & Seminars
 
+* T. Tadano, "Ab initio phonon calculation at finite temperature toward computational exploration of metastable phases", The Twelfth International Conference on the Science and Technology for Advanced Ceramics (STAC12), Online, Jul. 6–8, 2021.
+
 * 只野央将：「高圧下ランタン水素化物LaH<sub>x</sub>における原子核の量子ゆらぎと超伝導」，京大基研研究会「高温超伝導・非従来型超伝導研究の最前線:多様性と普遍性」，湯川記念館パナソニック国際交流ホール+オンライン，2020年10月26日．
 
 * 只野央将：「第一原理フォノン計算の前線：非調和効果と電子格子相互作用」，第121回フロンティア材料研究所講演会，東京工業大学，2020年2月5日．

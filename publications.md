@@ -11,6 +11,9 @@ permalink: /publications/
 
 
 ## Preprints
+
+1. K. Masuda, __T. Tadano__, and Y. Miura, "Crucial Role of Interfacial *sd* Exchange Interaction on the Temperature Dependence of Tunnel Magnetoresistance" (submitted). [[arXiv](https://arxiv.org/abs/2108.01226)]
+
 1. K. Ishioka, __T. Tadano__, M. Yanagida, Y. Shirai, K. Miyano, "Strongly Anharmonic Organic Cation Vibrations in Hybrid Lead Halide Perovskite CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> on Electronic Ground State" (submitted). [[arXiv](https://arxiv.org/abs/1911.10711)]
 
 1. M. Charlebois, J. Morée, K. Nakamura, Y. Nomura, __T. Tadano__, Y. Yoshimoto, Y. Yamaji, T. Hasegawa, K. Matsuhira, M. Imada, "Ab initio Derivation of Low-Energy Hamiltonians for Systems with Strong Spin-Orbit Interaction and Its Application to Ca<sub>5</sub>Ir<sub>3</sub>O<sub>12</sub>" (submitted). [[arXiv](https://arxiv.org/abs/2103.09539)]

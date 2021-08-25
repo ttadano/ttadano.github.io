@@ -16,14 +16,18 @@ permalink: /publications/
 
 1. K. Ishioka, __T. Tadano__, M. Yanagida, Y. Shirai, K. Miyano, "Strongly Anharmonic Organic Cation Vibrations in Hybrid Lead Halide Perovskite CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> on Electronic Ground State" (submitted). [[arXiv](https://arxiv.org/abs/1911.10711)]
 
-1. M. Charlebois, J. Morée, K. Nakamura, Y. Nomura, __T. Tadano__, Y. Yoshimoto, Y. Yamaji, T. Hasegawa, K. Matsuhira, M. Imada, "Ab initio Derivation of Low-Energy Hamiltonians for Systems with Strong Spin-Orbit Interaction and Its Application to Ca<sub>5</sub>Ir<sub>3</sub>O<sub>12</sub>" (submitted). [[arXiv](https://arxiv.org/abs/2103.09539)]
-
 1. __T. Tadano__ and W. A. Saidi, "First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite" (submitted). [[arXiv](https://arxiv.org/abs/2103.00745)]
 
 1. M. Ohnishi, __T. Tadano__, S. Tsuneyuki, and J. Shiomi, "Strong Phonon Anharmonicity of Clathrate Compound at High Temperature" (submitted). [[arXiv](https://arxiv.org/abs/2103.00413)]
 
 
 ## Refereed Papers
+
+1. T. Katase, X. He, __T. Tadano__, J. M. Tomczak, T. Onozato, K. Ide, B. Feng, T. Tohei, H. Hiramatsu, H. Ohta, Y. Ikuhara, H. Hosono, and T. Kamiya, "Breaking of thermopower – conductivity trade-off in LaTiO<sub>3</sub> film around Mott insulator to metal transition", Adv. Sci., in press (2021).
+
+1. M. Charlebois, J. Morée, K. Nakamura, Y. Nomura, __T. Tadano__, Y. Yoshimoto, Y. Yamaji, T. Hasegawa, K. Matsuhira, M. Imada, "Ab initio Derivation of Low-Energy Hamiltonians for Systems with Strong Spin-Orbit Interaction and Its Application to Ca<sub>5</sub>Ir<sub>3</sub>O<sub>12</sub>", Phys. Rev. B, in press (2021). [[arXiv](https://arxiv.org/abs/2103.09539)]
+
+1. K. Cho, T. Yamada, H. Tahara, __T. Tadano__, H. Suzuura, M. Saruyama, R. Sato, T. Teranishi, and Y. Kanemitsu, "Luminescence Fine Structures in Single Lead Halide Perovskite Nanocrystals: Size Dependence of the Exciton–Phonon Coupling", Nano Lett., in press (2021). [[link](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c02122)]
 
 1. T. Ishikawa, T. Fukazawa, G. Xing, __T. Tadano__, and T. Miyake, "Evolutionary search for cobalt-rich compounds in the yttrium-cobalt-boron system", Phys. Rev. Materials **5**, 054408 (2021). [[link](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.054408)] [[arXiv](http://arxiv.org/abs/2102.02097)]
 
@@ -76,6 +80,8 @@ permalink: /publications/
 1. __T. Tadano__ and S. Tsuneyuki, “First-principles analysis of anharmonic nuclear motion and thermal transport in thermoelectric materials”, AIP Conf. Proc. **1702**, 090063 (2015). [[link](http://aip.scitation.org/doi/abs/10.1063/1.4938871)]
 
 ## Book Chapters & Reviews
+
+1. __只野央将__：「格子熱伝導の基礎理論と第一原理シミュレーション」，マイクロ・ナノ熱工学の進展（株式会社　エヌ・ティー・エス）， 2021年． [[link](http://www.nts-book.co.jp/item/detail/summary/nano/20210401_46.html)]
 1. 野村悠祐，平山元昭，北谷基治，__只野央将__，有田亮太郎：「ニッケル酸化物新超伝導体の発見：現状と展望」，『固体物理』 Vol. **55**，491-503 (2020)． [[link](https://www.agne.co.jp/kotaibutsuri/kota1055.htm#no656)]
 1. __只野央将__，是常隆，有田亮太郎：「原子核の量子ゆらぎが支える高圧下LaH10の高温超伝導」，『固体物理』 Vol. **55**，425-434 (2020)． [[link](https://www.agne.co.jp/kotaibutsuri/kota1055.htm#no655)]
 1. __只野央将__：「非調和効果を取り込める新しいフォノン計算ツールの開発」，『シミュレーション』 Vol. **39**，No. 1，2020年．[[link](https://www.jsst.jp/journal/contents/vol39.html)]

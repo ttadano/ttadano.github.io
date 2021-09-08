@@ -27,7 +27,7 @@ permalink: /publications/
 
 1. M. Charlebois, J. Morée, K. Nakamura, Y. Nomura, __T. Tadano__, Y. Yoshimoto, Y. Yamaji, T. Hasegawa, K. Matsuhira, M. Imada, "Ab initio Derivation of Low-Energy Hamiltonians for Systems with Strong Spin-Orbit Interaction and Its Application to Ca<sub>5</sub>Ir<sub>3</sub>O<sub>12</sub>", Phys. Rev. B **104**, 075153 (2021). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075153)] [[arXiv](https://arxiv.org/abs/2103.09539)]
 
-1. K. Cho, T. Yamada, H. Tahara, __T. Tadano__, H. Suzuura, M. Saruyama, R. Sato, T. Teranishi, and Y. Kanemitsu, "Luminescence Fine Structures in Single Lead Halide Perovskite Nanocrystals: Size Dependence of the Exciton–Phonon Coupling", Nano Lett., in press (2021). [[link](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c02122)]
+1. K. Cho, T. Yamada, H. Tahara, __T. Tadano__, H. Suzuura, M. Saruyama, R. Sato, T. Teranishi, and Y. Kanemitsu, "Luminescence Fine Structures in Single Lead Halide Perovskite Nanocrystals: Size Dependence of the Exciton–Phonon Coupling", Nano Lett. **21**, 7206-7212 (2021). [[link](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c02122)]
 
 1. T. Ishikawa, T. Fukazawa, G. Xing, __T. Tadano__, and T. Miyake, "Evolutionary search for cobalt-rich compounds in the yttrium-cobalt-boron system", Phys. Rev. Materials **5**, 054408 (2021). [[link](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.054408)] [[arXiv](http://arxiv.org/abs/2102.02097)]
 

@@ -23,7 +23,7 @@ permalink: /publications/
 
 ## Refereed Papers
 
-1. T. Katase, X. He, __T. Tadano__, J. M. Tomczak, T. Onozato, K. Ide, B. Feng, T. Tohei, H. Hiramatsu, H. Ohta, Y. Ikuhara, H. Hosono, and T. Kamiya, "Breaking of thermopower – conductivity trade-off in LaTiO<sub>3</sub> film around Mott insulator to metal transition", Adv. Sci., in press (2021).
+1. T. Katase, X. He, __T. Tadano__, J. M. Tomczak, T. Onozato, K. Ide, B. Feng, T. Tohei, H. Hiramatsu, H. Ohta, Y. Ikuhara, H. Hosono, and T. Kamiya, "Breaking of thermopower – conductivity trade-off in LaTiO<sub>3</sub> film around Mott insulator to metal transition", in press (2021).
 
 1. M. Charlebois, J. Morée, K. Nakamura, Y. Nomura, __T. Tadano__, Y. Yoshimoto, Y. Yamaji, T. Hasegawa, K. Matsuhira, M. Imada, "Ab initio Derivation of Low-Energy Hamiltonians for Systems with Strong Spin-Orbit Interaction and Its Application to Ca<sub>5</sub>Ir<sub>3</sub>O<sub>12</sub>", Phys. Rev. B **104**, 075153 (2021). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075153)] [[arXiv](https://arxiv.org/abs/2103.09539)]
 

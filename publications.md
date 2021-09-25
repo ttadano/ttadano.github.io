@@ -12,6 +12,8 @@ permalink: /publications/
 
 ## Preprints
 
+1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Anharmonic Grüneisen theory based on self-consistent phonon theory: Impact of phonon-phonon interaction neglected in the quasiharmonic theory". [[arXiv](https://arxiv.org/abs/2109.10046)]
+
 1. K. Masuda, __T. Tadano__, and Y. Miura, "Crucial Role of Interfacial *sd* Exchange Interaction on the Temperature Dependence of Tunnel Magnetoresistance" (submitted). [[arXiv](https://arxiv.org/abs/2108.01226)]
 
 1. K. Ishioka, __T. Tadano__, M. Yanagida, Y. Shirai, K. Miyano, "Strongly Anharmonic Organic Cation Vibrations in Hybrid Lead Halide Perovskite CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> on Electronic Ground State" (submitted). [[arXiv](https://arxiv.org/abs/1911.10711)]

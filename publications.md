@@ -12,11 +12,9 @@ permalink: /publications/
 
 ## Preprints
 
-1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Anharmonic Grüneisen theory based on self-consistent phonon theory: Impact of phonon-phonon interaction neglected in the quasiharmonic theory". [[arXiv](https://arxiv.org/abs/2109.10046)]
+1. P. Torres, S. Wu, S. Ju, C. Liu, __T. Tadano__, R. Yoshida, and J. Shiomi, "Descriptors of intrinsic hydrodynamic thermal transport: screening a phonon database in a machine learning approach". [[arXiv](https://arxiv.org/abs/2110.12887)]
 
-1. K. Masuda, __T. Tadano__, and Y. Miura, "Crucial Role of Interfacial *sd* Exchange Interaction on the Temperature Dependence of Tunnel Magnetoresistance" (submitted). [[arXiv](https://arxiv.org/abs/2108.01226)]
-
-1. K. Ishioka, __T. Tadano__, M. Yanagida, Y. Shirai, K. Miyano, "Strongly Anharmonic Organic Cation Vibrations in Hybrid Lead Halide Perovskite CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> on Electronic Ground State" (submitted). [[arXiv](https://arxiv.org/abs/1911.10711)]
+1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Anharmonic Grüneisen theory based on self-consistent phonon theory: Impact of phonon-phonon interaction neglected in the quasiharmonic theory" (submitted). [[arXiv](https://arxiv.org/abs/2109.10046)]
 
 1. __T. Tadano__ and W. A. Saidi, "First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite" (submitted). [[arXiv](https://arxiv.org/abs/2103.00745)]
 
@@ -24,6 +22,12 @@ permalink: /publications/
 
 
 ## Refereed Papers
+
+1. K. Masuda, __T. Tadano__, and Y. Miura, "Crucial Role of Interfacial *sd* Exchange Interaction on the Temperature Dependence of Tunnel Magnetoresistance", Phys. Rev. B (in press). (2021) [[arXiv](https://arxiv.org/abs/2108.01226)]
+
+1. K. Ishioka, __T. Tadano__, M. Yanagida, Y. Shirai, K. Miyano, "Anharmonic Organic Cation Vibrations in Hybrid Lead Halide Perovskite CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>", Phys. Rev. Materials (in press). (2021) [[arXiv](https://arxiv.org/abs/1911.10711)]
+
+1. M. Kimura, X. He, T. Katase, __T. Tadano__, J. M. Tomczak, M. Minohara, R. Aso, H. Yoshida, K. Ide, S. Ueda, H. Hiramatsu, H. Kumigashira, H. Hosono, and T. Kamiya, "Large phonon drag thermopower boosted by massive electrons and phonon leaking in LaAlO<sub>3</sub>/LaNiO<sub>3</sub>/LaAlO<sub>3</sub> heterostructure", Nano Lett. (2021). [[link](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c03143)]
 
 1. T. Katase, X. He, __T. Tadano__, J. M. Tomczak, T. Onozato, K. Ide, B. Feng, T. Tohei, H. Hiramatsu, H. Ohta, Y. Ikuhara, H. Hosono, and T. Kamiya, "Breaking of thermopower – conductivity trade-off in LaTiO<sub>3</sub> film around Mott insulator to metal transition", Adv. Sci. **2102097** (2021). [[link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202102097)]
 

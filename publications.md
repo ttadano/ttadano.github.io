@@ -23,7 +23,7 @@ permalink: /publications/
 
 ## Refereed Papers
 
-1. K. Masuda, __T. Tadano__, and Y. Miura, "Crucial Role of Interfacial *sd* Exchange Interaction on the Temperature Dependence of Tunnel Magnetoresistance", Phys. Rev. B **104**, L180403. (2021) [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L180403)] [[arXiv](https://arxiv.org/abs/2108.01226)]
+1. K. Masuda, __T. Tadano__, and Y. Miura, "Crucial role of interfacial *s−d* exchange interaction in the temperature dependence of tunnel magnetoresistance", Phys. Rev. B **104**, L180403. (2021) [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L180403)] [[arXiv](https://arxiv.org/abs/2108.01226)]
 
 1. K. Ishioka, __T. Tadano__, M. Yanagida, Y. Shirai, K. Miyano, "Anharmonic Organic Cation Vibrations in Hybrid Lead Halide Perovskite CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>", Phys. Rev. Materials **5**, 105402 (2021). [[link](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.105402)] [[arXiv](https://arxiv.org/abs/1911.10711)]
 

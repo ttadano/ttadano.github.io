@@ -12,6 +12,8 @@ permalink: /publications/
 
 ## Preprints
 
+1. G. Xing, Y. Miura, and __T. Tadano__, "Lattice dynamics and its effects on magnetocrystalline anisotropy energy of pristine and hole-doped YCo<sub>5</sub> from first principles" (submitted). [[arXiv](https://arxiv.org/abs/2112.04124)]
+
 1. P. Torres, S. Wu, S. Ju, C. Liu, __T. Tadano__, R. Yoshida, and J. Shiomi, "Descriptors of intrinsic hydrodynamic thermal transport: screening a phonon database in a machine learning approach". [[arXiv](https://arxiv.org/abs/2110.12887)]
 
 1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Anharmonic Grüneisen theory based on self-consistent phonon theory: Impact of phonon-phonon interaction neglected in the quasiharmonic theory" (submitted). [[arXiv](https://arxiv.org/abs/2109.10046)]

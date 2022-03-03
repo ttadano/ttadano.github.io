@@ -14,14 +14,14 @@ permalink: /publications/
 
 1. G. Xing, Y. Miura, and __T. Tadano__, "Lattice dynamics and its effects on magnetocrystalline anisotropy energy of pristine and hole-doped YCo<sub>5</sub> from first principles" (submitted). [[arXiv](https://arxiv.org/abs/2112.04124)]
 
-1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Anharmonic Grüneisen theory based on self-consistent phonon theory: Impact of phonon-phonon interaction neglected in the quasiharmonic theory" (submitted). [[arXiv](https://arxiv.org/abs/2109.10046)]
-
 1. __T. Tadano__ and W. A. Saidi, "First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite" (submitted). [[arXiv](https://arxiv.org/abs/2103.00745)]
 
 1. M. Ohnishi, __T. Tadano__, S. Tsuneyuki, and J. Shiomi, "Strong Phonon Anharmonicity of Clathrate Compound at High Temperature" (submitted). [[arXiv](https://arxiv.org/abs/2103.00413)]
 
 
 ## Refereed Papers
+
+1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Anharmonic Grüneisen theory based on self-consistent phonon theory: Impact of phonon-phonon interaction neglected in the quasiharmonic theory", Phys. Rev. B **105**, 064112 (2022). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.064112)] [[arXiv](https://arxiv.org/abs/2109.10046)]
 
 1. P. Torres, S. Wu, S. Ju, C. Liu, __T. Tadano__, R. Yoshida, and J. Shiomi, "Descriptors of intrinsic hydrodynamic thermal transport: screening a phonon database in a machine learning approach", J. Phys.: Condens. Matter **34**, 135702 (2022). [[link](https://iopscience.iop.org/article/10.1088/1361-648X/ac49c9)] [[arXiv](https://arxiv.org/abs/2110.12887)]
 

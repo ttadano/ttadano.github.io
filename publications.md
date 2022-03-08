@@ -21,6 +21,8 @@ permalink: /publications/
 
 ## Refereed Papers
 
+1. X. He, H. Zhang, T. Nose, T. Katase, __T. Tadano__, K. Ide, S. Ueda, H. Hiramatsu, H. Hosono, T. Kamiya, "Degenerated Hole Doping and Ultra-Low Lattice Thermal Conductivity in Polycrystalline SnSe by Nonequilibrium Isovalent Te Substitution", Adv. Sci. **2105958** (2022). [[link](https://onlinelibrary.wiley.com/doi/10.1002/advs.202105958)]
+
 1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Anharmonic Grüneisen theory based on self-consistent phonon theory: Impact of phonon-phonon interaction neglected in the quasiharmonic theory", Phys. Rev. B **105**, 064112 (2022). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.064112)] [[arXiv](https://arxiv.org/abs/2109.10046)]
 
 1. P. Torres, S. Wu, S. Ju, C. Liu, __T. Tadano__, R. Yoshida, and J. Shiomi, "Descriptors of intrinsic hydrodynamic thermal transport: screening a phonon database in a machine learning approach", J. Phys.: Condens. Matter **34**, 135702 (2022). [[link](https://iopscience.iop.org/article/10.1088/1361-648X/ac49c9)] [[arXiv](https://arxiv.org/abs/2110.12887)]

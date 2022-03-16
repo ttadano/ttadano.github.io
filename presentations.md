@@ -6,6 +6,8 @@ permalink: /presentations/
 
 ## Invited Talks & Seminars
 
+* 只野央将：「フォノン計算を活用した熱伝導の非経験予測」，透明酸化物光･電子材料第166委員会 第92回研究会，オンライン，2022年3月11日．
+
 * T. Tadano, "Extending first-principles structural optimization method to finite temperatures", APW-RIKEN-Tsinghua-Kavli workshop “Highlights on condensed matter physics”, Online, Oct. 21–23, 2021.
 
 * T. Tadano, "Ab initio phonon calculation at finite temperature toward computational exploration of metastable phases", The Twelfth International Conference on the Science and Technology for Advanced Ceramics (STAC12), Online, Jul. 6–8, 2021.

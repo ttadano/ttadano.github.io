@@ -82,6 +82,9 @@ permalink: /presentations/
 * T. Tadano, Y. Gohda and S. Tsuneyuki, "Lattice thermal conductivity with first-principles anharmonic lattice model", APS March Meeting 2011, Dallas, TX, USA, Mar. 21, 2011.
 
 ### Domestic
+
+* T. Tadano， "First-principles study of thermal and optical properties of perovskite materials"， 日本物理学会第77回年次大会，オンライン，2022年3月19日．
+
 * 只野央将， 平山元昭， 野村悠祐， 有田亮太郎：「第一原理計算による新たな<i>d</i><sup>9</sup>層状ニッケル酸化物の理論設計」，日本物理学会第75回年次大会，名古屋大学，2020年3月16日．
 
 * 只野央将，末國晃一郎：「テトラへドライトにおけるホッピングフォノン伝導の第一原理解析」，日本物理学会2019年秋季大会，岐阜大学（岐阜市），2019年9月12日．

@@ -12,14 +12,16 @@ permalink: /publications/
 
 ## Preprints
 
-1. G. Xing, Y. Miura, and __T. Tadano__, "Lattice dynamics and its effects on magnetocrystalline anisotropy energy of pristine and hole-doped YCo<sub>5</sub> from first principles" (submitted). [[arXiv](https://arxiv.org/abs/2112.04124)]
-
 1. __T. Tadano__ and W. A. Saidi, "First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite" (submitted). [[arXiv](https://arxiv.org/abs/2103.00745)]
 
 1. M. Ohnishi, __T. Tadano__, S. Tsuneyuki, and J. Shiomi, "Strong Phonon Anharmonicity of Clathrate Compound at High Temperature" (submitted). [[arXiv](https://arxiv.org/abs/2103.00413)]
 
 
 ## Refereed Papers
+
+1. Y. Nishimura, X. He, T. Katase, __T. Tadano__, K. Ide, S. Kitani, K. Hanzawa, S. Ueda, H. Hiramatsu, H. Kawaji, H. Hosono, and T. Kamiya, "Electronic and Lattice Thermal Conductivity Switching by 3D−2D Crystal Structure Transition in Nonequilibrium (Pb<sub>1−x</sub>Sn<sub>x</sub>)Se", Adv. Electron. Mater. **2200024** (2022). [[link](https://doi.org/10.1002/aelm.202200024)]
+
+1. G. Xing, Y. Miura, and __T. Tadano__, "Lattice dynamics and its effects on magnetocrystalline anisotropy energy of pristine and hole-doped YCo<sub>5</sub> from first principles", Phys. Rev. B **105**, 104427 (2022). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.104427)] [[arXiv](https://arxiv.org/abs/2112.04124)]
 
 1. X. He, H. Zhang, T. Nose, T. Katase, __T. Tadano__, K. Ide, S. Ueda, H. Hiramatsu, H. Hosono, T. Kamiya, "Degenerated Hole Doping and Ultra-Low Lattice Thermal Conductivity in Polycrystalline SnSe by Nonequilibrium Isovalent Te Substitution", Adv. Sci. **2105958** (2022). [[link](https://onlinelibrary.wiley.com/doi/10.1002/advs.202105958)]
 

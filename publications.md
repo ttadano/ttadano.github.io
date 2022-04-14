@@ -55,7 +55,7 @@ permalink: /publications/
 
 1. Z. Zeng, S. Li, __T. Tadano__, and Y. Chen, "Anharmonic lattice dynamics and thermal transport of monolayer InSe under equibiaxial tensile strains", J. Phys.: Condens. Matter **32**, 475702 (2020). [[link](https://iopscience.iop.org/article/10.1088/1361-648X/aba315/meta)]
 
-1. Y. Wu, W. Saidi, J. Wuenschell, __T. Tadano__, P. Ohodnicki, B. Chorpening, and Y. Duan, "Anharmonicity Explains Temperature Renormalization Effects of the Band Gap in SrTiO<sub>3</sub>". J. Phys. Chem. Lett. **11**, 2518–2523 (2020). [[link](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c00183)]
+1. Y. Wu, W. Saidi, J. Wuenschell, __T. Tadano__, P. Ohodnicki, B. Chorpening, and Y. Duan, "Anharmonicity Explains Temperature Renormalization Effects of the Band Gap in SrTiO<sub>3</sub>", J. Phys. Chem. Lett. **11**, 2518–2523 (2020). [[link](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c00183)]
 
 1. T. Tanimoto, K. Suekuni, T. Tanishita, H. Usui, __T. Tadano__, T. Kamei, H. Saito, H. Nishiate, C. H. Lee, K. Kuroki, and M. Ohtaki, "Enargite Cu<sub>3</sub>PS<sub>4</sub>: A Cu–S-Based Thermoelectric Material with a Wurtzite-Derivative Structure", Adv. Funct. Mater. **30**, 2000973 (2020). [[link](https://dx.doi.org/10.1002/adfm.202000973)]
 
@@ -92,6 +92,8 @@ permalink: /publications/
 1. __T. Tadano__ and S. Tsuneyuki, “First-principles analysis of anharmonic nuclear motion and thermal transport in thermoelectric materials”, AIP Conf. Proc. **1702**, 090063 (2015). [[link](http://aip.scitation.org/doi/abs/10.1063/1.4938871)]
 
 ## Book Chapters & Reviews
+
+1. __只野央将__：「熱電材料研究に資する 第一原理格子動力学」，計算科学を活用した熱電変換材料の研究開発動向（株式会社　シーエムシー・リサーチ）， 2022年． [[link](https://cmcre.com/archives/96038/)]
 
 1. __只野央将__：「格子熱伝導の基礎理論と第一原理シミュレーション」，マイクロ・ナノ熱工学の進展（株式会社　エヌ・ティー・エス）， 2021年． [[link](http://www.nts-book.co.jp/item/detail/summary/nano/20210401_46.html)]
 1. 野村悠祐，平山元昭，北谷基治，__只野央将__，有田亮太郎：「ニッケル酸化物新超伝導体の発見：現状と展望」，『固体物理』 Vol. **55**，491-503 (2020)． [[link](https://www.agne.co.jp/kotaibutsuri/kota1055.htm#no656)]

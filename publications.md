@@ -12,6 +12,8 @@ permalink: /publications/
 
 ## Preprints
 
+1. A. Togo, H. Hayashi, __T. Tadano__, S. Tsutsui, and I. Tanaka, "LO-mode phonon of KCl and NaCl at 300 K by inelastic X ray scattering measurements and first principles calculations" (submitted). [[arXiv](https://arxiv.org/abs/2204.07687)]
+
 1. __T. Tadano__ and W. A. Saidi, "First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite" (submitted). [[arXiv](https://arxiv.org/abs/2103.00745)]
 
 1. M. Ohnishi, __T. Tadano__, S. Tsuneyuki, and J. Shiomi, "Strong Phonon Anharmonicity of Clathrate Compound at High Temperature" (submitted). [[arXiv](https://arxiv.org/abs/2103.00413)]

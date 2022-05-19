@@ -12,6 +12,8 @@ permalink: /publications/
 
 ## Preprints
 
+1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Ab-initio structural optimization at finite temperatures based on anharmonic phonon theory: Application to the structural phase transitions of BaTiO<sub>3</sub>". [[arXiv](https://arxiv.org/abs/2205.08789)]
+
 1. A. Togo, H. Hayashi, __T. Tadano__, S. Tsutsui, and I. Tanaka, "LO-mode phonon of KCl and NaCl at 300 K by inelastic X ray scattering measurements and first principles calculations" (submitted). [[arXiv](https://arxiv.org/abs/2204.07687)]
 
 1. __T. Tadano__ and W. A. Saidi, "First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite" (submitted). [[arXiv](https://arxiv.org/abs/2103.00745)]

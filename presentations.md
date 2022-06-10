@@ -6,6 +6,10 @@ permalink: /presentations/
 
 ## Invited Talks & Seminars
 
+* T. Tadano, "First-principles calculations of phonons and crystal structures at finite temperatures", Recent Progress in Thermal Transport Theory and Experiments, Online, May. 30, 2022.
+
+* 只野央将：「自己無撞着フォノン理論による構造相転移温度の第一原理計算」，物性研究所スパコン共同利用・CCMS合同研究会「計算物質科学の新展開」，東京大学物性研究所，2022年5月13日．
+
 * 只野央将：「フォノン計算を活用した熱伝導の非経験予測」，透明酸化物光･電子材料第166委員会 第92回研究会，オンライン，2022年3月11日．
 
 * T. Tadano, "Extending first-principles structural optimization method to finite temperatures", APW-RIKEN-Tsinghua-Kavli workshop “Highlights on condensed matter physics”, Online, Oct. 21–23, 2021.

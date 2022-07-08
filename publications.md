@@ -14,14 +14,13 @@ permalink: /publications/
 
 1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Ab-initio structural optimization at finite temperatures based on anharmonic phonon theory: Application to the structural phase transitions of BaTiO<sub>3</sub>". [[arXiv](https://arxiv.org/abs/2205.08789)]
 
-1. A. Togo, H. Hayashi, __T. Tadano__, S. Tsutsui, and I. Tanaka, "LO-mode phonon of KCl and NaCl at 300 K by inelastic X ray scattering measurements and first principles calculations" (submitted). [[arXiv](https://arxiv.org/abs/2204.07687)]
-
 1. __T. Tadano__ and W. A. Saidi, "First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite" (submitted). [[arXiv](https://arxiv.org/abs/2103.00745)]
 
-1. M. Ohnishi, __T. Tadano__, S. Tsuneyuki, and J. Shiomi, "Strong Phonon Anharmonicity of Clathrate Compound at High Temperature" (submitted). [[arXiv](https://arxiv.org/abs/2103.00413)]
-
-
 ## Refereed Papers
+
+1. M. Ohnishi, __T. Tadano__, S. Tsuneyuki, and J. Shiomi, "Anharmonic phonon renormalization and thermal transport in the type-I Ba<sub>8</sub>Ga<sub>16</sub>Sn<sub>30</sub> clathrate from first principles", Phys. Rev. B **106**, 024303 (2022). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.024303)] [[arXiv](https://arxiv.org/abs/2103.00413)]
+
+1. A. Togo, H. Hayashi, __T. Tadano__, S. Tsutsui, and I. Tanaka, "LO-mode phonon of KCl and NaCl at 300 K by inelastic X ray scattering measurements and first principles calculations", J. Phys.: Condens. Matter **34**, 365401 (2022). [[link](https://iopscience.iop.org/article/10.1088/1361-648X/ac7b01)] [[arXiv](https://arxiv.org/abs/2204.07687)]
 
 1. Y. Nishimura, X. He, T. Katase, __T. Tadano__, K. Ide, S. Kitani, K. Hanzawa, S. Ueda, H. Hiramatsu, H. Kawaji, H. Hosono, and T. Kamiya, "Electronic and Lattice Thermal Conductivity Switching by 3D−2D Crystal Structure Transition in Nonequilibrium (Pb<sub>1−x</sub>Sn<sub>x</sub>)Se", Adv. Electron. Mater. **2200024** (2022). [[link](https://doi.org/10.1002/aelm.202200024)]
 

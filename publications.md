@@ -18,6 +18,8 @@ permalink: /publications/
 
 ## Refereed Papers
 
+1. D. B. Khadka, Y. Shirai, M. Yanagida, __T. Tadano__, and K. Miyano, "Interfacial Embedding for High-Efficiency and Stable Methylammonium-Free Perovskite Solar Cells with Fluoroarene Hydrazine", Adv. Energy Matter. **2202029** (2022). [[link](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202202029)]
+
 1. M. Ohnishi, __T. Tadano__, S. Tsuneyuki, and J. Shiomi, "Anharmonic phonon renormalization and thermal transport in the type-I Ba<sub>8</sub>Ga<sub>16</sub>Sn<sub>30</sub> clathrate from first principles", Phys. Rev. B **106**, 024303 (2022). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.024303)] [[arXiv](https://arxiv.org/abs/2103.00413)]
 
 1. A. Togo, H. Hayashi, __T. Tadano__, S. Tsutsui, and I. Tanaka, "LO-mode phonon of KCl and NaCl at 300 K by inelastic X ray scattering measurements and first principles calculations", J. Phys.: Condens. Matter **34**, 365401 (2022). [[link](https://iopscience.iop.org/article/10.1088/1361-648X/ac7b01)] [[arXiv](https://arxiv.org/abs/2204.07687)]

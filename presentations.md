@@ -6,6 +6,8 @@ permalink: /presentations/
 
 ## Invited Talks & Seminars
 
+* T. Tadano, "Ab initio calculation of phonons and crystal structures at finite temperatures: A self-consistent phonon approach", ISSP Theory Seminar, ISSP (University of Tokyo) and online (hybrid), Aug. 19, 2022.
+
 * T. Tadano, "First-principles calculations of phonons and crystal structures at finite temperatures", Recent Progress in Thermal Transport Theory and Experiments, Online, May. 30, 2022.
 
 * 只野央将：「自己無撞着フォノン理論による構造相転移温度の第一原理計算」，物性研究所スパコン共同利用・CCMS合同研究会「計算物質科学の新展開」，東京大学物性研究所，2022年5月13日．

@@ -7,7 +7,7 @@ permalink: /publications/
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
 <i class="ai ai-google-scholar"> [Google scholar citations](https://scholar.google.co.jp/citations?user=vo4EZggAAAAJ&hl=en&oi=ao){:target="_blank"}</i>
-<i class="ai ai-publons"> [Publons](https://publons.com/researcher/2147961/terumasa-tadano/){:target="_blank"}</i>
+<i class="ai ai-publons"> [Web of Science](https://www.webofscience.com/wos/author/record/977155){:target="_blank"}</i>
 
 
 ## Preprints

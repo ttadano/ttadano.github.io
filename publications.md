@@ -12,6 +12,10 @@ permalink: /publications/
 
 ## Preprints
 
+1. M. Basini, M. Pancaldi, B. Wehinger, M. Udina, __T. Tadano__, M. C. Hoffmann, A. V. Balatsky, and S. Bonetti, "Terahertz electric-field driven dynamical multiferroicity in SrTiO<sub>3</sub>", (submitted). [[arXiv](https://arxiv.org/abs/2210.01690)]
+
+1. M. Hirayama, M. T. Schmid, __T. Tadano__, T. Misawa, and M. Imada, "Ab initio material design of Ag-based oxides for high-T<sub>c</sub> superconductor", (submitted). [[arXiv](https://arxiv.org/abs/2207.12595)]
+
 1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Ab-initio structural optimization at finite temperatures based on anharmonic phonon theory: Application to the structural phase transitions of BaTiO<sub>3</sub>". [[arXiv](https://arxiv.org/abs/2205.08789)]
 
 

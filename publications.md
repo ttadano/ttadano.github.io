@@ -14,9 +14,12 @@ permalink: /publications/
 
 1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Ab-initio structural optimization at finite temperatures based on anharmonic phonon theory: Application to the structural phase transitions of BaTiO<sub>3</sub>". [[arXiv](https://arxiv.org/abs/2205.08789)]
 
-1. __T. Tadano__ and W. A. Saidi, "First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite" (submitted). [[arXiv](https://arxiv.org/abs/2103.00745)]
 
 ## Refereed Papers
+
+1. __T. Tadano__ and W. A. Saidi, "First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite", Phys. Rev. Lett. **129**, 185901 (2022). <span style="color: red;">Editors' Suggestion</span>. [[link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.185901)] [[arXiv](https://arxiv.org/abs/2103.00745)]
+
+1. K. Cho, H. Tahara, T. Yamada, H. Suzuura, __T. Tadano__, R. Sato, M. Saruyama, H. Hirori, T. Teranishi, and Y. Kanemitsu, "Exciton–Phonon and Trion–Phonon Couplings Revealed by Photoluminescence Spectroscopy of Single CsPbBr<sub>3</sub> Perovskite Nanocrystals", Nano Lett. **22**, 7674 (2022). [[link](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c02970)]
 
 1. D. B. Khadka, Y. Shirai, M. Yanagida, __T. Tadano__, and K. Miyano, "Interfacial Embedding for High-Efficiency and Stable Methylammonium-Free Perovskite Solar Cells with Fluoroarene Hydrazine", Adv. Energy Matter. **2202029** (2022). [[link](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202202029)]
 

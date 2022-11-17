@@ -12,6 +12,10 @@ permalink: /publications/
 
 ## Preprints
 
+1. E. Frasson, P. Rosander, F. Eriksson, M. Rahm, T. Tadano, P. Erhart, "Probing the limits of the phonon quasi-particle picture:The transition from underdamped to overdamped dynamics in CsPbBr<sub>3</sub>", (submitted). [[arXiv](https://arxiv.org/abs/2211.08197)]
+
+1. C. Shen, M. Dai, X. Xiao, N. Hadaeghi, W. Xie, A. Weidenkaff, __T. Tadano__, H. Zhang, "Impact of Quartic Anharmonicity on Lattice Thermal Transport in EuTiO<sub>3</sub>: A Comparative Theoretical and Experimental Investigation", (submitted). [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4264416)]
+
 1. M. Basini, M. Pancaldi, B. Wehinger, M. Udina, __T. Tadano__, M. C. Hoffmann, A. V. Balatsky, and S. Bonetti, "Terahertz electric-field driven dynamical multiferroicity in SrTiO<sub>3</sub>", (submitted). [[arXiv](https://arxiv.org/abs/2210.01690)]
 
 1. M. Hirayama, M. T. Schmid, __T. Tadano__, T. Misawa, and M. Imada, "Ab initio material design of Ag-based oxides for high-T<sub>c</sub> superconductor", (submitted). [[arXiv](https://arxiv.org/abs/2207.12595)]

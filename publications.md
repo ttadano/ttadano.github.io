@@ -20,10 +20,10 @@ permalink: /publications/
 
 1. M. Hirayama, M. T. Schmid, __T. Tadano__, T. Misawa, and M. Imada, "Ab initio material design of Ag-based oxides for high-T<sub>c</sub> superconductor", (submitted). [[arXiv](https://arxiv.org/abs/2207.12595)]
 
-1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Ab-initio structural optimization at finite temperatures based on anharmonic phonon theory: Application to the structural phase transitions of BaTiO<sub>3</sub>". [[arXiv](https://arxiv.org/abs/2205.08789)]
-
 
 ## Refereed Papers
+
+1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Ab initio structural optimization at finite temperatures based on anharmonic phonon theory: Application to the structural phase transitions of BaTiO<sub>3</sub>", Phys. Rev. B **106**, 224104 (2022). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.224104)] [[arXiv](https://arxiv.org/abs/2205.08789)]
 
 1. __T. Tadano__ and W. A. Saidi, "First-Principles Phonon Quasiparticle Theory Applied to a Strongly Anharmonic Halide Perovskite", Phys. Rev. Lett. **129**, 185901 (2022). <span style="color: red;">Editors' Suggestion</span>. [[link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.185901)] [[arXiv](https://arxiv.org/abs/2103.00745)]
 

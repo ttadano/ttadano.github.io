@@ -12,6 +12,12 @@ permalink: /publications/
 
 ## Preprints
 
+1. R. Masuki, T. Nomoto, R. Arita, __T. Tadano__, "Full optimization of quasiharmonic free energy with anharmonic lattice model: Application to thermal expansion and pyroelectricity of wurtzite GaN and ZnO" (submitted). [[arXiv](https://arxiv.org/abs/2302.04537)]
+
+1. A. Togo, L. Chaput, __T. Tadano__, I. Tanaka, "Implementation strategies in phonopy and phono3py" (submitted). [[arXiv](https://arxiv.org/abs/2301.05784)]
+
+1. T. Amano, T. Yamazaki, R. Akashi, __T. Tadano__, S. Tsuneyuki, "Lattice dielectric properties of rutile TiO<sub>2</sub>: First-principles anharmonic self-consistent phonon study" (submitted). [[arXiv](https://arxiv.org/abs/2210.15873)]
+
 1. E. Frasson, P. Rosander, F. Eriksson, M. Rahm, T. Tadano, P. Erhart, "Probing the limits of the phonon quasi-particle picture:The transition from underdamped to overdamped dynamics in CsPbBr<sub>3</sub>", (submitted). [[arXiv](https://arxiv.org/abs/2211.08197)]
 
 1. C. Shen, M. Dai, X. Xiao, N. Hadaeghi, W. Xie, A. Weidenkaff, __T. Tadano__, H. Zhang, "Impact of Quartic Anharmonicity on Lattice Thermal Transport in EuTiO<sub>3</sub>: A Comparative Theoretical and Experimental Investigation", (submitted). [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4264416)]

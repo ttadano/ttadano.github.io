@@ -16,8 +16,6 @@ permalink: /publications/
 
 1. A. Togo, L. Chaput, __T. Tadano__, I. Tanaka, "Implementation strategies in phonopy and phono3py" (submitted). [[arXiv](https://arxiv.org/abs/2301.05784)]
 
-1. T. Amano, T. Yamazaki, R. Akashi, __T. Tadano__, S. Tsuneyuki, "Lattice dielectric properties of rutile TiO<sub>2</sub>: First-principles anharmonic self-consistent phonon study" (submitted). [[arXiv](https://arxiv.org/abs/2210.15873)]
-
 1. E. Frasson, P. Rosander, F. Eriksson, M. Rahm, T. Tadano, P. Erhart, "Probing the limits of the phonon quasi-particle picture:The transition from underdamped to overdamped dynamics in CsPbBr<sub>3</sub>", (submitted). [[arXiv](https://arxiv.org/abs/2211.08197)]
 
 1. C. Shen, M. Dai, X. Xiao, N. Hadaeghi, W. Xie, A. Weidenkaff, __T. Tadano__, H. Zhang, "Impact of Quartic Anharmonicity on Lattice Thermal Transport in EuTiO<sub>3</sub>: A Comparative Theoretical and Experimental Investigation", (submitted). [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4264416)]
@@ -28,6 +26,10 @@ permalink: /publications/
 
 
 ## Refereed Papers
+
+1. Z. Hu, M. Hiramatsu, X. He, T. Katase, __T. Tadano__, K. Ide, H. Hiramatsu, H. Hosono, T. Kamiya, "Reversible Thermal Conductivity Modulation of Non-equilibrium (Sn<sub>1–x</sub>Pb<sub>x</sub>)S by 2D–3D Structural Phase Transition above Room Temperature", ACS Appl. Energy Mater. **6**, 6, 3504–3513 (2023). [[link](https://pubs.acs.org/doi/full/10.1021/acsaem.3c00060)]
+
+1. T. Amano, T. Yamazaki, R. Akashi, __T. Tadano__, S. Tsuneyuki, "Lattice dielectric properties of rutile TiO<sub>2</sub>: First-principles anharmonic self-consistent phonon study", Phys. Rev. B **107**, 094305 (2023). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.094305)] [[arXiv](https://arxiv.org/abs/2210.15873)]
 
 1. R. Masuki, T. Nomoto, R. Arita, and __T. Tadano__, "Ab initio structural optimization at finite temperatures based on anharmonic phonon theory: Application to the structural phase transitions of BaTiO<sub>3</sub>", Phys. Rev. B **106**, 224104 (2022). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.224104)] [[arXiv](https://arxiv.org/abs/2205.08789)]
 

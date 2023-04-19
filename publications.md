@@ -16,9 +16,7 @@ permalink: /publications/
 
 1. A. Togo, L. Chaput, __T. Tadano__, I. Tanaka, "Implementation strategies in phonopy and phono3py" (submitted). [[arXiv](https://arxiv.org/abs/2301.05784)]
 
-1. E. Frasson, P. Rosander, F. Eriksson, M. Rahm, T. Tadano, P. Erhart, "Probing the limits of the phonon quasi-particle picture:The transition from underdamped to overdamped dynamics in CsPbBr<sub>3</sub>", (submitted). [[arXiv](https://arxiv.org/abs/2211.08197)]
-
-1. C. Shen, M. Dai, X. Xiao, N. Hadaeghi, W. Xie, A. Weidenkaff, __T. Tadano__, H. Zhang, "Impact of Quartic Anharmonicity on Lattice Thermal Transport in EuTiO<sub>3</sub>: A Comparative Theoretical and Experimental Investigation", (submitted). [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4264416)]
+1. E. Frasson, P. Rosander, F. Eriksson, M. Rahm, __T. Tadano__, P. Erhart, "Probing the limits of the phonon quasi-particle picture:The transition from underdamped to overdamped dynamics in CsPbBr<sub>3</sub>", (submitted). [[arXiv](https://arxiv.org/abs/2211.08197)]
 
 1. M. Basini, M. Pancaldi, B. Wehinger, M. Udina, __T. Tadano__, M. C. Hoffmann, A. V. Balatsky, and S. Bonetti, "Terahertz electric-field driven dynamical multiferroicity in SrTiO<sub>3</sub>", (submitted). [[arXiv](https://arxiv.org/abs/2210.01690)]
 
@@ -26,6 +24,10 @@ permalink: /publications/
 
 
 ## Refereed Papers
+
+1. C. Shen, M. Dai, X. Xiao, N. Hadaeghi, W. Xie, A. Weidenkaff, __T. Tadano__, H. Zhang, "Impact of Quartic Anharmonicity on Lattice Thermal Transport in EuTiO<sub>3</sub>: A Comparative Theoretical and Experimental Investigation", Mater. Today Phys. **101059** (2023). [[link](https://www.sciencedirect.com/science/article/abs/pii/S2542529323000950)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4264416)]
+
+1. X. He, S. Nomoto, T. Komatsu, T. Katase, __T. Tadano__, S. Kitani, H. Yoshida, T. Yamamoto, H. Mizoguchi, K. Ide, H. Hiramatsu, H. Kawaji, H. Hosono, T. Kamiya, "Hydride Anion Substitution Boosts Thermoelectric Performance of Polycrystalline SrTiO<sub>3</sub> via Simultaneous Realization of Reduced Thermal Conductivity and High Electronic Conductivity", Adv. Funct. Mater. **2213144** (2023). [[link](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202213144)]
 
 1. Z. Hu, M. Hiramatsu, X. He, T. Katase, __T. Tadano__, K. Ide, H. Hiramatsu, H. Hosono, T. Kamiya, "Reversible Thermal Conductivity Modulation of Non-equilibrium (Sn<sub>1–x</sub>Pb<sub>x</sub>)S by 2D–3D Structural Phase Transition above Room Temperature", ACS Appl. Energy Mater. **6**, 6, 3504–3513 (2023). [[link](https://pubs.acs.org/doi/full/10.1021/acsaem.3c00060)]
 

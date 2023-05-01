@@ -12,8 +12,6 @@ permalink: /publications/
 
 ## Preprints
 
-1. R. Masuki, T. Nomoto, R. Arita, __T. Tadano__, "Full optimization of quasiharmonic free energy with anharmonic lattice model: Application to thermal expansion and pyroelectricity of wurtzite GaN and ZnO" (submitted). [[arXiv](https://arxiv.org/abs/2302.04537)]
-
 1. A. Togo, L. Chaput, __T. Tadano__, I. Tanaka, "Implementation strategies in phonopy and phono3py" (submitted). [[arXiv](https://arxiv.org/abs/2301.05784)]
 
 1. E. Frasson, P. Rosander, F. Eriksson, M. Rahm, __T. Tadano__, P. Erhart, "Probing the limits of the phonon quasi-particle picture:The transition from underdamped to overdamped dynamics in CsPbBr<sub>3</sub>", (submitted). [[arXiv](https://arxiv.org/abs/2211.08197)]
@@ -24,6 +22,8 @@ permalink: /publications/
 
 
 ## Refereed Papers
+
+1. R. Masuki, T. Nomoto, R. Arita, __T. Tadano__, "Full optimization of quasiharmonic free energy with anharmonic lattice model: Application to thermal expansion and pyroelectricity of wurtzite GaN and ZnO", Phys. Rev. B **107**, 134119 (2023). [[link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.134119)] [[arXiv](https://arxiv.org/abs/2302.04537)]
 
 1. C. Shen, M. Dai, X. Xiao, N. Hadaeghi, W. Xie, A. Weidenkaff, __T. Tadano__, H. Zhang, "Impact of Quartic Anharmonicity on Lattice Thermal Transport in EuTiO<sub>3</sub>: A Comparative Theoretical and Experimental Investigation", Mater. Today Phys. **101059** (2023). [[link](https://www.sciencedirect.com/science/article/abs/pii/S2542529323000950)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4264416)]
 

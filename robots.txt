@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ttadano.github.io/sitemap.xml

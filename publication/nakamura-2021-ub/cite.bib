@@ -1,0 +1,55 @@
+@article{Nakamura2021-ub,
+ abstract = {RESPACK is a first-principles calculation software for evaluating
+the interaction parameters of materials and is able to calculate
+maximally localized Wannier functions, response functions based
+on the random phase approximation and related optical properties,
+and frequency-dependent electronic interaction parameters.
+RESPACK receives its input data from a band-calculation code
+using norm-conserving pseudopotentials with plane-wave basis
+sets. Automatic generation scripts that convert the
+band-structure results to the RESPACK inputs are prepared for
+xTAPP and Quantum ESPRESSO. An input file for specifying the
+RESPACK calculation conditions is designed pursuing simplicity
+and is given in the Fortran namelist format. RESPACK supports
+hybrid parallelization using OpenMP and MPI and can treat large
+systems including a few hundred atoms in the calculation cell.
+Program summary Program Title: RESPACK CPC Library link to
+program files: https://dx.doi.org/10.17632/3cxb7474nj.1
+Developer's repository link:
+https://sites.google.com/view/kazuma7k6r Licensing provisions:
+GNU General Public Licence v3.0 Programming language: Fortran,
+Python External routines: LAPACK, BLAS, MPI Nature of problem: Ab
+initio calculations for maximally localized Wannier function,
+response function with random-phase approximation, and
+matrix-element evaluations of frequency-dependent screened direct
+and exchange interactions. With this code, an effective
+low-energy model of materials is derived from first principles.
+Solution method: Our method is based on ab initio many-body
+perturbation calculation and the maximally localized Wannier
+function calculation. The program employs the plane-wave basis
+set, and evaluations of matrix elements are performed with the
+fast Fourier transformation. The generalized tetrahedron method
+is used for the Brillouin Zone integral. Additional comments
+including restrictions and unusual features: RESPACK supports
+xTAPP and Quantum ESPRESSO packages, and automatic generation
+scripts for converting the band-calculation results to the
+RESPACK inputs are prepared for these software. The current
+RESPACK only supports band-calculation codes using
+norm-conserving pseudopotentials with plane-wave basis sets.
+RESPACK supports hybrid parallelization using OpenMP and MPI to
+treat large systems in which a few hundred atoms are contained in
+unit cell.},
+ author = {Nakamura, Kazuma and Yoshimoto, Yoshihide and Nomura, Yusuke and
+Tadano, Terumasa and Kawamura, Mitsuaki and Kosugi, Taichi and
+Yoshimi, Kazuyoshi and Misawa, Takahiro and Motoyama, Yuichi},
+ journal = {Comput. Phys. Commun.},
+ keywords = {Effective model derivation from first principles; Many-body
+perturbation calculation; Maximally localized Wannier function},
+ month = {April},
+ pages = {107781},
+ title = {RESPACK: An ab initio tool for derivation of effective
+low-energy model of material},
+ volume = {261},
+ year = {2021}
+}
+

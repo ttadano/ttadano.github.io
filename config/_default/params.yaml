@@ -13,7 +13,9 @@ appearance:
 
 # SEO
 
-# marketing:
+marketing:
+  analytics:
+    google_analytics: 'G-48HWEVBSFR'
 #   seo:
 #     site_type: Person
 #     local_business_type: ''

@@ -18,7 +18,7 @@ featured: true
 draft: false
 
 links:
-- name: "Journal page"
+- name: "Journal link"
   url: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.224104'
 - name: "arXiv"
   url: 'https://arxiv.org/abs/2205.08789'

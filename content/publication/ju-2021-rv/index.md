@@ -28,6 +28,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.053801'
+- name: "ChemRxiv"
+  url: 'https://doi.org/10.26434/chemrxiv.9850301.v1'
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 原子核の量子ゆらぎが支える高圧下LaH10の高温超伝導
+title: 原子核の量子ゆらぎが支える高圧下LaH$_{10}$の高温超伝導
 subtitle: ''
 summary: ''
 authors:
@@ -23,6 +23,11 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://www.agne.co.jp/kotaibutsuri/kota1055.htm#no655'
+
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -33,5 +38,5 @@ publishDate: '2023-06-01T11:39:43.638573Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Kotai Butsuri*'
+publication: '*固体物理*'
 ---

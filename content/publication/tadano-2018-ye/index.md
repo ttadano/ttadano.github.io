@@ -23,6 +23,14 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.105901'
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/1710.00311'
+
+
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

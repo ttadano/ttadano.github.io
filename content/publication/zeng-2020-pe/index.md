@@ -25,6 +25,10 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://iopscience.iop.org/article/10.1088/1361-648X/aba315/meta'
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

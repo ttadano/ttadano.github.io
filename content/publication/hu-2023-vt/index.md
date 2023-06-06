@@ -30,6 +30,10 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://pubs.acs.org/doi/full/10.1021/acsaem.3c00060'
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

@@ -11,7 +11,7 @@ authors:
 - admin
 - Ryotaro Arita
 tags: []
-categories: []
+categories: ['review']
 date: '2020-10-01'
 lastmod: 2023-06-01T20:39:43+09:00
 featured: false
@@ -24,6 +24,10 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+links:
+- name: "Journal link"
+  url: 'https://www.agne.co.jp/kotaibutsuri/kota1055.htm#no656'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

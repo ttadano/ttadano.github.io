@@ -26,6 +26,13 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://www.sciencedirect.com/science/article/pii/S0925838821011634'
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2102.02590'
+
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

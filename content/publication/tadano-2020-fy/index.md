@@ -7,7 +7,7 @@ summary: ''
 authors:
 - admin
 tags: []
-categories: []
+categories: ['review']
 date: '2020-03-01'
 lastmod: 2023-06-01T20:39:42+09:00
 featured: false
@@ -20,6 +20,10 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+links:
+- name: "Journal link"
+  url: 'https://www.jsst.jp/journal/contents/vol39.html'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

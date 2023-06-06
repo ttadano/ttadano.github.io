@@ -33,6 +33,15 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://doi.org/10.1002/aelm.202200024'
+- name: "Press release"
+  url: 'https://www.titech.ac.jp/english/news/2022/063973'
+- name: "プレスリリース"
+  url: 'https://www.titech.ac.jp/news/2022/063782'
+
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

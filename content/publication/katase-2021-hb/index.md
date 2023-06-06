@@ -33,6 +33,15 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://advances.sciencemag.org/content/7/12/eabf2725'
+- name: "Press release"
+  url: 'https://www.titech.ac.jp/english/news/2021/049582'
+- name: "プレスリリース"
+  url: 'https://www.titech.ac.jp/news/2021/049215'
+
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

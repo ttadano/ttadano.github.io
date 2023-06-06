@@ -31,6 +31,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://www.sciencedirect.com/science/article/abs/pii/S2542529323000950'
+- name: "SSRN"
+  url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4264416'
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

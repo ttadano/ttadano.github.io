@@ -22,6 +22,9 @@ image:
   focal_point: ''
   preview_only: false
 
+url_pdf: 'https://mdcl.issp.u-tokyo.ac.jp/scc/wp/wp-content/uploads/2021/07/2019_0301_invited1.pdf'
+
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

@@ -8,7 +8,7 @@ authors:
 - admin
 - Shinji Tsuneyuki
 tags: []
-categories: []
+categories: ['review']
 date: '2017-11-01'
 lastmod: 2023-06-01T20:39:40+09:00
 featured: false
@@ -21,6 +21,10 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+links:
+- name: "Journal link"
+  url: 'http://www.agne.co.jp/kotaibutsuri/kota1052.htm#no621'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

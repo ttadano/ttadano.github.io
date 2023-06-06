@@ -22,6 +22,13 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'http://journals.jps.jp/doi/10.7566/JPSJ.87.041015'
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/1706.04744'
+
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

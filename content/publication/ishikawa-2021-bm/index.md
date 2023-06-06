@@ -25,6 +25,13 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.054408'
+- name: "arXiv"
+  url: 'http://arxiv.org/abs/2102.02097'
+
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

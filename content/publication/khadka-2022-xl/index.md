@@ -26,6 +26,14 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://onlinelibrary.wiley.com/doi/10.1002/aenm.202202029'
+- name: "Press release"
+  url: 'https://www.nims.go.jp/eng/news/press/2022/09/202209160.html'
+- name: "プレスリリース"
+  url: 'https://www.nims.go.jp/news/press/2022/09/202209160.html'
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

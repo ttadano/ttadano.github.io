@@ -31,6 +31,14 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://www.nature.com/articles/s41586-020-1955-z'
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/1907.11916'
+- name: "プレスリリース"
+  url: 'https://www.nims.go.jp/news/press/2020/02/202002060.html'
+  
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

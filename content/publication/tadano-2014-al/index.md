@@ -24,6 +24,10 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'http://iopscience.iop.org/article/10.1088/0953-8984/26/22/225402/meta'
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

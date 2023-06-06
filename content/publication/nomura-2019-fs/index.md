@@ -27,6 +27,15 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.205138'
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/1909.03942'
+- name: "Phys.org article"
+  url: 'https://phys.org/news/2020-03-nickelate-materials-high-temperature-superconductivity.html'
+
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

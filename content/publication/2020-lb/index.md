@@ -21,6 +21,10 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: "Journal link"
+  url: 'https://www.jstage.jst.go.jp/article/oubutsu/89/1/89_35/_article/-char/ja'
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

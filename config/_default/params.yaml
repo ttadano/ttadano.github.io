@@ -9,25 +9,8 @@ appearance:
   theme_day: Ocean
   theme_night: minimal
   font: minimal
-  font_size: l
+  font_size: m
 
-# SEO
-
-marketing:
-  analytics:
-    google_analytics: 'G-48HWEVBSFR'
-#   seo:
-#     site_type: Person
-#     local_business_type: ''
-#     org_name: ''
-#     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-#     twitter: 'wowchemy'
-#   analytics:
-#     google_analytics: ''
-#     baidu_tongji: ''
-#   verification:
-#     google: ''
-#     baidu: ''
 
 # Site header
 
@@ -108,6 +91,24 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+
+# SEO
+
+marketing:
+  analytics:
+    google_analytics: 'G-48HWEVBSFR'
+#   seo:
+#     site_type: Person
+#     local_business_type: ''
+#     org_name: ''
+#     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+#     twitter: 'wowchemy'
+#   analytics:
+#     google_analytics: ''
+#     baidu_tongji: ''
+#   verification:
+#     google: ''
+#     baidu: ''
 
 # Security
 

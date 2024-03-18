@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 resources
 .DS_Store
+tmp.bib
+.hugo_build.lock

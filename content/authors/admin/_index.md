@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Terumasa Tadano is a senior researcher of materials science at National Institute for Materials Science, Japan. His research interests include development of computational methods and softwares for predicting thermal properties of solids, anharmonicity of phonons, and application of machine-learning methods to materials science study. 
+Terumasa Tadano is a principal researcher of materials science at National Institute for Materials Science, Japan. His research interests include development of computational methods and softwares for predicting thermal properties of solids, anharmonicity of phonons, and application of machine-learning methods to materials science study. 
 {style="text-align: justify;"}

@@ -55,7 +55,8 @@ sections:
           date_start: '2019-04-01'
           date_end: ''
           description: |2-
-              * 2021-present: Senior Researcher          
+              * 2024-present: Group Leader
+              * 2021-2024: Senior Researcher          
               * 2019-2021: Researcher
         - title: ICYS Fellow
           company: National Institute for Materials Science

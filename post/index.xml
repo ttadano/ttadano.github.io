@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Terumasa Tadano</title><link>https://ttadano.github.io/post/</link><atom:link href="https://ttadano.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate><image><url>https://ttadano.github.io/media/icon_hu3b0a130a0b98fc1f311be3daf057b718_28867_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://ttadano.github.io/post/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Terumasa Tadano</title><link>https://ttadano.github.io/post/</link><atom:link href="https://ttadano.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate><image><url>https://ttadano.github.io/media/icon_hu3b0a130a0b98fc1f311be3daf057b718_28867_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://ttadano.github.io/post/</link></image><item><title>Blog with Jupyter Notebooks!</title><link>https://ttadano.github.io/post/blog-with-jupyter/</link><pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate><guid>https://ttadano.github.io/post/blog-with-jupyter/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">IPython.core.display&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">Image&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">Image&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="png" srcset="
+/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_cdb6e311e2a1735dbf10e762428f706e.webp 400w,
+/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_fc9bbb87927669af314bc8ac65d9d90e.webp 760w,
+/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ttadano.github.io/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_cdb6e311e2a1735dbf10e762428f706e.webp"
+width="601"
+height="203"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Welcome to Academic!&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code>Welcome to Academic!
+&lt;/code>&lt;/pre>
+&lt;h2 id="organize-your-notebooks">Organize your notebooks&lt;/h2>
+&lt;p>Place the notebooks that you would like to publish in a &lt;code>notebooks&lt;/code> folder at the root of your website.&lt;/p>
+&lt;h2 id="import-the-notebooks-into-your-site">Import the notebooks into your site&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">pipx install academic
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">academic import &lt;span class="s1">&amp;#39;notebooks/**.ipynb&amp;#39;&lt;/span> content/post/ --verbose
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The notebooks will be published to the folder you specify above. In this case, they will be published to your &lt;code>content/post/&lt;/code> folder.&lt;/p></description></item></channel></rss>

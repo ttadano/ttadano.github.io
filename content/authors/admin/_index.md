@@ -45,7 +45,7 @@ education:
       year: 2008
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
@@ -73,9 +73,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/CV_Tadano.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

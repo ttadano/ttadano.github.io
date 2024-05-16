@@ -13,7 +13,7 @@ header:
 ---
 
 ## Research groups
-- [Spin theory group, NIMS](https://www.nims.go.jp/mmu/spintheory/) (Only in Japanese)
+- [Spin theory group, NIMS](https://www.nims.go.jp/group/spintheory/) 
 - [CMSM, NIMS](https://www.nims.go.jp/mmu/index.html)
 
 

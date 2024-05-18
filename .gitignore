@@ -8,3 +8,10 @@ jsconfig.json
 node_modules/
 go.sum
 .hugo_build.lock
+
+# Tmporary files
+*.orig
+tmp.bib
+
+# mac
+.DS_Store

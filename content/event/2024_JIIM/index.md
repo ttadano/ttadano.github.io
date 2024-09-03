@@ -1,30 +1,31 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "フォノン計算を用いた有限温度構造の第一原理計算"
-event: "第179回 フロンティア材料研究所学術講演会"
-event_url:
-location: "東京工業大学すずかけ台キャンパス R3棟 1F会議室"
+title: "ハイスループット第一原理計算によるホイスラー合金の物性マップ構築"
+event: "日本金属学会 2024年秋期(第175回）講演大会"
+event_url: https://confit.atlas.jp/guide/event/jimm2024autumn/top
+location: 大阪大学豊中キャンパス
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary:
-abstract:
+summary: 
+abstract: "ホイスラー合金を対象に、網羅的な第一原理計算を実施し、磁性やフォノンの安定を含む包括的な物性マップを構築した。その中から、いくつかの安定な機能材料を見出したので報告する。"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-05-21T15:30:00+09:00
-date_end: 2024-05-21T16:30:00+09:00
+date: 2024-09-18T13:40:00+09:00
+date_end: 2024-09-18T14:00:00+09:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2024-05-16T10:37:24+09:00
+publishDate: 2024-09-03T11:33:57+09:00
 
 authors: 
 - admin
+- XIAO Enda
 tags: []
 
 # Is this a featured event? (true/false)

@@ -1,10 +1,10 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "フォノン計算を用いた有限温度構造の第一原理計算"
-event: "第179回 フロンティア材料研究所学術講演会"
-event_url:
-location: "東京工業大学すずかけ台キャンパス R3棟 1F会議室"
+title: "Computational Exploration of Functional Materials at Finite Temperatures"
+event: "LANL-NIMS Quantum and Functional Materials 2024"
+event_url: https://www.nims.go.jp/mana/2024/index.html
+location: "WPI-MANA Bldg. , Namiki-site, National Institute for Materials Science (NIMS)"
 address:
   street:
   city:
@@ -16,19 +16,19 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-05-21T15:30:00+09:00
-date_end: 2024-05-21T16:30:00+09:00
+date: 2024-10-15T11:35:00+09:00
+date_end: 2024-10-15T12:00:00+09:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2024-05-16T10:37:24+09:00
+publishDate: 2024-09-03T11:34:31+09:00
 
 authors: 
 - admin
 tags: []
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

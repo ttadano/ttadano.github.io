@@ -1,10 +1,10 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "フォノン計算を用いた有限温度構造の第一原理計算"
-event: "第179回 フロンティア材料研究所学術講演会"
-event_url:
-location: "東京工業大学すずかけ台キャンパス R3棟 1F会議室"
+title: "Simulating structural change and phase transitions at finite temperatures: A phonon-based approach"
+event: "The 25th Asian Workshop on First-Principles Electronic Structure Calculations (ASIAN-25)"
+event_url: https://sites.google.com/view/asian-25
+location: "University of Ulsan, Haesong Hall"
 address:
   street:
   city:
@@ -16,19 +16,19 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-05-21T15:30:00+09:00
-date_end: 2024-05-21T16:30:00+09:00
-all_day: false
+date: 2024-10-28T11:34:38+09:00
+date_end: 2024-10-30T11:34:38+09:00
+all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2024-05-16T10:37:24+09:00
+publishDate: 2024-09-03T11:34:38+09:00
 
 authors: 
 - admin
 tags: []
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

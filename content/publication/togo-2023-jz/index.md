@@ -40,7 +40,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:38.375275Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Scientific simulation codes are public property sustained by the community.
   Modern technology allows anyone to join scientific software projects, from anywhere,
   remotely via the internet. The phonopy and phono3py codes are widely used open source

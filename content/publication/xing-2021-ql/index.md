@@ -41,7 +41,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:39.751395Z'
 publication_types:
-- '2'
+- article-journal
 abstract: 'We report the effects of lattice dynamics on the thermodynamic stability
   of binary R 1−x Fe x (0 < x < 1) compounds (R: rare-earth elements, Y, Ce, Nd, Sm,
   and Dy) at finite temperature predicted by first-principles calculation based on

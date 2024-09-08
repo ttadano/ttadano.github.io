@@ -42,7 +42,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:39.986091Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Ultrahigh lattice thermal conductivity materials hold great importance since
   they play a critical role in the thermal management of electronic and optical devices.
   Models using machine learning can search for materials with outstanding higher-order

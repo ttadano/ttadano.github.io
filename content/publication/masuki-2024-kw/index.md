@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2024-09-03T10:00:00.647194Z'
 publication_types:
-- '2'
+- article-journal
 links:
 # - name: "Journal link"
 #   url: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.094102'

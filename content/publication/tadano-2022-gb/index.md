@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2023-06-01T11:39:39.638454Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Understanding and predicting lattice dynamics in strongly anharmonic crystals
   is one of the long-standing challenges in condensed matter physics. Here, we propose
   a first-principles method that gives accurate quasiparticle (QP) peaks of the phonon

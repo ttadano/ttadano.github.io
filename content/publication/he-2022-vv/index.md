@@ -49,7 +49,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:40.100615Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Tin mono-selenide (SnSe) exhibits the world record of thermoelectric conversion
   efficiency ZT in the single crystal form, but the performance of polycrystalline
   SnSe is restricted by low electronic conductivity ($σ$) and high thermal conductivity

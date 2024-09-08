@@ -33,7 +33,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:42.739354Z'
 publication_types:
-- '2'
+- article-journal
 abstract: ''
 publication: '*シミュレーション*'
 ---

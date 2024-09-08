@@ -40,7 +40,7 @@ links:
 projects: []
 publishDate: '2023-07-12T11:39:42.398490Z'
 publication_types:
-- '2'
+- article-journal
 abstract: The soft modes associated with continuous-order phase transitions are associated with strong anharmonicity. This leads to the overdamped limit where the phonon quasi-particle picture can break down. However, this limit is commonly restricted to a narrow temperature range, making it difficult to observe its signature feature, namely the breakdown of the inverse relationship between the relaxation time and damping. Here we present a physically intuitive picture based on the relaxation times of the mode coordinate and its conjugate momentum, which at the instability approach infinity and the inverse damping factor, respectively. We demonstrate this behavior for the cubic-to-tetragonal phase transition of the inorganic halide perovskite CsPbBr3 via molecular dynamics simulations, and show that the overdamped region extends almost 200 K above the transition temperature. Further, we investigate how the dynamics of these soft phonon modes change when crossing the phase transition.
 publication: 'Commun. Phys.'
 ---

@@ -45,7 +45,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:38.034010Z'
 publication_types:
-- '2'
+- article-journal
 abstract: We investigate the role of the quartic anharmonicity in the lattice dynamics
   and thermal transport of the cubic EuTiO3 by combining ab initio self-consistent
   phonon theory with compressive sensing techniques and experimental thermal conductivity

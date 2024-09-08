@@ -38,7 +38,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:40.444262Z'
 publication_types:
-- '2'
+- article-journal
 abstract: We present an ab initio framework to calculate anharmonic phonon frequency
   and phonon lifetime that is applicable to severely anharmonic systems. We employ
   self-consistent phonon (SCPH) theory with microscopic anharmonic force constants,

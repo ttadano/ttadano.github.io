@@ -35,7 +35,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:39.299064Z'
 publication_types:
-- '2'
+- article-journal
 abstract: The lattice dynamics of CsSnX3 (X = Cl, Br, and I) and CsPbI3, which are
   low-thermal-conductivity materials, are investigated using first-principles phonon
   calculations. Because of the strong lattice anharmonicity and the accompanying instability

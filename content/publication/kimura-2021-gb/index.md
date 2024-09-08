@@ -49,7 +49,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:39.412526Z'
 publication_types:
-- '2'
+- article-journal
 abstract: An unusually large thermopower (S) enhancement is induced by heterostructuring
   thin films of the strongly correlated electron oxide LaNiO3. The phonon-drag effect,
   which is not observed in bulk LaNiO3, enhances S for thin films compressively strained

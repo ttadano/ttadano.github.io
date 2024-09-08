@@ -46,7 +46,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:38.488124Z'
 publication_types:
-- '2'
+- article-journal
 abstract: "RESPACK is a first-principles calculation software for evaluating the interaction\
   \ parameters of materials and is able to calculate maximally localized Wannier functions,\
   \ response functions based on the random phase approximation and related optical\

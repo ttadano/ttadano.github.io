@@ -38,8 +38,10 @@ links:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-06-01T11:39:42.285982Z'
+
 publication_types:
-- '2'
+- article-journal
+
 abstract: We calculate the lattice dielectric function of strongly anharmonic rutile
   TiO2 from ab initio anharmonic lattice dynamics methods. Since an accurate calculation
   of the $Γ$ point phonons is essential for determining optical properties, we employ

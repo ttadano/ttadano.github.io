@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2023-07-21T08:23:33.934158Z'
 publication_types:
-- '2'
+- article-journal
 abstract: ''
 publication: '*Phys. Rev. B*'
 doi: 10.1103/PhysRevB.108.014304

@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2024-05-16T01:44:26.799651Z'
 publication_types:
-- '2'
+- article-journal
 links:
 - name: "arXiv"
   url: 'https://arxiv.org/abs/2309.07722'

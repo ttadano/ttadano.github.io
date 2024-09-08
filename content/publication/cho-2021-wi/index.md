@@ -42,7 +42,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:40.899989Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Lead halide perovskite nanocrystals (NCs) have superior photoluminescence
   (PL) properties, such as high PL quantum yields and wide PL wavelength tunability,
   for optoelectronic applications. Here, we report the PL spectra of single formamidinium

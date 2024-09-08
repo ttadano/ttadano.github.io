@@ -38,7 +38,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:37.696680Z'
 publication_types:
-- '2'
+- article-journal
 abstract: We formulate a method of deriving effective low-energy Hamiltonian for nonperiodic
   systems such as interfaces for strongly correlated electron systems by extending
   conventional multi-scale $\textit{ab initio}$ scheme for correlated electrons (MACE).

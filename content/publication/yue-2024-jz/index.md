@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2024-05-16T01:44:27.395095Z'
 publication_types:
-- '2'
+- article-journal
 abstract: ''
 publication: '*Materials Today Physics*'
 doi: 10.1016/j.mtphys.2024.101340

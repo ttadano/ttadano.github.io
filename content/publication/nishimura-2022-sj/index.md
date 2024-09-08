@@ -50,7 +50,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:41.355694Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Abstract Dynamic control of thermal transport in solid materials is highly
   desired for thermal management technology. However, the development of a material
   exhibiting large modulation of thermal conductivity (?) by external stimuli remains

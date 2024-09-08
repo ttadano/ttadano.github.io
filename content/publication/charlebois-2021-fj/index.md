@@ -45,7 +45,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:40.785517Z'
 publication_types:
-- '2'
+- article-journal
 abstract: We present an ab initio derivation method for effective low-energy Hamiltonians
   of material with strong spin-orbit interactions. The effective Hamiltonian is described
   in terms of the Wannier function in the spinor form, and effective interactions

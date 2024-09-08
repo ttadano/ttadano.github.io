@@ -50,7 +50,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:38.827492Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Material properties depend largely on the dimensionality of the crystal
   structures and the associated electronic structures. If the crystal-structure dimensionality
   can be switched reversibly in the same material, then a drastic property change

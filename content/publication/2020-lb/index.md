@@ -33,7 +33,8 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:38.601138Z'
 publication_types:
-- '2'
+- article-journal
+
 abstract: The first-principles phonon calculation is a powerful tool for understanding
   and predicting phonon dynamics in solids. However, the widely used harmonic approximation
   breaks down when the thermal or zero-point amplitude of atomic vibrations becomes

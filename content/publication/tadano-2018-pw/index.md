@@ -37,7 +37,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:42.962943Z'
 publication_types:
-- '2'
+- article-journal
 abstract: We review our recent development of a first-principles lattice dynamics
   method that can treat anharmonic effects nonperturbatively. The method is based
   on the self-consistent phonon theory, and temperature-dependent phonon frequencies

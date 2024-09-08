@@ -37,7 +37,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:43.183245Z'
 publication_types:
-- '2'
+- article-journal
 abstract: ''
 publication: '*Kotai Butsuri*'
 ---

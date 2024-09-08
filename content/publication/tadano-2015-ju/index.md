@@ -38,7 +38,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:43.752069Z'
 publication_types:
-- '2'
+- article-journal
 abstract: We investigate the role of rattling guest atoms on the lattice thermal conductivity
   of a type-I clathrate Ba_8Ga_16Ge_30 by first-principles lattice dynamics. Comparing
   phonon properties of filled and empty clathrates, we show that rattlers cause tenfold

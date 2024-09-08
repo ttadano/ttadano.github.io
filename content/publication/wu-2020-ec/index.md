@@ -40,7 +40,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:37.808667Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Soft phonon modes in strongly anharmonic crystals are often neglected in
   calculations of phonon-related properties. Herein, we experimentally measure the
   temperature effects on the band gap of cubic SrTiO3, and compare with first-principles

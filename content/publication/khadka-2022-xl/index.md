@@ -42,7 +42,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:38.262672Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Abstract Perovskite solar cells (PSCs) with state-of-the-art efficiencies
   contain thermally unstable methylammonium (MA). Here, interfacial passivation with
   pentafluorophenylhydrazine (5F-PHZ) to fabricate efficient and stable MA/Br-free

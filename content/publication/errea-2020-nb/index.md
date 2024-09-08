@@ -47,7 +47,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:41.586128Z'
 publication_types:
-- '2'
+- article-journal
 abstract: 'The discovery of superconductivity at 200 kelvin in the hydrogen sulfide
   system at high pressures1 demonstrated the potential of hydrogen-rich materials
   as high-temperature superconductors. Recent theoretical predictions of rare-earth

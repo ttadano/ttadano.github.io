@@ -39,7 +39,7 @@ links:
 projects: []
 publishDate: '2023-09-15T03:50:02.364773Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Tin-perovskite solar cells (Sn-PSCs) have low energy conversion efficiency
   and stability due to facile oxidation of Sn2+ during precursor solution preparation
   and film growth. Herein, we introduced formohydrazide (FHZ) as a bidentate ligand

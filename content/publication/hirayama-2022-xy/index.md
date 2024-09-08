@@ -38,7 +38,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:37.445453Z'
 publication_types:
-- '3'
+- 'article'
 abstract: We propose silver-based oxides with layered perovskite structure as candidates
   of exhibiting intriguing feature of strongly correlated electrons. The compounds
   show unique covalence between Ag d and O p orbitals with the strong electron correlation

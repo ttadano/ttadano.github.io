@@ -44,7 +44,7 @@ links:
 projects: []
 publishDate: '2023-12-26T03:16:00.461110Z'
 publication_types:
-- '2'
+- article-journal
 abstract: High energy-conversion efficiency ($ZT$) of thermoelectric materials has been
   achieved in heavy metal chalcogenides, but the use of toxic Pb or Te is an obstacle
   for wide applications of thermoelectricity. Here, high $ZT$ is demonstrated in toxic-element

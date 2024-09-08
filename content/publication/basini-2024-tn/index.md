@@ -37,7 +37,7 @@ image:
 projects: []
 publishDate: '2024-05-16T01:44:27.218754Z'
 publication_types:
-- '2'
+- article-journal
 abstract: ''
 publication: '*Nature*'
 doi: 10.1038/s41586-024-07175-9

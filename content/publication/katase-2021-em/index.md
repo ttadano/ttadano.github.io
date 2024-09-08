@@ -53,7 +53,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:43.410815Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Introducing artificial strain in epitaxial thin films is an effective strategy
   to alter electronic structures of transition metal oxides (TMOs) and to induce novel
   phenomena and functionalities not realized in bulk crystals. This study reports

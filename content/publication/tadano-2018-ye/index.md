@@ -39,7 +39,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:39.525496Z'
 publication_types:
-- '2'
+- article-journal
 abstract: We investigate the role of the quartic anharmonicity in the lattice dynamics
   and thermal transport of the type-I clathrate Ba_8Ga_16Ge_30 based on ab initio
   self-consistent phonon calculations. We show that the strong quartic anharmonicity

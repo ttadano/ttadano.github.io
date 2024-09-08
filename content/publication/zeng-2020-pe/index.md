@@ -37,7 +37,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:43.523866Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Two-dimensional (2D) InSe, which exhibits high electron mobility and a wide
   band gap has emerged as a promising material for photoelectric and thermoelectric
   applications. The inadequate understanding of the lattice thermal conductivity ($ąppa$),

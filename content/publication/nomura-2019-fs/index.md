@@ -44,7 +44,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:41.014527Z'
 publication_types:
-- '2'
+- article-journal
 abstract: 'Motivated by the recent experimental discovery of superconductivity in
   the infinite-layer nickelate Nd0.8Sr0.2NiO2 [Li , Nature (London) 572, 624 (2019)10.1038/s41586-019-1496-5],
   we study how the correlated Ni 3dx2−y2 electrons in the NiO2 layer interact with

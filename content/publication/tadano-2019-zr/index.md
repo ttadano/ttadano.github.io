@@ -35,7 +35,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:42.852828Z'
 publication_types:
-- '2'
+- article-journal
 abstract: o̧pyright 2019 The Ceramic Society of Japan. All rights reserved. The cubic-to-tetragonal
   phase transition temperature Tc of SrTiO3 is predicted from first-principles anharmonic
   lattice dynamics simulation. By using the self-consistent phonon approach, we compute

@@ -42,7 +42,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:42.510436Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Longitudinal-optical (LO) mode phonon branches of KCl and NaCl were measured
   using inelastic x-ray scattering (IXS) at 300 K and calculated by the first-principles
   phonon calculation with the stochastic self-consistent harmonic approximation. Spectral

@@ -45,7 +45,7 @@ links:
 projects: []
 publishDate: '2023-08-11T10:59:52.492345Z'
 publication_types:
-- '2'
+- article-journal
 abstract: ''
 publication: '*Phys. Rev. Mater.*'
 ---

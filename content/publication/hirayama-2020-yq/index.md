@@ -43,7 +43,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:40.214530Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Motivated by the recent discovery of superconductivity in the Sr-doped layered
   nickelate NdNiO2, we perform a systematic computational materials design of layered
   nickelates that are dynamically stable and whose electronic structure better mimics

@@ -40,7 +40,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:38.716402Z'
 publication_types:
-- '2'
+- article-journal
 abstract: One of the interesting open questions for the high-transition-temperature
   (Tc) superconductivity in sulfur hydrides is why high-pressure phases of H3S have
   extremely high Tc's. Recently, it has been pointed out that the presence of the

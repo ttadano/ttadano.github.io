@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "[New preprint] Large anomalous Hall effect in spin fluctuating devil’s staircase"
+title: "[New paper] Large anomalous Hall effect in spin fluctuating devil’s staircase"
 subtitle: ""
 summary: ""
 authors: []

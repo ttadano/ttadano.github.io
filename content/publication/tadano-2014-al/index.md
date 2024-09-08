@@ -36,7 +36,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:42.171326Z'
 publication_types:
-- '2'
+- article-journal
 abstract: A systematic method to calculate anharmonic force constants of crystals
   is presented. The method employs the direct-method approach, where anharmonic force
   constants are extracted from the trajectory of first-principles molecular dynamics

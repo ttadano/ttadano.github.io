@@ -37,7 +37,7 @@ image:
 projects: []
 publishDate: '2023-10-18T05:41:24.526369Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Topological insulators and semimetals are an interesting class of materials
   for new electronic and optical applications owing to their characteristic electromagnetic
   responses originating from the spin-orbit coupled band structures. However, topological

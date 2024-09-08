@@ -44,7 +44,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:41.926032Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Machine learning techniques are used to explore the intrinsic origins of
   the hydrodynamic thermal transport and to find new materials interesting for science
   and engineering. The hydrodynamic thermal transport is governed intrinsically by

@@ -37,7 +37,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:41.698944Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Molecular dynamics simulations have been extensively used to study phonons
   and gain insight, but direct comparisons to experimental data are often difficult,
   due to a lack of accurate empirical interatomic potentials for different systems.

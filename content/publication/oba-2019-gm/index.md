@@ -39,7 +39,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:41.470583Z'
 publication_types:
-- '2'
+- article-journal
 abstract: The microscopic origin of the large negative thermal expansion of cubic
   scandium trifluorides (ScF3) is investigated by performing a set of anharmonic free-energy
   calculations based on density functional theory. We demonstrate that the conventional

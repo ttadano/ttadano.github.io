@@ -36,7 +36,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:39.052390Z'
 publication_types:
-- '2'
+- article-journal
 abstract: By applying first-principles Peierls-Boltzmann transport calculations, the
   lattice thermal conductivities of type-I, type-II, and type-VIII silicon clathrates
   are investigated. The lattice thermal conductivity, spectral lattice thermal conductivity,

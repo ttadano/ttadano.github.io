@@ -45,7 +45,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:40.557552Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Abstract Compound semiconductors derived from ZnS (zincblende and wurtzite)
   with tetrahedral framework structures have functions for various applications. Examples
   of such materials include Cu--S-based materials with zincblende-derivative structures,

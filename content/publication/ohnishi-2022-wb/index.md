@@ -40,7 +40,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:38.940124Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Effects of strong phonon anharmonicity of a type-I clathrate Ba8Ga16Sn30
   induced by the quadruple-well potential of guest atoms were investigated. Phonon
   transport including a coherent interbranch component was analyzed using a first-principles-based

@@ -40,7 +40,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:41.813119Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Ultrafast vibrational dynamics of inorganic-organic hybrid lead halide perovskite
   CH3NH3PbI3 in the room-temperature tetragonal phase is investigated under weak photoexcitation
   at the band edge. Time-resolved optical Kerr effect signals exhibit periodic modulations

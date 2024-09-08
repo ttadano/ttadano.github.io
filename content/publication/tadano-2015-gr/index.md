@@ -36,7 +36,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:43.298712Z'
 publication_types:
-- '1'
+- paper-conference
 abstract: We show a first-principles approach for analyzing anharmonic properties
   of lattice vibrations in solids. We firstly extract harmonic and anharmonic force
   constants from accurate first-principles calculations based on the density functional

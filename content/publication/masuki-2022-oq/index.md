@@ -40,7 +40,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:41.129514Z'
 publication_types:
-- '2'
+- article-journal
 abstract: We formulate a theory of thermal expansion based on the self-consistent
   phonon (SCP) theory, which nonperturbatively considers the anharmonic effect. We
   show that the Grüneisen formula holds within the SCP theory by replacing the phonon

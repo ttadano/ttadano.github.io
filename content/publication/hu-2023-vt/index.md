@@ -42,7 +42,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:39.871538Z'
 publication_types:
-- '2'
+- article-journal
 abstract: We demonstrated a reversible two-dimensional (2D) to three-dimensional (3D)
   crystal-structure transition and associated thermal conductivity switching ($ąppa$)
   well above room temperature (RT) in (Sn1--xPbx)S bulk polycrystals, solid solutions

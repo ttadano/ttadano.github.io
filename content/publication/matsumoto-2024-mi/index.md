@@ -1,18 +1,21 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/managing-content/
 
-title: 非調和フォノン理論に基づいた有限温度における結晶構造の第一原理計算
+title: "Emergence of superconductivity at 20 K in Th$_3$P$_4$-type In$_{3-x}$S$_4$ synthesized by Diamond anvil cell with boron-doped Diamond electrodes"
 subtitle: ''
 summary: ''
 authors:
-- Ryota Masuki
-- Takuya Nomoto
-- Ryotaro Arita
-- admin
-tags: ['Japanese', 'review']
+- Ryo Matsumoto
+- Kazuki Yamane
+- Terumasa Tadano
+- Kensei Terashima
+- Toru Shinmei
+- Tetsuo Irifune
+- Yoshihiko Takano
+tags: []
 categories: []
-date: '2023-08-01'
-lastmod: 2023-08-21T20:21:13+09:00
+date: '2024-09-01'
+lastmod: 2024-09-08T12:59:37+09:00
 featured: false
 draft: false
 
@@ -24,19 +27,18 @@ image:
   focal_point: ''
   preview_only: false
 
-links:
-- name: "Publisher page"
-  url: 'https://www.agne.co.jp/kotaibutsuri/kota1058.htm#no690'
-
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-08-21T11:21:13.820006Z'
+publishDate: '2024-09-08T03:59:37.224049Z'
 publication_types:
-- article-journal
+- article
 abstract: ''
-publication: '*Kotai Butsuri*'
+publication: '*arXiv [cond-mat.supr-con]*'
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2409.03409
 ---

@@ -45,7 +45,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:39.168773Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Lead halide perovskite nanocrystals (NCs) have outstanding photoluminescence
   (PL) properties and excellent potential for light-emitting diodes and single-photon
   sources. Here, we report the multiple-peak structures originating from excitons,

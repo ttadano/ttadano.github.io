@@ -40,7 +40,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:37.921271Z'
 publication_types:
-- '2'
+- article-journal
 abstract: ''
 publication: '*Phys. Rev. B*'
 ---

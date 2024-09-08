@@ -33,7 +33,7 @@ url_pdf: 'https://mdcl.issp.u-tokyo.ac.jp/scc/wp/wp-content/uploads/2021/07/2019
 projects: []
 publishDate: '2023-06-01T11:39:42.624170Z'
 publication_types:
-- '4'
+- report
 abstract: ''
 publication: ''
 ---

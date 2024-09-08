@@ -42,7 +42,7 @@ links:
 projects: []
 publishDate: '2023-08-06T10:59:36.036461Z'
 publication_types:
-- '2'
+- article-journal
 abstract: The thermodynamic and magnetic properties of SmFe11Ti and Sm(Fe0.9Co0.1)11Ti,
   which are candidates for the main constituents of rare-earth magnets, were investigated
   by measuring their heat capacities in the range of 2--1050 K. The Curie temperatures,

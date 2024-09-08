@@ -41,7 +41,7 @@ image:
 projects: []
 publishDate: '2023-06-01T11:39:42.055875Z'
 publication_types:
-- '2'
+- article-journal
 abstract: We formulate a first-principle scheme for structural optimization at finite
   temperature (T) based on the self-consistent phonon (SCP) theory, which accurately
   takes into account the effect of strong phonon anharmonicity. The T dependence of

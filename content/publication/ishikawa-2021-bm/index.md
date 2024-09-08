@@ -40,7 +40,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:43.072503Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Modern high-performance permanent magnets are made from alloys of rare earth
   and transition metal elements, and large magnetization is achieved in the alloys
   with a high concentration of transition metals. We applied an evolutionary search

@@ -38,7 +38,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:41.242061Z'
 publication_types:
-- '2'
+- article-journal
 abstract: The tunnel magnetoresistance (TMR) is one of the most important spintronic
   phenomena but its reduction at finite temperature is a severe drawback for applications.
   Here, we reveal a crucial determinant of the drawback, that is, the s-d exchange

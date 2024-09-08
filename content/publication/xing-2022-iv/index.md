@@ -39,7 +39,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:40.671599Z'
 publication_types:
-- '2'
+- article-journal
 abstract: We study the lattice dynamics effects on the phase stability and magnetocrystalline
   anisotropy (MCA) energy of CaCu5-type YCo5 at finite temperatures using first-principles
   calculations based on density functional theory (DFT). Harmonic lattice dynamics

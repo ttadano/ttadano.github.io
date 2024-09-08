@@ -55,7 +55,7 @@ links:
 projects: []
 publishDate: '2023-06-01T11:39:38.149634Z'
 publication_types:
-- '2'
+- article-journal
 abstract: Abstract The development of environmentally benign thermoelectric materials
   with high energy conversion efficiency (ZT) continues to be a long-standing challenge.
   So far, high ZT has been achieved using heavy elements to reduce lattice thermal

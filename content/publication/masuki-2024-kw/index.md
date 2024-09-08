@@ -13,8 +13,8 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2024-04-01'
-lastmod: 2024-05-16T10:44:27+09:00
+date: '2024-09-03'
+lastmod: 2024-09-08T12:43:13+09:00
 featured: false
 draft: false
 
@@ -32,12 +32,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-05-16T01:44:27.010251Z'
+publishDate: '2024-09-03T10:00:00.647194Z'
 publication_types:
 - '2'
-abstract: ''
-publication: ''
 links:
+# - name: "Journal link"
+#   url: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.094102'
 - name: arXiv
   url: https://arxiv.org/abs/2404.00917
+abstract: ''
+publication: '*Phys. Rev. B.*'
+doi: 10.1103/physrevb.110.094102
 ---

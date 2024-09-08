@@ -34,6 +34,9 @@ projects: []
 publishDate: '2024-05-16T01:44:26.799651Z'
 publication_types:
 - '2'
+links:
+- name: "arXiv"
+  url: 'https://arxiv.org/abs/2309.07722'
 abstract: ''
 publication: '*Acta Mater.*'
 doi: 10.1016/j.actamat.2024.119856

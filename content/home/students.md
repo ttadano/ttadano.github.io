@@ -17,6 +17,8 @@ header:
 - Dr. Guangzong Xing, 2020--2022
 
 ## Internship/visiting Students
+- Sakshi Goel (IIT Mandi): Jan. 2025 -- Aug. 2025
+- Zan Yang (Science Tokyo): Jan. 2025 -- Apr. 2025
 - Jubayer Matin (Tokyo Tech): Jan. 2023 -- Feb. 2023
 - Tomohito Amano (Univ. of Tokyo): Jan. 2023
 - [Kenichi Cho](https://sites.google.com/view/kenichi-chos-homepage/) (Kyoto Univ.): Oct. 2022

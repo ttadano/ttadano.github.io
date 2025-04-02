@@ -25,3 +25,4 @@ header:
 - [Ryota Masuki](https://r-masuki.github.io/r-masuki/) (Univ. of Tokyo): Aug. 2021 -- Feb. 2022
 - Xinyi He (Tokyo Tech): Oct. 2020 -- Dec. 2020, Jun. 2021 -- Aug. 2021
 - Hitoshi Mori (Osaka Univ.): Aug. 2020 -- Sep. 2020
+

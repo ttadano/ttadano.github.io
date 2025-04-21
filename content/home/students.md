@@ -1,5 +1,5 @@
 ---
-title: 'Students & PostDocs'
+title: 'PostDocs and Visitors'
 date: 2023-06-01
 show_date: false
 share: false
@@ -14,9 +14,11 @@ header:
 
 ## PostDocs
 - Dr. Enda Xiao, 2023 -- present
-- Dr. Guangzong Xing, 2020--2022
+- Dr. Guangzong Xing, 2020--2022 (currently at NIMTE, China)
 
-## Internship/visiting Students
+## Internship/visiting Scholar
+- Yixin Su (Tohoku Univ.): Apr. 2025
+- Ryoma Asai (Univ. of Tokyo): Apr. 2025
 - Sakshi Goel (IIT Mandi): Jan. 2025 -- Aug. 2025
 - Zan Yang (Science Tokyo): Jan. 2025 -- Apr. 2025
 - Jubayer Matin (Tokyo Tech): Jan. 2023 -- Feb. 2023

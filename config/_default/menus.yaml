@@ -25,7 +25,7 @@ main:
   - name: Talks
     url: 'talks'
     weight: 60
-  - name: Students/Postdocs
+  - name: 'Postdocs/Visitors'
     url: 'home/students'
     weight: 70    
   - name: Links

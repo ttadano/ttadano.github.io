@@ -8,7 +8,8 @@ authors: []
 tags: []
 categories: []
 date: 2025-04-21T11:29:51+09:00
-lastmod: 2025-04-21T11:29:51+09:00
+lastmod: 2025-05-30T11:29:51+09:00
+expiryDate: 2025-05-30T18:00:00+09:00
 featured: true
 draft: false
 

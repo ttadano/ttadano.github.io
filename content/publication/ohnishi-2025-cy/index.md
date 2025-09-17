@@ -1,33 +1,39 @@
 ---
-title: Simultaneous achievement of large anomalous Nernst effect and reduced thermal
-  conductivity in sintered polycrystalline topological Heusler ferromagnets
+title: Database and deep-learning scalability of anharmonic phonon properties by automated
+  brute-force first-principles calculations
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Koichi Oyanagi
-- Hossein Sepehri-Amin
-- Kenta Takamori
+- Masato Ohnishi
+- Tianqi Deng
+- Pol Torres
+- Zhihao Xu
 - admin
-- Takumi Imamura
-- Ren Nagasawa
-- Krishnan Mahalingam
-- Takamasa Hirai
-- Fuyuki Ando
-- Yuya Sakuraba
-- Satoru Kobayashi
-- Ken-Ichi Uchida
+- Haoming Zhang
+- Wei Nong
+- Masatoshi Hanai
+- Zhiting Tian
+- Ming Hu
+- Xiulin Ruan
+- Ryo Yoshida
+- Toyotaro Suzumura
+- Lucas Lindsay
+- Alan J H McGaughey
+- Tengfei Luo
+- Kedar Hippalgaonkar
+- Junichiro Shiomi
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-01-01'
+date: '2025-04-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-04-02T13:35:02.793194Z'
+publishDate: '2025-09-17T02:29:22.954692Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -80,5 +86,7 @@ image:
 projects: []
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2501.09965
+  url: https://arxiv.org/abs/2504.21245
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

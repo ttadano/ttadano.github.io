@@ -1,23 +1,37 @@
 ---
-title: High-throughput computational screening of Heusler compounds with phonon considerations
-  for enhanced material discovery
+title: Control of covalent bond enables efficient magnetic cooling
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Xiao Enda
+- Xin Tang
+- Yoshio Miura
+- Noriki Terada
+- Enda Xiao
+- Shintaro Kobayashi
+- Allan Doring
 - admin
+- Andres Martin-Cid
+- Takuo Ohkochi
+- Shogo Kawaguchi
+- Yoshitaka Matsushita
+- Tadakatsu Ohkubo
+- Tetsuya Nakamura
+- Konstantin Skokov
+- Oliver Gutfleisch
+- Kazuhiro Hono
+- Hossein Sepehri-Amin
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-02-01'
+date: '2025-09-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-04-02T13:35:02.781782Z'
+publishDate: '2025-09-17T02:29:22.918840Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -70,5 +84,7 @@ image:
 projects: []
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2502.17946
+  url: https://arxiv.org/abs/2509.01047
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

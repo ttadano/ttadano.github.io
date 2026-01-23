@@ -60,7 +60,4 @@ abstract: We formulate a method of deriving effective low-energy Hamiltonian for
   expected to provide further insight into the interfacial superconductivity when
   solved with low-energy solvers.
 publication: ''
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/1902.03743
 ---

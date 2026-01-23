@@ -1,48 +1,36 @@
 ---
-title: Control of covalent bond enables efficient magnetic cooling
+title: 'Mechanism of solid ammonia stabilization at ambient temperature: Insights
+  from thermodynamics, phonon calculation, and micromechanics'
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Xin Tang
-- Yoshio Miura
-- Noriki Terada
-- Enda Xiao
-- Shintaro Kobayashi
-- Allan Doring
+- Masao Morishita
 - admin
-- Andres Martin-Cid
-- Takuo Ohkochi
-- Shogo Kawaguchi
-- Yoshitaka Matsushita
-- Tadakatsu Ohkubo
-- Tetsuya Nakamura
-- Konstantin Skokov
-- Oliver Gutfleisch
-- Kazuhiro Hono
-- Hossein Sepehri-Amin
+- Yusuke Matsuoka
+- Taichi Abe
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-09-01'
+date: '2025-12-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-09-17T02:29:22.918840Z'
+publishDate: '2026-01-23T08:21:46.124766Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv [cond-mat.mtrl-sci]*'
+publication: '*ACS Omega*'
 publication_short: ''
 
-doi: ''
+doi: 10.1021/acsomega.5c09165
 
 abstract: ''
 
@@ -82,9 +70,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2509.01047
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

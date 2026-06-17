@@ -1,8 +1,10 @@
 ---
 title: "Publications"
-toc-location: left
+toc: true
+toc-location: right
+toc-depth: 3
+toc-title: "Jump to"
+toc-expand: true
 ---
 
-::: {.pub-list}
 {{< include _gen/publications.md >}}
-:::

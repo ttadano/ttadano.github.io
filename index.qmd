@@ -5,6 +5,7 @@ about:
   template: trestles
   image: assets/avatar.jpg
   image-shape: round
+  image-width: 11em
   links:
     - icon: mortarboard-fill
       text: Google Scholar

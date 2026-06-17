@@ -201,6 +201,26 @@ def by_desc(entries):
     return sorted(entries, key=lambda e: (sort_key(e), e["ID"]), reverse=True)
 
 
+def year_grouped(entries, line_fn):
+    """entries pre-sorted desc; emit '### <year>' subsections with bulleted items
+    (so the page's right-hand TOC lists years)."""
+    out, cur = [], None
+    for e in entries:
+        y = e.get("year") or e.get("date", "")[:4]
+        if y != cur:
+            out.append(f"\n### {y}\n")
+            cur = y
+        out.append(f"- {line_fn(e)}")
+    return "\n".join(out).strip() if out else "*None yet.*"
+
+
+def talk_line_web(e):
+    s = talk_line(e)
+    if e["presentationtype"] != "invited":  # scope shown inline (no scope subsections on web)
+        s = f"*[{'International' if e['scope'] == 'international' else 'Domestic'}]* " + s
+    return s
+
+
 # ---------- main ----------
 def main():
     GEN.mkdir(exist_ok=True)
@@ -212,27 +232,21 @@ def main():
     jour = by_desc([e for e in refs if e["keywords"] == "journal"])
     prep = by_desc([e for e in refs if e["keywords"] == "preprint"])
     revs = by_desc([e for e in refs if e["keywords"] == "review"])
+    # Web page: grouped by type (##) then year (###) so the right-hand TOC lists years.
     (GEN / "publications.md").write_text(
-        "## Journal Articles\n\n" + numbered([pub_line(e) for e in jour])
-        + "\n\n## Preprints\n\n" + numbered([pub_line(e) for e in prep])
-        + "\n\n## Reviews & Book Chapters\n\n" + numbered([pub_line(e) for e in revs]) + "\n",
+        "## Journal Articles\n\n" + year_grouped(jour, pub_line)
+        + "\n\n## Preprints\n\n" + year_grouped(prep, pub_line)
+        + "\n\n## Reviews & Book Chapters\n\n" + year_grouped(revs, pub_line) + "\n",
         encoding="utf-8",
     )
 
     inv = by_desc([e for e in talks if e["presentationtype"] == "invited"])
-    orals = [e for e in talks if e["presentationtype"] == "oral"]
-    posters = [e for e in talks if e["presentationtype"] == "poster"]
-
-    def intl_dom(lst):
-        i = by_desc([e for e in lst if e["scope"] == "international"])
-        d = by_desc([e for e in lst if e["scope"] == "domestic"])
-        return ("### International\n\n" + numbered([talk_line(e) for e in i])
-                + "\n\n### Domestic\n\n" + numbered([talk_line(e) for e in d]))
-
+    orals = by_desc([e for e in talks if e["presentationtype"] == "oral"])
+    posters = by_desc([e for e in talks if e["presentationtype"] == "poster"])
     (GEN / "talks.md").write_text(
-        "## Invited Talks & Seminars\n\n" + numbered([talk_line(e) for e in inv])
-        + "\n\n## Oral Presentations\n\n" + intl_dom(orals)
-        + "\n\n## Poster Presentations\n\n" + intl_dom(posters) + "\n",
+        "## Invited Talks & Seminars\n\n" + year_grouped(inv, talk_line_web)
+        + "\n\n## Oral Presentations\n\n" + year_grouped(orals, talk_line_web)
+        + "\n\n## Poster Presentations\n\n" + year_grouped(posters, talk_line_web) + "\n",
         encoding="utf-8",
     )
 

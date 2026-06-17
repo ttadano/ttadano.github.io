@@ -54,6 +54,8 @@ format:
       light: litera
       dark: darkly
     css: assets/styles.css
+    grid:
+      body-width: 1100px
     toc: true
     toc-depth: 2
     anchor-sections: true

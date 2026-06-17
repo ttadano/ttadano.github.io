@@ -4,13 +4,4 @@
   font-weight: 600;
 }
 
-/* Slightly tighter reading width for long publication/talk lists. */
-main.content {
-  max-width: 62rem;
-}
-
-/* Bold the site owner's name where the converter emits <strong>. */
-.pub-list strong,
-.talk-list strong {
-  font-weight: 700;
-}
+/* Page width is controlled by Quarto's `grid: body-width` in _quarto.yml. */

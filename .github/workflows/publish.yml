@@ -47,13 +47,13 @@ jobs:
       - name: Render site
         run: quarto render
 
-      - name: Assert CJK PDF built (smoke test)
+      - name: Assert CV PDF built (CJK render check)
         run: |
-          test -f _site/cv-smoke.pdf || { echo "::error::cv-smoke.pdf was not produced"; exit 1; }
-          size=$(stat -c%s _site/cv-smoke.pdf)
-          echo "cv-smoke.pdf size: ${size} bytes"
-          if [ "$size" -lt 20000 ]; then
-            echo "::error::cv-smoke.pdf is suspiciously small (${size} bytes) — CJK fonts may be missing"
+          test -f _site/CV_Tadano.pdf || { echo "::error::CV_Tadano.pdf was not produced"; exit 1; }
+          size=$(stat -c%s _site/CV_Tadano.pdf)
+          echo "CV_Tadano.pdf size: ${size} bytes"
+          if [ "$size" -lt 40000 ]; then
+            echo "::error::CV_Tadano.pdf is suspiciously small (${size} bytes) — CJK fonts may be missing"
             exit 1
           fi
 

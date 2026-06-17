@@ -1,13 +1,81 @@
 ---
-title: "Curriculum Vitae"
-toc: false
+title: "Terumasa Tadano"
+subtitle: "Curriculum Vitae"
+date: last-modified
+date-format: "MMMM D, YYYY"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+  pdf:
+    pdf-engine: xelatex
+    CJKmainfont: "Noto Serif CJK JP"
+    geometry: margin=2.3cm
+    fontsize: 11pt
+    colorlinks: true
+    toc: false
+    output-file: "CV_Tadano.pdf"
 ---
 
-::: {.callout-note appearance="simple"}
-**Scaffold placeholder.** A full CV — rendered to both this HTML page and a
-downloadable PDF — will be generated from `references.bib` and `talks.bib`
-(plus structured sections for education, employment, awards, and grants) in Phase 5.
+## Contact
 
-The Japanese (CJK) PDF pipeline this depends on is validated separately by
-`cv-smoke.qmd` (Phase 1).
-:::
+- **Address:** 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan
+- **Phone:** +81 29 859 2332
+- **Email:** terumasa.tadano [at] gmail.com
+
+## Research Interests
+
+Anharmonicity · Thermal transport · Thermoelectrics · Electron–phonon interaction ·
+Permanent magnets · Perovskites · Methodology development · Numerical algorithms
+
+## Education
+
+- **2013** — Ph.D. in Physics, University of Tokyo (Advisor: Prof. Shinji Tsuneyuki)
+- **2010** — M.Sc. in Physics, University of Tokyo (Advisor: Prof. Shinji Tsuneyuki)
+- **2008** — B.Sc. in Physics, Keio University
+
+## Employment
+
+- **Apr 2024 –** Group Leader, National Institute for Materials Science (NIMS), Japan
+- **Apr 2021 – Mar 2024** — Senior Researcher, NIMS, Japan
+- **Apr 2019 – Mar 2021** — Researcher, NIMS, Japan
+- **Jan 2017 – Mar 2019** — ICYS Fellow, NIMS, Japan
+- **Oct 2016 – Dec 2016** — Postdoctoral Researcher, NIMS, Japan
+- **Apr 2015 – Sep 2016** — Postdoctoral Researcher, Dept. of Applied Physics, University of Tokyo (Advisor: Prof. Masatoshi Imada)
+- **Apr 2013 – Mar 2015** — Postdoctoral Researcher, Dept. of Physics, University of Tokyo (Advisor: Prof. Shinji Tsuneyuki)
+
+## Awards
+
+- **Apr 2025** — The 20th NIMS President Award: Research Encouragement
+- **May 2024** — HPCI Software Award for Excellence (First Prize), Development Category
+- **Apr 2024** — The Young Scientists' Award, MEXT
+- **Nov 2021** — Condensed-Matter Science Prize (Theory Division)
+- **Mar 2019** — Young Scientist Award, Physical Society of Japan
+- **Nov 2018** — Best Presentation Award, 38th Electronics Division Meeting of CerSJ
+- **Sep 2017** — ECT2017 Poster Award
+- **Aug 2014** — CSW2014 Young Investigator Award
+
+## Grants
+
+- **Apr 2025 – Mar 2030** — Grant-in-Aid for Transformative Research Areas (A), "Correlation Design Science", MEXT (Co-investigator; PI: Prof. R. Arita)
+- **Apr 2024 – Mar 2027** — Grant-in-Aid for Scientific Research (A), MEXT (Co-investigator; PI: Prof. R. Arita)
+- **Oct 2023 – Mar 2027** — PRESTO, JST
+- **Apr 2023 – Mar 2026** — Grant-in-Aid for Scientific Research (A), MEXT (Co-investigator; PI: Prof. D. Chiba)
+- **Apr 2021 – Mar 2024** — Grant-in-Aid for Scientific Research (C), MEXT
+- **Apr 2020 – Mar 2023** — Grant-in-Aid for Scientific Research (B), MEXT (PI: Dr. Y. Miura)
+- **Oct 2019 – Mar 2022** — Elements Strategy Initiative Center for Magnetic Materials (ESICMM), MEXT
+- **May 2016 – Mar 2021** — Grant-in-Aid for Scientific Research (S), MEXT (PI: Prof. M. Imada)
+- **Jan 2017 – Mar 2019** — NIMS ICYS Research Grant (Internal)
+- **Apr 2016 – Mar 2019** — Grant-in-Aid for Encouragement of Young Scientists (B), MEXT
+
+## Peer-reviewed Papers
+
+{{< include _gen/cv_papers.md >}}
+
+## Reviews & Book Chapters
+
+{{< include _gen/cv_reviews.md >}}
+
+## Invited Talks & Seminars
+
+{{< include _gen/cv_talks.md >}}

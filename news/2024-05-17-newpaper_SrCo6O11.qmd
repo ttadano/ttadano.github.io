@@ -1,0 +1,6 @@
+---
+title: "[New paper] Large anomalous Hall effect in spin fluctuating devil’s staircase"
+date: 2024-05-17
+---
+
+The paper is published in npj Quantum Materials. Link: https://www.nature.com/articles/s41535-024-00653-3

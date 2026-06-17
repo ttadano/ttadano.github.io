@@ -1,0 +1,6 @@
+---
+title: "New paper is published from Commun. Phys."
+date: 2023-07-21
+---
+
+A collaboration paper on overdamped lattice dynamics in CsPbBr$_3$ has been published from **Communications Physics**. Please check https://www.nature.com/articles/s42005-023-01297-8.

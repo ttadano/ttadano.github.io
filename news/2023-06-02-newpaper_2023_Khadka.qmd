@@ -1,0 +1,6 @@
+---
+title: "A new paper on perovskite solar cell is out"
+date: 2023-06-02
+---
+
+A collaboration paper on perovskite solar cell has been published from **Chemitry of Materials**. Please check https://pubs.acs.org/doi/10.1021/acs.chemmater.3c00243

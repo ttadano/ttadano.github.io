@@ -1,0 +1,8 @@
+---
+title: "New paper is published from Phys. Rev. B"
+date: 2023-07-21
+---
+
+A paper predicting a structural phase transition in YCo$_5$ has been published from **Phys. Rev. B**. 
+
+Please check https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.014304.

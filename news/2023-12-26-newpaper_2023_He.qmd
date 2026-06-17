@@ -1,0 +1,8 @@
+---
+title: "[New paper] Inverse-Perovskite Ba$_3$BO (B = Si and Ge) as a High Performance Environmentally Benign Thermoelectric Material with Low Lattice Thermal Conductivity"
+date: 2023-12-26
+---
+
+Published in **Adv. Sci.** <br>
+
+Link: https://onlinelibrary.wiley.com/doi/10.1002/advs.202307058

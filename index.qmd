@@ -18,6 +18,16 @@ about:
     - icon: envelope-fill
       text: Email
       href: "mailto:TADANO.Terumasa@nims.go.jp"
+listing:
+  - id: recent-news
+    contents: "news/2*.qmd"
+    type: table
+    max-items: 5
+    sort: "date desc"
+    fields: [date, title]
+    date-format: "MMM D, YYYY"
+    sort-ui: false
+    filter-ui: false
 ---
 
 ## Biography
@@ -41,6 +51,13 @@ and finite-temperature materials design. He is a principal developer of the
 - **PhD in Physics**, University of Tokyo, 2013
 - **MSc in Physics**, University of Tokyo, 2010
 - **BSc in Physics**, Keio University, 2008
+
+## Recent News
+
+::: {#recent-news}
+:::
+
+[See all news →](news/index.qmd)
 
 ## Contact
 

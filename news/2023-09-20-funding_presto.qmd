@@ -1,0 +1,8 @@
+---
+title: "JSTさきがけ「計測解析基盤」領域に採択されました / My research proposal has been accepted by JST PRESTO in the area of \"Measurement and Analysis Infrastructure"
+date: 2023-09-20
+---
+
+提案課題「有限温度効果の導入で挑む第一原理物性予測の革新」がJSTさきがけ「計測解析基盤」領域に採択されました。
+
+Proposal "Advancing first-principles prediction of physical properties through the introduction of finite-temperature effects" has been accepted by JST PRESTO in the area of "Fundamental Measurement and Analysis".

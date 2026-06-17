@@ -1,0 +1,6 @@
+---
+title: "[New paper] Continuous crossover between insulating ferroelectrics and polar metals: Ab initio calculation of structural phase transitions of Li⁢𝐵⁢O3 (𝐵=Ta, W, Re, Os)"
+date: 2024-09-08
+---
+
+The paper is published in Phys. Rev. B. Link: [10.1103/physrevb.110.094102](https://doi.org/10.1103/physrevb.110.094102)

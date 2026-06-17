@@ -1,0 +1,9 @@
+---
+title: "ALAMODEが2024年度HPCIソフトウェア賞　開発部門　最優秀賞を受賞しました/ALAMODE has been awarded the 2024 HPCI Software Award for Excellence (First Prize) in the Development Category."
+date: 2024-05-29
+---
+
+只野が主要開発メンバーとして開発・公開を行っている非調和フォノン計算ソフトALAMODEが2024年度HPCIソフトウェア賞　開発部門　最優秀賞を受賞しました。
+詳しくは
+https://www.hpci-c.jp/hrdevelop/award.html
+をご覧下さい。

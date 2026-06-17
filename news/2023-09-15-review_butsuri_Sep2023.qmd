@@ -1,0 +1,6 @@
+---
+title: "非調和フォノン計算に関する解説が日本物理学会誌に掲載されました"
+date: 2023-09-15
+---
+
+- <a href="https://www.jstage.jst.go.jp/article/butsuri/78/9/78_542/_article/-char/ja/" title="Link title">非調和フォノン計算による有限温度物性予測の解説記事</a>

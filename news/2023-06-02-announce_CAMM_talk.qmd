@@ -1,0 +1,6 @@
+---
+title: "I will give a talk at CAMM forum"
+date: 2023-06-02
+---
+
+Please have a look at [this page]({{< relref "/event/2023_CAMM" >}}) for more details.

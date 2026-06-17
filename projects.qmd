@@ -2,7 +2,32 @@
 title: "Projects"
 ---
 
-::: {.callout-note appearance="simple"}
-**Scaffold placeholder.** Ongoing and past research projects will be migrated here
-in Phase 4.
-:::
+## Ongoing
+
+- **相関設計で挑む量子創発**  
+  科研費　学術変革領域 (A) (2025~2029年度) (研究代表者：有田 亮太郎)
+- **水素系高温超伝導体の発見に向けたダイヤモンド電極の高圧水素下における挙動解明**  
+  科研費　基盤研究（Ｂ）（2025〜2027年度）（研究代表者：松本 凌）
+- **[超伝導体の第一原理物質設計手法の開発とその応用](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24H00190/)**  
+  科研費　基盤研究 (A) (2024~2026年度) (研究代表者：有田 亮太郎)
+- **[有限温度効果の導入で挑む第一原理物性予測の革新](https://www.jst.go.jp/kisoken/presto/research_area/bunya2023-5.html)**  
+  JSTさきがけ　「計測解析基盤」領域 (2023~2026年度)
+- **計算材料科学が主導するデータ駆動型研究手法の開発とマテリアル革新 (DDCoMS)**  
+  文部科学省　スーパーコンピュータ「富岳」成果創出加速プログラム (2023~2025年度) (研究代表者：久保 百司)
+- **[データ創出・活用型磁性材料研究拠点（DXMag）](https://www.nims.go.jp/DXMag/index.html)**  
+  文部科学省　（2022〜2029年度）(研究代表者：大久保 忠勝)
+
+## Past
+
+- **[スピンエラストロニクス](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23H00183/)**  
+  科研費　基盤研究 (A) (2023~2025年度) (研究代表者：千葉 大地)
+- **[先進フォノン計算を用いたペロブスカイト型材料の熱・光学物性解析](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21K03424/)**  
+  科研費　基盤研究(C) (2021~2023年度)
+- **[スピン輸送現象の有限温度特性に関する理論研究](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20H02190/)**  
+  科研費　基盤研究(B) (2020~2022年度) (研究代表者：三浦 良雄)
+- **[強相関物質設計と機能開拓 －非平衡系・非周期系への挑戦－](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-16H06345/)**  
+  科研費　基盤研究(S) (2016~2020年度) (研究代表者：今田 正俊)
+- **[強相関物質の物性予測と非平衡系・非周期系への展開](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-16H02208/)**  
+  科研費　基盤研究(A) (2016年度) (研究代表者：今田 正俊)
+- **[密度汎関数理論に基づく非調和フォノン物性の数値的研究](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-16K17724/)**  
+  科研費　若手研究(B) (2016~2018年度)

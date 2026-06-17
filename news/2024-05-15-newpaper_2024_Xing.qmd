@@ -1,0 +1,6 @@
+---
+title: "[New Paper] Chemical-substitution-driven giant anomalous Hall and Nernst effects in magnetic cubic Heusler compounds"
+date: 2024-05-15
+---
+
+The paper is published in Acta. Mater. Link: https://doi.org/10.1016/j.actamat.2024.119856

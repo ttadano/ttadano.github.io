@@ -1,0 +1,6 @@
+---
+title: "[New paper] Theoretical Study of the Effect of Lattice Dynamics on the Damping Constant of FePt at Finite Temperature"
+date: 2023-09-15
+---
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.094426

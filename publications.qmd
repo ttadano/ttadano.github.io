@@ -5,6 +5,9 @@ toc-location: right
 toc-depth: 3
 toc-title: "Jump to"
 toc-expand: true
+aliases:
+  - /publication/
+  - /featured/
 ---
 
 {{< include _gen/publications.md >}}

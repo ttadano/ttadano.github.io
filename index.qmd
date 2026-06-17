@@ -29,6 +29,8 @@ listing:
     date-format: "MMM D, YYYY"
     sort-ui: false
     filter-ui: false
+aliases:
+  - /authors/admin/
 ---
 
 ## Biography

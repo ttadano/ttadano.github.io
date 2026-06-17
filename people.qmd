@@ -1,5 +1,8 @@
 ---
 title: "People & Links"
+aliases:
+  - /home/students/
+  - /home/links/
 ---
 
 ## Postdocs

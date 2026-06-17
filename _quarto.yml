@@ -3,6 +3,8 @@ project:
   output-dir: _site
   # Regenerate _gen/*.md from references.bib + talks.bib before each render.
   pre-render: python3 scripts/render_bib.py
+  # Mirror the generated CV to the legacy /uploads/ path for old links.
+  post-render: python3 scripts/copy_cv.py
   # Explicit render list so Quarto ignores the legacy Hugo `content/` tree
   # during the migration. Trimmed at cutover (Phase 6).
   render:

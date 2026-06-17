@@ -26,3 +26,7 @@ tmp.bib
 # Python
 /.venv/
 __pycache__/
+
+# Quarto PDF intermediates (left only on failed render)
+*.tex
+*.log

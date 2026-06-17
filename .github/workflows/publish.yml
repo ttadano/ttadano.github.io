@@ -33,13 +33,16 @@ jobs:
         with:
           tinytex: true
 
-      - name: Set up Python
+      - name: Set up Python (for the bib converter; stdlib-only)
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Install Python deps (bib converter, Phase 3+)
-        run: python -m pip install --upgrade pip bibtexparser
+      # Seed _gen/ before render: Quarto resolves {{< include >}} during project
+      # discovery, which precedes the pre-render hook. (The hook still refreshes
+      # _gen on every render; this just guarantees it exists for a clean build.)
+      - name: Generate bib partials
+        run: python3 scripts/render_bib.py
 
       - name: Render site
         run: quarto render

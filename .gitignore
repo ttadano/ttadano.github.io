@@ -22,3 +22,7 @@ tmp.bib
 
 # mac
 .DS_Store
+
+# Python
+/.venv/
+__pycache__/

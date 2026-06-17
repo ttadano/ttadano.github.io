@@ -221,6 +221,22 @@ def talk_line_web(e):
     return s
 
 
+def collapsible(title, entries):
+    """Posters: collapsed-by-default <details> with bold (non-heading) year labels,
+    so they stay out of the page TOC and are hidden until expanded."""
+    body, cur = [], None
+    for e in entries:
+        y = e.get("date", "")[:4] or e.get("year", "")
+        if y != cur:
+            body.append(f"\n**{y}**\n")
+            cur = y
+        body.append(f"- {talk_line_web(e)}")
+    inner = "\n".join(body).strip()
+    # blank lines around the inner block let Pandoc render it as Markdown inside raw HTML
+    return (f'<details>\n<summary>{title} ({len(entries)}) — click to show</summary>\n\n'
+            f"{inner}\n\n</details>")
+
+
 # ---------- main ----------
 def main():
     GEN.mkdir(exist_ok=True)
@@ -246,7 +262,7 @@ def main():
     (GEN / "talks.md").write_text(
         "## Invited Talks & Seminars\n\n" + year_grouped(inv, talk_line_web)
         + "\n\n## Oral Presentations\n\n" + year_grouped(orals, talk_line_web)
-        + "\n\n## Poster Presentations\n\n" + year_grouped(posters, talk_line_web) + "\n",
+        + "\n\n" + collapsible("Poster Presentations", posters) + "\n",
         encoding="utf-8",
     )
 

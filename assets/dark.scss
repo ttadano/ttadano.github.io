@@ -1,0 +1,59 @@
+/*-- scss:defaults --*/
+// Dark mode = the SAME litera typography (the litera layer is listed first in
+// _quarto.yml), with only the colour palette overridden here. This keeps the
+// font, sizing, and overall layout identical to light mode.
+
+$body-bg:            #1c1f22;
+$body-color:         #d7dbdf;
+$headings-color:     #f4f6f8;
+
+$link-color:         #6cb2eb;
+$link-hover-color:   #9ccdf4;
+
+$border-color:       #3a4046;
+$card-bg:            #25292e;
+$card-cap-bg:        #25292e;
+$card-border-color:  #3a4046;
+
+$code-color:         #e58fb6;
+$table-color:        $body-color;
+$table-border-color: $border-color;
+
+$input-bg:           #25292e;
+$input-color:        $body-color;
+$input-border-color: $border-color;
+$dropdown-bg:        #25292e;
+$dropdown-link-color: $body-color;
+$dropdown-link-hover-color: #ffffff;
+$dropdown-link-hover-bg: #343a40;
+
+/*-- scss:rules --*/
+// Components Bootstrap variables don't fully cover.
+body { background-color: $body-bg; color: $body-color; }
+
+pre, code, .sourceCode, div.sourceCode {
+  background-color: #25292e !important;
+}
+
+blockquote { color: #b6bcc2; border-left-color: $border-color; }
+
+// Right-hand TOC ("Jump to") links
+#quarto-margin-sidebar .nav-link { color: #aab2ba; }
+#quarto-margin-sidebar .nav-link:hover,
+#quarto-margin-sidebar .nav-link.active { color: $link-color; }
+
+// Collapsible poster <details>
+details > summary { color: $link-color; cursor: pointer; }
+
+// Tables / borders
+.table { color: $body-color; }
+hr { border-top-color: $border-color; }
+
+// Top navbar (dark)
+.navbar {
+  background-color: #16181b !important;
+  border-bottom: 1px solid $border-color;
+}
+.navbar .navbar-brand,
+.navbar .nav-link { color: #d7dbdf !important; }
+.navbar .nav-link:hover { color: #ffffff !important; }

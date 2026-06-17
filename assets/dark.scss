@@ -2,43 +2,44 @@
 // Dark mode = the SAME litera typography (the litera layer is listed first in
 // _quarto.yml), with only the colour palette overridden here. This keeps the
 // font, sizing, and overall layout identical to light mode.
+// Palette: a soft dark-blue (navy/slate), not near-black.
 
-$body-bg:            #1c1f22;
-$body-color:         #d7dbdf;
-$headings-color:     #f4f6f8;
+$body-bg:            #222d3d;
+$body-color:         #d6dce5;
+$headings-color:     #eef2f8;
 
-$link-color:         #6cb2eb;
-$link-hover-color:   #9ccdf4;
+$link-color:         #79b8f0;
+$link-hover-color:   #a8d2f7;
 
-$border-color:       #3a4046;
-$card-bg:            #25292e;
-$card-cap-bg:        #25292e;
-$card-border-color:  #3a4046;
+$border-color:       #3a4659;
+$card-bg:            #2a3648;
+$card-cap-bg:        #2a3648;
+$card-border-color:  #3a4659;
 
-$code-color:         #e58fb6;
+$code-color:         #f0a3c4;
 $table-color:        $body-color;
 $table-border-color: $border-color;
 
-$input-bg:           #25292e;
+$input-bg:           #2a3648;
 $input-color:        $body-color;
 $input-border-color: $border-color;
-$dropdown-bg:        #25292e;
+$dropdown-bg:        #2a3648;
 $dropdown-link-color: $body-color;
 $dropdown-link-hover-color: #ffffff;
-$dropdown-link-hover-bg: #343a40;
+$dropdown-link-hover-bg: #34425a;
 
 /*-- scss:rules --*/
 // Components Bootstrap variables don't fully cover.
 body { background-color: $body-bg; color: $body-color; }
 
 pre, code, .sourceCode, div.sourceCode {
-  background-color: #25292e !important;
+  background-color: #2a3648 !important;
 }
 
-blockquote { color: #b6bcc2; border-left-color: $border-color; }
+blockquote { color: #b9c2cf; border-left-color: $border-color; }
 
 // Right-hand TOC ("Jump to") links
-#quarto-margin-sidebar .nav-link { color: #aab2ba; }
+#quarto-margin-sidebar .nav-link { color: #aeb8c6; }
 #quarto-margin-sidebar .nav-link:hover,
 #quarto-margin-sidebar .nav-link.active { color: $link-color; }
 
@@ -49,11 +50,11 @@ details > summary { color: $link-color; cursor: pointer; }
 .table { color: $body-color; }
 hr { border-top-color: $border-color; }
 
-// Top navbar (dark)
+// Top navbar (dark blue)
 .navbar {
-  background-color: #16181b !important;
+  background-color: #1a2433 !important;
   border-bottom: 1px solid $border-color;
 }
 .navbar .navbar-brand,
-.navbar .nav-link { color: #d7dbdf !important; }
+.navbar .nav-link { color: #d6dce5 !important; }
 .navbar .nav-link:hover { color: #ffffff !important; }

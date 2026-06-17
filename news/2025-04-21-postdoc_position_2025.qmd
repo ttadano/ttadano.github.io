@@ -1,11 +1,15 @@
 ---
-title: "Open Postdoc Position / ポスドク研究員を公募しております"
+title: "Open Postdoc Position / ポスドク研究員を公募しております (now closed)"
 date: 2025-04-21
 ---
 
-We are looking for a motivated Postdoc researcher who is interested in developing and applying novel first-principles computational methods or software infrastructure for data-driven approaches.
-For more details, please refer to the following link: https://www.nims.go.jp/eng/employment/data/jd7dl40000009348.html
+::: {.callout-note appearance="simple"}
+**This position is now closed** (applications closed on 2025-05-30).
+:::
 
-学術変革研究(A)「相関設計で挑む量子創発」に関わる研究に携わって頂けるポスドク研究員を公募しております。
+We were looking for a motivated Postdoc researcher who is interested in developing and applying novel first-principles computational methods or software infrastructure for data-driven approaches.
+For more details, please refer to the following link: <https://www.nims.go.jp/eng/employment/data/jd7dl40000009348.html>
+
+学術変革研究(A)「相関設計で挑む量子創発」に関わる研究に携わって頂けるポスドク研究員を公募しておりました。
 詳細は以下のリンクをご覧ください。
-https://www.nims.go.jp/employment/data/jd7dl400000092y5.html
+<https://www.nims.go.jp/employment/data/jd7dl400000092y5.html>

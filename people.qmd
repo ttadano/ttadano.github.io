@@ -1,0 +1,8 @@
+---
+title: "People & Links"
+---
+
+::: {.callout-note appearance="simple"}
+**Scaffold placeholder.** Postdocs, visitors, and useful links will be migrated here
+in Phase 4.
+:::

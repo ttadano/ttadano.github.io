@@ -1,0 +1,10 @@
+---
+title: "News"
+listing:
+  contents: "*.qmd"
+  sort: "date desc"
+  type: default
+  fields: [date, title]
+  date-format: "YYYY-MM-DD"
+  feed: true
+---

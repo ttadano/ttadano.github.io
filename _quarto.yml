@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: _site
+  # Explicit render list so Quarto ignores the legacy Hugo `content/` tree
+  # during the migration. Trimmed at cutover (Phase 6).
+  render:
+    - "*.qmd"
+    - "news/*.qmd"
+
+website:
+  title: "Terumasa Tadano"
+  description: "Computational materials scientist — phonons, thermal transport, and materials design from first principles."
+  site-url: "https://ttadano.github.io"
+  repo-url: "https://github.com/ttadano/ttadano.github.io"
+  google-analytics: "G-48HWEVBSFR"
+  search: true
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: projects.qmd
+        text: Projects
+      - href: people.qmd
+        text: People
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=vo4EZggAAAAJ&hl=en"
+        aria-label: Google Scholar
+      - icon: github
+        href: "https://github.com/ttadano"
+        aria-label: GitHub
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/terumasa-tadano-5b7506172/"
+        aria-label: LinkedIn
+      - icon: envelope-fill
+        href: "mailto:TADANO.Terumasa@nims.go.jp"
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Terumasa Tadano"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: litera
+      dark: darkly
+    css: assets/styles.css
+    toc: true
+    toc-depth: 2
+    anchor-sections: true
+    link-external-newwindow: true

@@ -1,0 +1,8 @@
+---
+title: "Talks & Presentations"
+---
+
+::: {.callout-note appearance="simple"}
+**Scaffold placeholder.** This page will be generated from `talks.bib`
+(invited, oral, and poster presentations) by the pre-render converter in Phase 3.
+:::

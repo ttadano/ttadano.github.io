@@ -9,6 +9,13 @@ node_modules/
 go.sum
 .hugo_build.lock
 
+# Quarto
+/_site/
+/.quarto/
+/_gen/
+*_files/
+.luarc.json
+
 # Tmporary files
 *.orig
 tmp.bib

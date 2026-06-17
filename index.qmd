@@ -1,0 +1,48 @@
+---
+title: "Terumasa Tadano"
+subtitle: "Group Leader, Spin Theory Group · National Institute for Materials Science (NIMS)"
+about:
+  template: trestles
+  image: assets/avatar.jpg
+  image-shape: round
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=vo4EZggAAAAJ&hl=en"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/ttadano"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/terumasa-tadano-5b7506172/"
+    - icon: envelope-fill
+      text: Email
+      href: "mailto:TADANO.Terumasa@nims.go.jp"
+---
+
+## Biography
+
+Terumasa Tadano is a Group Leader of the Spin Theory Group at the National Institute
+for Materials Science (NIMS), Japan. His research develops first-principles and
+data-driven methods for predicting the thermal and transport properties of solids,
+with emphasis on lattice anharmonicity, phonon transport, electron–phonon coupling,
+and finite-temperature materials design. He is a principal developer of the
+[ALAMODE](https://github.com/ttadano/alamode) software for anharmonic lattice dynamics.
+
+## Interests
+
+- Computational materials science
+- Anharmonicity of lattice vibrations
+- Carrier and energy transport
+- Methodology & software development
+
+## Education
+
+- **PhD in Physics**, University of Tokyo, 2013
+- **MSc in Physics**, University of Tokyo, 2010
+- **BSc in Physics**, Keio University, 2008
+
+## Contact
+
+- **Email:** TADANO.Terumasa [at] nims.go.jp
+- **Address:** 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan

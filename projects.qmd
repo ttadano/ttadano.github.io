@@ -1,0 +1,8 @@
+---
+title: "Projects"
+---
+
+::: {.callout-note appearance="simple"}
+**Scaffold placeholder.** Ongoing and past research projects will be migrated here
+in Phase 4.
+:::

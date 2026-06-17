@@ -1,0 +1,39 @@
+---
+title: "CJK PDF Smoke Test"
+format:
+  pdf:
+    pdf-engine: xelatex
+    CJKmainfont: "Noto Serif CJK JP"
+    geometry:
+      - margin=2.5cm
+    fontsize: 11pt
+---
+
+# Purpose
+
+This document exists only to verify that the Quarto → XeLaTeX → PDF pipeline renders
+**Japanese (CJK) text** correctly *in CI* before the real CV is migrated (Phase 5).
+It is not part of the public site navigation.
+
+# English section
+
+Terumasa Tadano — first-principles lattice dynamics, phonon transport, and
+finite-temperature materials design.
+
+# Japanese section / 日本語セクション
+
+只野央将：「非調和フォノン理論が拓く有限温度物性の第一原理計算」，『日本物理学会誌』Vol. 78, 542–547, 2023年.
+
+混在した行：First-principles calculation of 熱伝導率 (lattice thermal conductivity)
+using ALAMODE（アラモード）.
+
+## 出版物リスト（書籍・解説）の例
+
+1. 只野央将：「第一原理計算を用いた熱伝導・電気伝導予測の前線」，『セラミックス』Vol. 59, 779–783, 2024年.
+2. 増木亮太，野本拓也，有田亮太郎，只野央将：「非調和フォノン理論に基づいた有限温度における結晶構造の第一原理計算」，『固体物理』Vol. 58, 419–432, 2023年.
+3. 只野央将：「非調和フォノン物性の第一原理計算」，『応用物理』Vol. 89, 2019年.
+
+# Math check
+
+Anharmonic free energy: $F = F_0 + \sum_{\mathbf{q}} \hbar\omega_{\mathbf{q}}
+\left[ \tfrac{1}{2} + n(\omega_{\mathbf{q}}) \right]$.

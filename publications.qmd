@@ -1,0 +1,9 @@
+---
+title: "Publications"
+---
+
+::: {.callout-note appearance="simple"}
+**Scaffold placeholder.** This page will be generated from `references.bib`
+(journal articles, preprints, reviews & book chapters) by the pre-render converter
+in Phase 3.
+:::

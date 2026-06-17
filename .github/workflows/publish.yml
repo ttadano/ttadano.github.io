@@ -1,0 +1,75 @@
+name: Publish site
+
+on:
+  push:
+    branches: [master, quarto-migration]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment; don't cancel in-progress production deploys.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Noto CJK fonts (for the Japanese PDF CV)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-cjk fonts-noto-cjk-extra
+
+      - name: Set up Quarto (+ TinyTeX)
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python deps (bib converter, Phase 3+)
+        run: python -m pip install --upgrade pip bibtexparser
+
+      - name: Render site
+        run: quarto render
+
+      - name: Assert CJK PDF built (smoke test)
+        run: |
+          test -f _site/cv-smoke.pdf || { echo "::error::cv-smoke.pdf was not produced"; exit 1; }
+          size=$(stat -c%s _site/cv-smoke.pdf)
+          echo "cv-smoke.pdf size: ${size} bytes"
+          if [ "$size" -lt 20000 ]; then
+            echo "::error::cv-smoke.pdf is suspiciously small (${size} bytes) — CJK fonts may be missing"
+            exit 1
+          fi
+
+      - name: Upload Pages artifact
+        if: github.ref == 'refs/heads/master'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  # Deploys to GitHub Pages only from master (post-cutover). Pushing the
+  # quarto-migration branch runs the build + smoke test above but never deploys.
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/master' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,13 @@
+---
+title: "Curriculum Vitae"
+toc: false
+---
+
+::: {.callout-note appearance="simple"}
+**Scaffold placeholder.** A full CV — rendered to both this HTML page and a
+downloadable PDF — will be generated from `references.bib` and `talks.bib`
+(plus structured sections for education, employment, awards, and grants) in Phase 5.
+
+The Japanese (CJK) PDF pipeline this depends on is validated separately by
+`cv-smoke.qmd` (Phase 1).
+:::

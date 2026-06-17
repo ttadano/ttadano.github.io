@@ -69,10 +69,12 @@ GitHub Pages has no server-side redirects → use **Quarto `aliases`** (emit sta
 - Dormant: `publish.yaml` (→`main`, `actions/deploy-pages`) and `import-publications.yml` (HugoBlox bib importer, →`main`).
 - **Decision:** new single `publish.yml` via **`quarto-actions` + `actions/deploy-pages`** (Pages source → “GitHub Actions”). **Remove all three** old workflows at cutover. *(User-approved deploy path.)*
 
-## E. BibTeX schemas — LOCKED (per §3.4 of plan)
+## E. BibTeX schemas — FINAL (refined in Phase 2 after Codex review)
 
-- `references.bib`: required `author,title,year`; `keywords` ∈ {journal, preprint, review, report}; optional `doi,url`.
-- `talks.bib`: required `author,title,year,date,event,location,invited(bool)`; optional `type,scope,url`.
+- `references.bib` (**87 entries**: 70 journal + 5 preprint + 12 review): required `author,title,year`; `keywords` ∈ {journal, preprint, review} (the `report` category was dropped with `tadano-2019-vn`); optional `doi,url,eprint,archiveprefix`.
+- `talks.bib` (**100 entries**: 40 invited + 32 oral + 28 poster): required `author,title,venue,date(ISO, variable precision),year,presentationtype{invited|oral|poster},scope{international|domestic},invited(bool, true iff presentationtype=invited)`; optional `url`.
+  - **Refinements vs the originally-locked schema** (from Codex review): `type`→`presentationtype` (avoids BibLaTeX `type` collision); `event`+`location` merged into a single `venue` (source data doesn't cleanly separate them); dates use variable ISO precision (`YYYY`/`YYYY-MM`/`YYYY-MM-DD`) rather than inventing days; CJK author names brace-protected (`{只野央将}`).
+  - **Sourcing**: invited (40) + recent contributed (8) from structured event folders (reliable ISO dates); older oral/poster from `all_presentations.md`. The Paris HANAMI talk was `featured:false` in its folder but is invited per the CV — corrected (reconciles the 39↔40 gap).
 
 ## F. Phase 0 result — COMPLETE ✅
 

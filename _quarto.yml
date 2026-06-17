@@ -42,7 +42,7 @@ website:
         href: "https://www.linkedin.com/in/terumasa-tadano-5b7506172/"
         aria-label: LinkedIn
       - icon: envelope-fill
-        href: "mailto:TADANO.Terumasa@nims.go.jp"
+        href: "index.html#contact"
         aria-label: Email
   page-footer:
     left: "© 2026 Terumasa Tadano"

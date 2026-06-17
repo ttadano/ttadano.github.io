@@ -18,7 +18,7 @@ about:
       href: "https://www.linkedin.com/in/terumasa-tadano-5b7506172/"
     - icon: envelope-fill
       text: Email
-      href: "mailto:TADANO.Terumasa@nims.go.jp"
+      href: "#contact"
 listing:
   - id: recent-news
     contents: "news/2*.qmd"
@@ -62,5 +62,16 @@ and finite-temperature materials design. He is a principal developer of the
 
 ## Contact
 
-- **Email:** TADANO.Terumasa [at] nims.go.jp
+- **Email:** <span id="contact-email"><noscript>TADANO.Terumasa [at] nims.go.jp</noscript></span>
 - **Address:** 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan
+
+```{=html}
+<script>
+// Assemble the address at runtime so it never appears as raw text in the source.
+(function () {
+  var e = atob("VEFEQU5PLlRlcnVtYXNhQG5pbXMuZ28uanA=");
+  var s = document.getElementById("contact-email");
+  if (s) { s.innerHTML = '<a href="mailto:' + e + '">' + e + '</a>'; }
+})();
+</script>
+```

@@ -9,12 +9,20 @@ format:
     toc-depth: 2
   pdf:
     pdf-engine: xelatex
-    CJKmainfont: "Noto Serif CJK JP"
     geometry: margin=2.3cm
     fontsize: 11pt
     colorlinks: true
     toc: false
     output-file: "CV_Tadano.pdf"
+    # Pick whichever CJK font is installed: Noto (CI/Linux) -> Hiragino (macOS)
+    # -> Yu Mincho. Avoids hard-coding a font that may be absent locally.
+    include-in-header:
+      text: |
+        \usepackage{xeCJK}
+        \IfFontExistsTF{Noto Serif CJK JP}{\def\cjkfont{Noto Serif CJK JP}}{%
+          \IfFontExistsTF{Hiragino Mincho ProN}{\def\cjkfont{Hiragino Mincho ProN}}{%
+            \def\cjkfont{YuMincho}}}
+        \expandafter\setCJKmainfont\expandafter{\cjkfont}
 ---
 
 ## Contact

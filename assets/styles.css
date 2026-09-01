@@ -5,3 +5,27 @@
 }
 
 /* Page width is controlled by Quarto's `grid: body-width` in _quarto.yml. */
+
+/* Recent-news listing table (index.qmd).
+   Quarto ships `.quarto-listing-table a { word-break: keep-all }`, which stops
+   CJK titles from breaking at all, so a long title forces the table wider than
+   the page and squeezes the date column onto two lines. Let titles wrap, and
+   pin the date column to a width that keeps "Sep 1, 2026" on one line. */
+.quarto-listing-table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.quarto-listing-table a {
+  word-break: normal;
+  overflow-wrap: anywhere;
+}
+
+.quarto-listing-table th:first-child,
+.quarto-listing-table td:first-child {
+  width: 7.5rem;
+}
+
+.quarto-listing-table .listing-date {
+  white-space: nowrap;
+}
